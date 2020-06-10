@@ -6,6 +6,7 @@ layout: post
 link: http://juanjosefernandez.com/2020/03/28/3-june-13th-2020-3/
 slug: 3-june-13th-2020-3
 title: <3 June 13th, 2020 <3
+image: "/assets/images/save_the_date.jpg" 
 wordpress_id: 2817
 categories:
 - Life
