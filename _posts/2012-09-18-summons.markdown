@@ -1,0 +1,14 @@
+---
+author: crinkledcomix
+comments: true
+date: 2012-09-18 08:51:03+00:00
+layout: post
+link: http://juanjosefernandez.com/2012/09/18/summons/
+slug: summons
+title: Summons
+wordpress_id: 1072
+categories:
+- Center For Cartoon Studies
+---
+
+[![](http://fernandezjuanjose.files.wordpress.com/2012/09/summons-web.png)](http://fernandezjuanjose.files.wordpress.com/2012/09/summons-web.png)

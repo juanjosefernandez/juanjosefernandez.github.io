@@ -1,0 +1,27 @@
+---
+author: crinkledcomix
+comments: true
+date: 2013-02-18 01:59:47+00:00
+layout: post
+link: http://juanjosefernandez.com/2013/02/18/sumi/
+slug: sumi
+title: Sumi
+wordpress_id: 1600
+categories:
+- Center For Cartoon Studies
+- Comics
+tags:
+- basho
+- haiku
+- sumi
+---
+
+This comic was produced for the Time Parcel Service anthology in the Winter of 2012. I tried reverse engineering the landscape depictions from Kevin Huizenga’s _Case 0003128-24_, found in the collection put out by Drawn and Quarterly, [Curses](http://www.copaceticcomics.com/comics/curses). I was exploring the idea of how it was that [Basho](http://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D) arrived at the following haiku.
+
+
+along the mountain road
+somehow it tugs at my heart-
+a wild violet
+
+
+[![cover_sumi](http://fernandezjuanjose.files.wordpress.com/2013/02/cover_sumi.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/cover_sumi.gif)![1-SUMI-_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/1-sumi-_merged.gif) [![2-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/2-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/2-sumi_merged.gif) [![3-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/3-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/3-sumi_merged.gif) [![4-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/4-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/4-sumi_merged.gif) [![5-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/5-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/5-sumi_merged.gif) [![6-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/6-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/6-sumi_merged.gif) [![7-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/7-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/7-sumi_merged.gif) [![8-SUMI_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/8-sumi_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/8-sumi_merged.gif) [![9-SUMI-(basho-poem)_merged](http://fernandezjuanjose.files.wordpress.com/2013/02/9-sumi-basho-poem_merged.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/9-sumi-basho-poem_merged.gif)
