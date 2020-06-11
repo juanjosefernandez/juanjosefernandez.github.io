@@ -33,13 +33,13 @@ If you're interested in seeing some the junk I'm churning out, check out [my tum
 
 So, if I haven't told you this in the past couple of days, Pittsburgh, I love you. 42 hours on the road and 46 hours in the city and every minute was precious. I really needed the trip.
 
-I spent the weekend with my good friends [Tim Sherman ](http://www.timsherman.com/)and [Caitlin Boyle](http://sadsadkiddie.tumblr.com/) and got the special treat of being their helper monkey as they built arcade cabinets with the New York City game collective, [babycastles](http://babycastles.com/). The weekend saw the glorious housing of two fun games, the [TOASTMOTHER](http://www.timsherman.com/portfolio/toastmother/) (Tara Helfer and Tim Sherman) and the sleeper hit, Trampoline Goat (Caitlin Boyle and Tim Sherman).
+I spent the weekend with my good friends [Sylvie Sherman ](http://www.timsherman.com/)and [Caitlin Boyle](http://sadsadkiddie.tumblr.com/) and got the special treat of being their helper monkey as they built arcade cabinets with the New York City game collective, [babycastles](http://babycastles.com/). The weekend saw the glorious housing of two fun games, the [TOASTMOTHER](http://www.timsherman.com/portfolio/toastmother/) (Tara Helfer and Sylvie Sherman) and the sleeper hit, Trampoline Goat (Caitlin Boyle and Sylvie Sherman).
 
 Babycastles did some workshops on cabinet building and gave a talk about their history as an organization. They're stupendously nice people with an amazing outlook on creating. Although I've never programmed any games before, the fine folks at Babycastles have lit a fire to do so. DIY or die.
 
 Here are some photos from the work on Saturday and Sunday.
 
-**Tim Sherman working on the Toastmother Cabinet.**
+**Sylvie Sherman working on the Toastmother Cabinet.**
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/img_20121005_200413.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/10/img_20121005_200413.jpg)
 
@@ -47,7 +47,7 @@ Caitlin and the two beautiful cabinets that we transformed to house the **Toastm
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/img_20121005_164933-1.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/10/img_20121005_164933-1.jpg)
 
-And here you can have a look at the one and only, **Trampoline Goat**. Trampoline Goat was a game that Caitlin and Tim churned out in an hour while at CMU. The game was astonishingly popular. The premise is simple: Move left and right to stay on the trampoline. Collect Tomato Soup cans and avoid the bluebirds that race across the screen to bring your downfall. The record for the night was 18 points (soup cans collected in mid-air).
+And here you can have a look at the one and only, **Trampoline Goat**. Trampoline Goat was a game that Caitlin and Sylvie churned out in an hour while at CMU. The game was astonishingly popular. The premise is simple: Move left and right to stay on the trampoline. Collect Tomato Soup cans and avoid the bluebirds that race across the screen to bring your downfall. The record for the night was 18 points (soup cans collected in mid-air).
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/a4oirwzccaenbgx.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/10/a4oirwzccaenbgx.jpeg)
 
@@ -61,9 +61,9 @@ Finally, why not have a gander at the space we were in.
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/img_20121006_184444.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/10/img_20121006_184444.jpg)
 This was all during the annual VIA Media Festival, so Pittsburgh was really hoppin'.
 
-Additionally, I got to catch and help out with a visual performance by Tim that he did for the DJ duo [Tiger and Woods](http://vimeo.com/39913770).
+Additionally, I got to catch and help out with a visual performance by Sylvie that she did for the DJ duo [Tiger and Woods](http://vimeo.com/39913770).
 
-To give you an idea as to how much I like Tim's visual work, I often go to shows solely for his VJing.
+To give you an idea as to how much I like Sylvie's visual work, I often go to shows solely for his VJing.
 
 I caught some performances, danced my ass off and got to see a bunch of my friends. Given that practically anyone who knew anything about anything was in East Liberty for VIA that weekend, I didn't have to go too far to see folks. Hug after hug after hug, the weekend did me a lot of good.
 

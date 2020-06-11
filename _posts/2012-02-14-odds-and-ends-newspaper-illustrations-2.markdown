@@ -10,8 +10,8 @@ wordpress_id: 536
 old: true
 ---
 
-[caption id="attachment_537" align="aligncenter" width="590" caption="Support grows for the boycott of Elsevier, the academic Jour"][![](http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg)**Support grows for the boycott of Elsevier, the academic Journal**
 
-[caption id="attachment_538" align="aligncenter" width="590" caption="Plans for CMU's participation in a national competition for energy and water conservation."][![](http://fernandezjuanjose.files.wordpress.com/2012/02/light-and-water.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/02/light-and-water.jpg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2012/02/light-and-water.jpg)**Plans for CMU's participation in a national competition for energy and water conservation.**
 
-[caption id="attachment_541" align="aligncenter" width="590" caption="the end of an occupation? Click to see the actual image. Weird file issues...."][![](http://fernandezjuanjose.files.wordpress.com/2012/02/occupy1.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/02/occupy1.jpg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2012/02/occupy1.jpg)**the end of an occupation? Click to see the actual image. Weird file issues....**

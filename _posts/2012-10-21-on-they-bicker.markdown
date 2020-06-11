@@ -17,6 +17,7 @@ tags:
 - sun
 - wind
 old: true
+image: "http://fernandezjuanjose.files.wordpress.com/2012/10/bicker-3_web1.jpg" 
 ---
 
 As promised, here's my newest comic, **On They Bicker**. It's a little rough around the edges, but it tells a story and that's what comics are about, right? I'd love to hear what you think of it.

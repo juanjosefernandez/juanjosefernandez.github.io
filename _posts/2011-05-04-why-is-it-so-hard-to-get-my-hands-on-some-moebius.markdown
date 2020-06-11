@@ -20,7 +20,7 @@ Although it is autobiographical, I'm not going the Jeffrey Brown route and just 
 
 I like the form that I'll be giving this little booklet. It's going to be a handsewn booklet with handmade covers that will have 6 panels in a 3 x 2 formation in the spread.  Here's a picture to go with the description.
 
-[caption id="attachment_43" align="aligncenter" width="590" caption="A mock up of the comic"][![](http://fernandezjuanjose.files.wordpress.com/2011/05/doodles-juan-1.jpeg)](http://fernandezjuanjose.files.wordpress.com/2011/05/doodles-juan-1.jpeg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2011/05/doodles-juan-1.jpeg)**A mock up of the comic**
 
 I've never done an autobiographical comic, so this feels a little indulgent. Oh well, 've got to try everything at least once.
 

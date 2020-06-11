@@ -18,7 +18,7 @@ Regarding PIX:
 
 I shared a table with the ever talented aspiring animator, [Tara Helfer](http://tarahelfer.com/). I caught up with all of the great folks that I met at the Toonseum during 24Hour Comics, added a taste of my inky flavor to a jam comic with Nick Marino and Wayne Wise, and got to share some tastily prepared sweet and tangy chipped ham with everyone present. I sold out of "Balance" and plenty of copies "Old Conrad" made their way into PIX attendees hands.
 
-[caption id="attachment_336" align="alignleft" width="590" caption="Selling "Bü's Mansion""][![](http://fernandezjuanjose.files.wordpress.com/2011/10/photo-1.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/10/photo-1.jpg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2011/10/photo-1.jpg)**Selling "Bü's Mansion**
 
 ![](http://fernandezjuanjose.files.wordpress.com/2011/10/tara.jpg)
 
@@ -32,6 +32,6 @@ Additionally, I picked up some original art from[ Wayno](http://waynocartoons.bl
 
 A real highlight for me was the panel that occurred on Sunday afternoon. Bill Boichel brought together Jason Little, Tom Scioli, John Porcellino, Jim Rugg and Ed Piskor. The panel focused on the nature of the importance of  local comics scenes and how to develop environments that foster them. Above all, the panel focused on networking.
 
-[caption id="attachment_338" align="alignleft" width="590" caption="The panelists and the audience"][![](http://fernandezjuanjose.files.wordpress.com/2011/10/296667_2504827261478_1276903976_3048920_1123746453_n.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/10/296667_2504827261478_1276903976_3048920_1123746453_n.jpg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2011/10/296667_2504827261478_1276903976_3048920_1123746453_n.jpg)**The panelists and the audience**
 
 Given that this is my second year at PIX, I'm very happy to have a clear cut reference point to mark off my growth as a cartoonist. I had lots more to sell and knew far many more exhibitors and guests than the previous year.

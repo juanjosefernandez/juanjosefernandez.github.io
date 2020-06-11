@@ -21,13 +21,12 @@ I did my best Frank Santoro/Bill Boichel impersonation and brought comics to th
 
 I've been collecting and curating a wide array of zines and comics that express the vision of visual literacy that I'd like to see more of in the world. Among those collected comics, I also sell comics that I've helped produce, my own and those of the Pittsburgh Comics Salon. It's a healthy mix.
 
-I like to make it concretely clear to people, through in-person experience, that, yes, whatever you're into, there's a comic or zine you're going to love. It's nice to proselytize as a vendor, not just an educator or artist. I'll be setting up shop with this set around town some more in the coming months, so keep your eyes peeled.
+I like to make it concretely clear to people, through in-person experience, that, yes, whatever you're into, there's a comic or zine you're going to love. It's nice to proselytize as a vendor, not just an educator or artist. I'll be setting up shop with this set around town some more in the coming months, so keep your eyes peeled. test
 
-[gallery ids="2628,2629,2630,2627,2626" type="rectangular"]
+![Image of friends buying comics](/assets/images/blog/pullproofMarket1.png)
 
 A huge thank you to PULLPROOF, Christina Lee in specific, for inviting me and hosting this event. This is the kind of selling and sharing of comics and culture I want to see more of in Pittsburgh.
 
-[gallery ids="2624,2632" type="rectangular"]
-
+![Image of the PULLPROOF SPACE and Christina Lee and Aaron Regal](/assets/images/blog/pullproofMarket2.png)
 
 _IMAGE + WORD = CULTURE_

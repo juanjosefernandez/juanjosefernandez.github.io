@@ -74,7 +74,7 @@ Naturally, by this point of the weekend I was beat. All of the previous week, I 
 
 
 
-[caption id="attachment_92956" align="aligncenter" width="872"][![](http://comicsworkbook.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-18-at-3.31.03-PM.png)](http://comicsworkbook.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-18-at-3.31.03-PM.png) Pittsburgh Zine Fair 2018 - photo by Di-ay Battad[/caption]
+[![](http://comicsworkbook.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-18-at-3.31.03-PM.png)](http://comicsworkbook.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-18-at-3.31.03-PM.png) **Pittsburgh Zine Fair 2018 - photo by Di-ay Battad**
 
 
 In it’s eight iteration, the zine fair is a real community production. For example we don’t get access to the space until 1pm, so the first 15 minutes is us all collectively working together to get all 38 tables set up and to get all exhibitors in their spots! It’s a zine fair so we fly low to the ground and are super agile/flexible. Despite that, it was still a super stressful 15 minutes this year. Thankfully, exhibitors Max Gonzalez and Jerome Charles stepped up and helped me direct folks to where tables needed to go. And, as per usual everyone was game to lend a hand and make it happen. And, make it happen we did.

@@ -20,7 +20,6 @@ I have a great deal of respect for him and hope to create comics as nuanced as h
 
 To see some of his work, [visit his page.](http://www.submarinesubmarine.com/p/comics.html)
 
-[caption id="attachment_475" align="aligncenter" width="590" caption="Joe Lambert: poster design for JoyTeeth nib and india ink, brush pen, color in photoshop"][![](http://fernandezjuanjose.files.wordpress.com/2012/01/4585337305_123f292184_o.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/01/4585337305_123f292184_o.jpeg)[/caption]
-
+![](http://fernandezjuanjose.files.wordpress.com/2012/01/4585337305_123f292184_o.jpeg)**Joe Lambert: poster design for JoyTeeth nib and india ink, brush pen, color in photoshop**
 
 Keep drawing, y'all!

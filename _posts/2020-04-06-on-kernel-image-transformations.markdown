@@ -1,5 +1,5 @@
 ---
-author: crinkledcomix
+author: Juan Jose Fernandez
 comments: true
 date: 2020-04-06 21:02:49+00:00
 layout: post
@@ -22,15 +22,7 @@ tags:
 
 I'd like to share the paper I wrote for my senior thesis in linguistics from Carnegie Mellon University, [**Kernel Image Transformations: **An exploration of transformational grammar in visual language](https://fernandezjuanjose.files.wordpress.com/2020/04/thesis-juan-fernandez-kernel-image-transformations.pdf). My advisor for this was the ever helpful and patient, Thomas Werner. A huge thank you to him for helping me cross the finish-line on this.
 
-
-
-
 [![](https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.31-pm.png)](https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.31-pm.png)
-
-
-
-
-
 
 So, what's it about? Well, essentially it's a playfully pedantic look at what is going on at the granular level of communicative drawing. My goal here is to show the degree of intuitive meaning based knob twiddling that is involved when a drawer's brain is set to work on communicating meaning.
 Why did I spend a ton of time working on this? Bottom-line, I hadn't seen this done. So, rather than keep looking for someone to talk about this in a way that made sense to me, I sought to make my own way.
@@ -44,21 +36,7 @@ To get to the nuts and bolts of it, this paper presents a linguistic exploration
 Big picture-wise, this paper  presents an exploratory catalogue of transformations of a single kernel image which I feel illuminate the array of processes involved in the grammatical and semantic composition used by the cartoonist.
 It covers locational, temporal, and aspectual transformations. Altogether, this review shows how the kernel image transformation framework is especially revealing when trying to understand the observably systematized rules that are at play in a cartoonist’s encoding of meaning into sequences of visual language.
 
-
-
-
-
-
-
-
-
-
-
-[caption id="attachment_2848" align="aligncenter" width="640"][![](https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png)](https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png) This is an example what the guts of this paper are like.[/caption]
-
-
-
-
+[![](https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png)](https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png) *This is an example what the guts of this paper are like.*
 
 
 If that sounds interesting, be my guest and check it out! [

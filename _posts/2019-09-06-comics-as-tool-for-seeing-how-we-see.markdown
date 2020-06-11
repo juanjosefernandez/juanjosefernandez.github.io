@@ -1,5 +1,5 @@
 ---
-author: crinkledcomix
+author: Juan Jose Fernandez
 comments: true
 date: 2019-09-06 18:10:00+00:00
 layout: post
@@ -36,13 +36,13 @@ Why do we cartoon the way we do? Is there a biological reason for it? I believe 
 
 I recently read an article on the first [anatomically accurate mathematical model that explains how vision is possible](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)**.** It was interesting. It’s a model that recognizes how we can create such seemingly rich visual depictions of the world in our mind despite there only being just 10 or so nerve cells that connect the retina to the visual cortex. The part that really got to me was the idea that these 10 Lateral Genticulate Nucleus cells are scarce and can’t do much. They send a pulse to the visual cortex when they detect a change from dark to light, or vice versa, in their tiny section of the visual field. And that’s it. On. Off.
 
-[caption id="attachment_2755" align="aligncenter" width="739"][![](https://fernandezjuanjose.files.wordpress.com/2019/09/dynamical-vision_2500_lede.jpg?w=739)](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/) Information from the eye passes through a bottleneck before it gets to the brain’s visual cortex, which heavily processes the sparse signal. - DVDP for Quanta Magazine[/caption]
+[![](https://fernandezjuanjose.files.wordpress.com/2019/09/dynamical-vision_2500_lede.jpg?w=739)](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/) **Information from the eye passes through a bottleneck before it gets to the brain’s visual cortex, which heavily processes the sparse signal. - DVDP for Quanta Magazine**
 
 From blips of information, we build the world in our minds. This struck me.
 
 In essence, the world that we “see” is a reconstruction that your mind makes up. Therefore, the neural cortex must process these simple signals in a way that builds + creates representational models of the world. I imagine that there might be a procedural grammar to vision. What does the process of this reconstruction look like? What abstractions are used to model it in our "mind’s eye"? How can we understand what this might look like?
 
-[caption id="attachment_2751" align="aligncenter" width="709"][![Figure 3.7](https://fernandezjuanjose.files.wordpress.com/2019/09/diapositive33.jpg?w=709)](https://fernandezjuanjose.files.wordpress.com/2019/09/diapositive33.jpg) Reading in the Brain - Stanislas Dehaene Figure 3.7[/caption]
+[![Figure 3.7](https://fernandezjuanjose.files.wordpress.com/2019/09/diapositive33.jpg?w=709)](https://fernandezjuanjose.files.wordpress.com/2019/09/diapositive33.jpg) **Reading in the Brain - Stanislas Dehaene Figure 3.7**
 
 I believe that comics offer us a mirror to see an expression of the tendencies and limits of our biology. That we can glean the beginnings of what such a grammar may look like by analyzing the cross-cultural visual syntaxes of comics from around the world. It can offer theories that can guide further research.
 In a sense, comics are especially equipped to help us see how we see. I wish to clarify my use of the word equipped. Comics don't exist outside of us. We created them. As such, it is our mental apparatus that has equipped them with this capacity.
@@ -57,7 +57,7 @@ This is important in that it provides an analogous process to how we process sou
 
 [ Ray Jackendoff](https://ase.tufts.edu/cogstud/jackendoff/)'s research is especially interesting in this front - He has always straddled the boundary between [generative linguistics](https://en.wikipedia.org/wiki/Generative_linguistics) and [cognitive linguistics](https://en.wikipedia.org/wiki/Cognitive_linguistics), committed to both the existence of an innate [universal grammar](https://en.wikipedia.org/wiki/Universal_grammar) (an important thesis of generative linguistics) and to giving an account of language that is consistent with the current understanding of the human mind and [cognition](https://en.wikipedia.org/wiki/Cognitive_processes) (the main purpose of cognitive linguistics).
 
-[caption id="attachment_2753" align="aligncenter" width="556"][![Ray Jackendoff - Foundations of Language: Structure of a simple sentence. Fig. 1.1](https://fernandezjuanjose.files.wordpress.com/2019/09/jackendoff-foundations_of_language-structure_of_simple_sentence.png)](https://fernandezjuanjose.files.wordpress.com/2019/09/jackendoff-foundations_of_language-structure_of_simple_sentence.png) Ray Jackendoff - Foundations of Language: Structure of a simple sentence. Fig. 1.1[/caption]
+[![Ray Jackendoff - Foundations of Language: Structure of a simple sentence. Fig. 1.1](https://fernandezjuanjose.files.wordpress.com/2019/09/jackendoff-foundations_of_language-structure_of_simple_sentence.png)](https://fernandezjuanjose.files.wordpress.com/2019/09/jackendoff-foundations_of_language-structure_of_simple_sentence.png) **Ray Jackendoff - Foundations of Language: Structure of a simple sentence. Fig. 1.1**
 
 So what? How does affect us on a level of readers and makers of comics?
 

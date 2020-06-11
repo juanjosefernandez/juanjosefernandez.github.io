@@ -1,5 +1,5 @@
 ---
-author: crinkledcomix
+author: Juan Jose Fernandez
 comments: true
 date: 2019-09-09 08:03:31+00:00
 layout: post
@@ -21,13 +21,7 @@ tags:
 
 The other night, over dinner here in Pittsburgh, Jenn and I were talking about making autobio comics and she asked “Are comics mostly writing? Only?”. It made me stop in my tracks.
 
-
-
-
 **That’s a good question.**
-
-
-
 
 To me, comics are more writing than they are drawing. That writing process, though, is one that far different from this common notion:
 
@@ -42,21 +36,7 @@ And the drawing? In comics, the drawing is really about the recording of images.
 
 
 <blockquote>
-
-> 
-> _I just heard someone say that the dirty secret of comics is that it is mostly writing and if you haven’t done good writing all you made was a pretty picture._
-> 
-> 
-
-> 
-> _And everything in me wants to dispute that._
-> 
-> 
-
-> 
-> _It isn’t that cut and dry to me. -_ Jenn Lisa
-> 
-> 
+I just heard someone say that the dirty secret of comics is that it is mostly writing and if you haven’t done good writing all you made was a pretty picture. And everything in me wants to dispute that. It isn’t that cut and dry to me. - Jenn Lisa
 </blockquote>
 
 

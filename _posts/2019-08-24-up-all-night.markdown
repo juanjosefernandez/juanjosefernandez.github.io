@@ -1,5 +1,5 @@
 ---
-author: crinkledcomix
+author: Juan Jose Fernandez
 comments: true
 date: 2019-08-24 00:46:06+00:00
 layout: post
@@ -37,30 +37,26 @@ I have a hard time having clear memories of this time. Stitching the timeline of
 
 It's 2019 and things have gotten better. A lot better. In the next post I'll write about the things that happened between 2013-2019 that brought me back into alignment. Until then though, I want to leave you with a deeply comforting poem by the late Mary Oliver, Wild Geese. This beloved poem touches on several of the ideas that helped me heal psychologically, physically and spiritually. I'll dig into them next time. Until then, I hope you enjoy it and find some light in it.
 
-
-**Wild Geese**** **
-
-
-You do not have to be good.
-You do not have to walk on your knees
-For a hundred miles through the desert, repenting.
-You only have to let the soft animal of your body
-love what it loves.
-Tell me about despair, yours, and I will tell you mine.
-Meanwhile the world goes on.
-Meanwhile the sun and the clear pebbles of the rain
-are moving across the landscapes,
-over the prairies and the deep trees,
-the mountains and the rivers.
-Meanwhile the wild geese, high in the clean blue air,
-are heading home again.
-Whoever you are, no matter how lonely,
-the world offers itself to your imagination,
-calls to you like the wild geese, harsh and exciting —
-over and over announcing your place
+**Wild Geese** -Mary Oliver
+>You do not have to be good.\
+You do not have to walk on your knees\
+For a hundred miles through the desert, repenting.\
+You only have to let the soft animal of your body\
+love what it loves.\
+Tell me about despair, yours, and I will tell you mine.\
+Meanwhile the world goes on.\
+Meanwhile the sun and the clear pebbles of the rain\
+are moving across the landscapes,\
+over the prairies and the deep trees,\
+the mountains and the rivers.\
+Meanwhile the wild geese, high in the clean blue air,\
+are heading home again.\
+Whoever you are, no matter how lonely,\
+the world offers itself to your imagination,\
+calls to you like the wild geese, harsh and exciting —\
+over and over announcing your place\
 in the family of things.
 
--Mary Oliver
 
 With love,
 

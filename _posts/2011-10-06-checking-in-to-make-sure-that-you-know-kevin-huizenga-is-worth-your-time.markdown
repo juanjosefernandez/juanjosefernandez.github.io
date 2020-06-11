@@ -22,4 +22,4 @@ Folks, I'm bogged down by linguistics classes, managing WRCT and printing and bi
 
 Oh and if you're looking for a good time on Tuesday nights, tune into WRCT Pittsburgh for my show [Juan on Juan](http://www.wrct.org/show/599/). I cohost it with my great friend Juan Lafontaine, but he doesn't show up until the last 15 minutes to play some tightly rerubbed disco. I tend to play 60's soul and ambient electronic of the Japanese variety. It's a blessing to be able to such a fun show with such a fun loving guy. Call the request line and I'd love to talk to you.
 
-[caption id="attachment_326" align="alignleft" width="500" caption="From Ganges 3"][![](http://fernandezjuanjose.files.wordpress.com/2011/10/kevin-huizenga-ganges-03.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/10/kevin-huizenga-ganges-03.jpg)[/caption]
+![](http://fernandezjuanjose.files.wordpress.com/2011/10/kevin-huizenga-ganges-03.jpg)**From Ganges 3**
