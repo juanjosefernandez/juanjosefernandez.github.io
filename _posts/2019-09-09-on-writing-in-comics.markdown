@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2019/09/09/on-writing-in-comics/
 slug: on-writing-in-comics
 title: On "writing" in comics.
 wordpress_id: 2745
+image: "http://comicsworkbook.com/wp-content/uploads/2018/03/ALTERNATEVERSIONTheSpeechCyclefeedbackloop.jpg"
 categories:
 - Comics
 - Linguistics
@@ -110,7 +111,7 @@ The signal interpreted by the listener's brain CAN be the same one that you are 
 
 
 
-[caption id="attachment_90208" align="aligncenter" width="552"][![](http://comicsworkbook.com/wp-content/uploads/2018/03/ALTERNATEVERSIONTheSpeechCyclefeedbackloop.jpg)](http://comicsworkbook.com/wp-content/uploads/2018/03/ALTERNATEVERSIONTheSpeechCyclefeedbackloop.jpg) 1. Signal initiates in speaker’s brain. 5. Signal interpreted by listener’s brain. 2. Signal articulated by the speech organs. motor. neurons. ear. sensory. neurons. 3. Sound waves travel through the air. sensory. neurons. 4. Listener detects the sound waves. feedback loop. ear. Linguistics 450/550: Introduction to Phonetics Slides by Richard Wright & Dan McCloy, University of Washington.[/caption]
+![](http://comicsworkbook.com/wp-content/uploads/2018/03/ALTERNATEVERSIONTheSpeechCyclefeedbackloop.jpg)]1. Signal initiates in speaker’s brain. 5. Signal interpreted by listener’s brain. 2. Signal articulated by the speech organs. motor. neurons. ear. sensory. neurons. 3. Sound waves travel through the air. sensory. neurons. 4. Listener detects the sound waves. feedback loop. ear. Linguistics 450/550: Introduction to Phonetics Slides by Richard Wright & Dan McCloy, University of Washington.[/caption]
 
 
 But no matter what, their brain is going to interpret a signal. The realization was a breakthrough. You don't have to worry about there not being anything on the other end. There will ALWAYS be something. You just have to focus on how accurately and uniformly you want that something to be experienced across readers.

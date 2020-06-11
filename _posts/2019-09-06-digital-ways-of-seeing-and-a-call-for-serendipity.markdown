@@ -6,6 +6,7 @@ layout: post
 link: http://juanjosefernandez.com/2019/09/06/digital-ways-of-seeing-and-a-call-for-serendipity/
 slug: digital-ways-of-seeing-and-a-call-for-serendipity
 title: Digital Ways of Seeing and a call for Serendipity
+image: "http://comicsworkbook.com/wp-content/uploads/2017/01/pd_banner_magnified_0.png"
 wordpress_id: 2742
 categories:
 - Linguistics

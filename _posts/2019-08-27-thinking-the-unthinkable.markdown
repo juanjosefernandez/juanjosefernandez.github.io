@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2019/08/27/thinking-the-unthinkable/
 slug: thinking-the-unthinkable
 title: Thinking the Unthinkable
 wordpress_id: 2709
+image: "https://i.ytimg.com/vi/oUaOucZRlmE/maxresdefault.jpg"
 categories:
 - Comics
 - Science

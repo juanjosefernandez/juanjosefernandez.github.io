@@ -18,6 +18,7 @@ tags:
 - ray jackendoff
 - syntax
 - vision
+image: https://fernandezjuanjose.files.wordpress.com/2019/09/dynamical-vision_2500_lede.jpg?w=739
 ---
 
 _These are further reflections on thoughts from a previous post to help me prepare my thoughts for a talk that I'm giving at the [Small Press Expo in Bethesda, Maryland.](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)_

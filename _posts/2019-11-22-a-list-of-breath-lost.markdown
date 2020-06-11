@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2019/11/22/a-list-of-breath-lost/
 slug: a-list-of-breath-lost
 title: A list of breath lost
 wordpress_id: 2799
+image: "https://fernandezjuanjose.files.wordpress.com/2019/11/59546519749__cfb60dc3-6d01-4949-957d-b1d0b98f3016.jpg"
 categories:
 - Comics
 - Linguistics

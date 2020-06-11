@@ -6,7 +6,7 @@ layout: post
 link: http://juanjosefernandez.com/2020/04/06/on-kernel-image-transformations/
 slug: on-kernel-image-transformations
 title: On Kernel Image Transformations
-image: "/assets/images/mscott.png" 
+image: "https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png" 
 wordpress_id: 2833
 categories:
 - Comics
