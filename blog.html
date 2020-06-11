@@ -3,19 +3,13 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
-<div>
-SEARCH
-</div>
-
 {%- if site.posts.size > 0 -%}
-<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+<!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
 <ul class="post-list">
 
   {%- for post in site.posts -%}
       <li>
-        {%- if post.image -%}
-        <img src={{post.image}} class="banner"/>
-        {%- endif -%}
+        
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -23,6 +17,9 @@ SEARCH
             {{ post.title | escape }}
           </a>
         </h3>
+        {%- if post.image -%}
+        <img src={{post.image}} class="banner"/>
+        {%- endif -%}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

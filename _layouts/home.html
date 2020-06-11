@@ -15,9 +15,6 @@ layout: default
 
       {%- for post in site.posts limit:10 -%}
           <li>
-            {%- if post.image -%}
-            <img src={{post.image}} class="banner"/>
-            {%- endif -%}
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>
@@ -25,6 +22,9 @@ layout: default
                 {{ post.title | escape }}
               </a>
             </h3>
+            {%- if post.image -%}
+            <img src={{post.image}} class="banner"/>
+            {%- endif -%}
             {%- if site.show_excerpts -%}
               {{ post.excerpt }}
             {%- endif -%}

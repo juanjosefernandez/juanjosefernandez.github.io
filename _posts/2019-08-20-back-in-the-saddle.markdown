@@ -6,6 +6,7 @@ layout: post
 link: http://juanjosefernandez.com/2019/08/20/back-in-the-saddle/
 slug: back-in-the-saddle
 title: Back in the Saddle
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cmu_panorama.jpg/1500px-Cmu_panorama.jpg"
 wordpress_id: 2673
 ---
 

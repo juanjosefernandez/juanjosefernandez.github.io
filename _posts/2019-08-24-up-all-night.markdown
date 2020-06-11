@@ -6,6 +6,7 @@ layout: post
 link: http://juanjosefernandez.com/2019/08/24/up-all-night/
 slug: up-all-night
 title: Up all night
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gradient_of_a_Function.tif/lossy-page1-560px-Gradient_of_a_Function.tif.jpg"
 wordpress_id: 2702
 ---
 
