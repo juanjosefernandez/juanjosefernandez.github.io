@@ -9,6 +9,7 @@ title: 'Comics Corner #1'
 wordpress_id: 2641
 categories:
 - Comics
+old: true
 ---
 
 

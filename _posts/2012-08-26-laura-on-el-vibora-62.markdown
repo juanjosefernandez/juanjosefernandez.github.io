@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/08/26/laura-on-el-vibora-62/
 slug: laura-on-el-vibora-62
 title: 'Laura on El Vibora #62'
 wordpress_id: 981
+old: true
 ---
 
 Just something I thought I'd share. Drawn by Laura in 1984, ain't it a beauty?

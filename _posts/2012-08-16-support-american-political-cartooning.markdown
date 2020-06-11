@@ -9,6 +9,7 @@ title: Support American Political Cartooning
 wordpress_id: 926
 categories:
 - Comics
+old: true
 ---
 
 The Toonseum, Pittsburgh's non-profit cartoon art museum has a new project that you folks might fancy.

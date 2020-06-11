@@ -11,6 +11,7 @@ tags:
 - comics
 - dog city
 - schulz library
+old: true
 ---
 
 ![](http://24.media.tumblr.com/09c210a3f3573d73f8d425df5e5bc41a/tumblr_muuj6tx7av1rc4waeo1_500.gif)

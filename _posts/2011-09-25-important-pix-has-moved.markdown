@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2011/09/25/important-pix-has-moved/
 slug: important-pix-has-moved
 title: Important PIX Has Moved!
 wordpress_id: 285
+old: true
 ---
 
 The Pittsburgh Indy Comics expo has moved locations. The Expo will now be happening in the heart of the cultural hustle and bustle of Pittsburgh that will be happening on the weekend of the 8th of October.

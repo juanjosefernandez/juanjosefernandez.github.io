@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2013/06/03/occupy-gezi-this-is-nuts-here-are-
 slug: occupy-gezi-this-is-nuts-here-are-some-resources
 title: Occupy Gezi - this is nuts - here are some resources
 wordpress_id: 2034
+old: true
 ---
 
 I normally don't post non-comics related things, but this is important.

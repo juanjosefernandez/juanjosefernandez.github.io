@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2015/09/03/pcs-september-side-a/
 slug: pcs-september-side-a
 title: 'PCS: September - Side A'
 wordpress_id: 2524
+old: true
 ---
 
 _Daunted and Freed by the Script_

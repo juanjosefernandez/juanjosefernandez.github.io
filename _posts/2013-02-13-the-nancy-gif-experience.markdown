@@ -13,6 +13,7 @@ tags:
 - bushmiller
 - ernie bushmiller
 - nancy
+old: true
 ---
 
 A fellow CCS student and friend, [Luke Healy](http://www.lukewhealy.com), and I have started putting together a collection of Nancy gifs that channel our love for Bushmiller's world. We've just started, but we hope to go far!

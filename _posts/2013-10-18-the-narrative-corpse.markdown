@@ -13,6 +13,7 @@ categories:
 tags:
 - narrative corpse
 - schulz library
+old: true
 ---
 
 [![archives_2](http://www.cartoonstudies.org/schulz/blog/wp-content/uploads/2013/10/archives_2.gif)](http://www.cartoonstudies.org/schulz/blog/wp-content/uploads/2013/10/archives_2.gif)

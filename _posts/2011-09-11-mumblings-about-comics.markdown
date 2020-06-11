@@ -9,6 +9,7 @@ title: Mumblings about Comics
 wordpress_id: 249
 categories:
 - Comics
+old: true
 ---
 
 I’d like to think that I’m as full of gripes about cartooning as Crumb, Spiegelman and Brunetti, but I’m miles away from being the self deprecating curmudgeon that seems to be the norm in the world of cartoonists.

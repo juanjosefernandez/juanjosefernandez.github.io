@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2011/05/15/the-travel-begins/
 slug: the-travel-begins
 title: The Travel Begins
 wordpress_id: 169
+old: true
 ---
 
 Lena and I are off to Spain in some hours, so I thought I'd give you a little morsel to remember me by.

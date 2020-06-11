@@ -9,6 +9,7 @@ title: 'New Project: Analyzing how folks read comics'
 wordpress_id: 596
 categories:
 - Comics
+old: true
 ---
 
 The biggest thing that I've been up to here in the ivory tower is work related to developing a way to quantifiably analyze how people read comics.

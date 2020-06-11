@@ -14,6 +14,7 @@ tags:
 - dog city
 - illustration
 - small press
+old: true
 ---
 
 [![tumblr_inline_mlabe0M1Aa1qj37il](http://fernandezjuanjose.files.wordpress.com/2013/04/tumblr_inline_mlabe0m1aa1qj37il.png)](http://fernandezjuanjose.files.wordpress.com/2013/04/tumblr_inline_mlabe0m1aa1qj37il.png)

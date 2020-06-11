@@ -10,6 +10,7 @@ wordpress_id: 2148
 tags:
 - comics
 - lenticular
+old: true
 ---
 
 This is a sneak peak at the files I'm using to print a new series of comics!

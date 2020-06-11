@@ -15,6 +15,7 @@ tags:
 - cartooning
 - comics
 - pittsburgh
+old: true
 ---
 
 I'm excited to relay the following announcement from Little Tired Press regarding the newest issue of Andromeda and it's transition to a quarterly publication:

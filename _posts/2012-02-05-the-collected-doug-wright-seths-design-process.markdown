@@ -11,6 +11,7 @@ categories:
 - Comics
 - Process
 - Reviews
+old: true
 ---
 
 Holy moley macaroley! A recent article on the Comics Journal shares Seth's design process on the beautiful _The Collected Doug Wright._ If you're interested in a book designer's process work, [check it out. ](http://www.tcj.com/creating-a-personal-vernacular-canadian-design-style-the-collected-doug-wright/)

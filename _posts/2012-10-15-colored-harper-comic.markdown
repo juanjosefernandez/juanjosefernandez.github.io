@@ -13,6 +13,7 @@ categories:
 tags:
 - charley harper
 - comics
+old: true
 ---
 
 Happy Monday to all y'all. Here're the finished colors on the Charley Harper comic.![](http://fernandezjuanjose.files.wordpress.com/2012/10/harper_thick_cmyk.jpg)

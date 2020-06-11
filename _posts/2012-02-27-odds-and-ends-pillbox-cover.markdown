@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/02/27/odds-and-ends-pillbox-cover/
 slug: odds-and-ends-pillbox-cover
 title: 'Odds and Ends: Pillbox Cover'
 wordpress_id: 583
+old: true
 ---
 
 I've recently been working on covers for the Tartan's arts and culture magazine, Pillbox. I'm using this as a way to teach myself the basics of visual composition, clean illustration and strong typography. Hopefully the Tartan let's me keep making the covers. They're nice challenges.

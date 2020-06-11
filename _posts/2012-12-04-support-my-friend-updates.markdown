@@ -9,6 +9,7 @@ title: Support my friend + Updates
 wordpress_id: 1386
 categories:
 - Comics
+old: true
 ---
 
 My friend, [Rachel Dukes](http://www.mixtapecomics.com/?page_id=6), is running an Indie Go Go Campaign to reprint some old work along with some brand spanking new comics. If you're a fan of Coffee, Cats or Comics you'll definitely want to check out her work. She's got a spritely line that sits on the page like a familiar friend. She warrants paying attention to.

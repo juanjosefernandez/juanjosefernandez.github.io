@@ -10,6 +10,7 @@ wordpress_id: 525
 categories:
 - Comics
 - Music
+old: true
 ---
 
 Don't have much to say today, so I thought I'd let Frank Santoro do the talking. He's out doing a West Coast Layout Tour, which, by the looks of it, seems to be going really well for him.

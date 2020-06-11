@@ -9,6 +9,7 @@ title: Appreciating Bruce Timm
 wordpress_id: 414
 categories:
 - Comics
+old: true
 ---
 
 I'll be honest with you, Batman bores me unless he's drawn by Bruce Timm. Ok, ok, you've got others like [Mazzucchelli](http://en.wikipedia.org/wiki/Batman:_Year_One) and [Josh Simmons](http://www.joshuahallsimmons.com/batman.html) that also make Batman stories that blow the competition out of the water, but Timm distills and re-contextualizes the essence of Batman and the world of Gotham in his drawings spectacularly in a way that I've seen no other artist capable of replicating.

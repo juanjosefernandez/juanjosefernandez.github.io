@@ -9,6 +9,7 @@ title: P-p-prototypin'
 wordpress_id: 215
 categories:
 - Process
+old: true
 ---
 
 Chuggin' along prototyping the mini-comics for SPX, CCS, PIX and the Pittsburgh zine fair.

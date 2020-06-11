@@ -13,6 +13,7 @@ categories:
 tags:
 - abstract comics
 - brecht evens
+old: true
 ---
 
 Here's a little experiment for Jason Lutes' Cartooning Studio. The goal is to evoke an intense emotional experience. Can you guess what I'm attempting to depict?

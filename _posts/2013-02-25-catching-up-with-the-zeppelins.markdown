@@ -14,6 +14,7 @@ tags:
 - children's books
 - Quinton Blake
 - watercolors
+old: true
 ---
 
 For the past week I've been hunkered down working on a children's book pitch to hopefully make to some publishers. Here's a peek at the cover that I've been working on. I had to choose between two stories that came to me one night. I arrived at these primarily based on the principle of catchy titles. I reckoned the stories would flow from there.

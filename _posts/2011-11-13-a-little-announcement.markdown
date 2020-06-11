@@ -9,6 +9,7 @@ title: A little announcement.
 wordpress_id: 365
 categories:
 - Center For Cartoon Studies
+old: true
 ---
 
 [caption id="attachment_366" align="aligncenter" width="400" caption="Here I come."][![](http://fernandezjuanjose.files.wordpress.com/2011/11/cartoon-studies-small.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/11/cartoon-studies-small.jpg)[/caption]

@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Process
+old: true
 ---
 
 Everyday, a little more gets accomplished. The physical comic now exists digitally (Enjoy it at your leisure.) I learned my lesson from the previous Bü Kowski story and have made sure that the flow of pages makes sense on your computer monitors. In Pittsburgh I'll be printing the comics, seeing as how the printer here in Cleveland isn't the hottest on the block. Good enough to make a prototype, though. It will be printed on a soft sandy colored paper to further the agricultural theme.

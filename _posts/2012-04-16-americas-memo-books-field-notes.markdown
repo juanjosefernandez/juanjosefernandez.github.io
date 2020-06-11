@@ -9,6 +9,7 @@ title: 'America''s Memo Books: Field Notes'
 wordpress_id: 772
 categories:
 - Notebooks
+old: true
 ---
 
 Here's a promo video for the new line of Field Notes memo books. The theme this time around is a celebration of America's Agricultural heritage. **From Seed** is the name of the line.

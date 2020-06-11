@@ -9,6 +9,7 @@ title: 90 Minutes of Nothing But Burns
 wordpress_id: 704
 categories:
 - Comics
+old: true
 ---
 
 I'm busy, but you deserve a post, dear reader.

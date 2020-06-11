@@ -9,6 +9,7 @@ title: 'Andy Bleck: Check ''im out'
 wordpress_id: 303
 categories:
 - Reviews
+old: true
 ---
 
 I discovered Andy Bleck's abstract comics 2 years ago, bumbling through the internet via Bill Boichel's aggregated links on Copacetic Comics. The moment I saw them, I knew that there was something special. I saved a couple of files on my computer, not knowing that a year down the line, I'd be using them to explore the concept of abstract narration and drawing as the filtering of moving form.

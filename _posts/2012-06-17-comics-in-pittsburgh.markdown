@@ -9,6 +9,7 @@ title: Comics in Pittsburgh
 wordpress_id: 813
 categories:
 - Comics
+old: true
 ---
 
 'ey y'all. The next coming posts are going to be juicy so hold on to your butts.

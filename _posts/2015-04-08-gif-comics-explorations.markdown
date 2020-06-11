@@ -12,6 +12,7 @@ categories:
 tags:
 - collage
 - gif
+old: true
 ---
 
 I've been exploring animating comics. I'm above all in making comics that encourage the viewer to "read" animations. GIFs in comics tend to be a novelty, a background texture. These thoughts are rough. I'd love to hear what any one reading this has to say about the intersection of animation and comics.

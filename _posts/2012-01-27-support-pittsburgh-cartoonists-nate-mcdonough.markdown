@@ -9,6 +9,7 @@ title: 'Support Pittsburgh Cartoonists: Nate McDonough'
 wordpress_id: 490
 categories:
 - Comics
+old: true
 ---
 
 Show the Pittsburgh cartooning scene some love and help  make Nate McDonough's graphic novel Don't Come Back a reality.

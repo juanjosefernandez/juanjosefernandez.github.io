@@ -12,6 +12,7 @@ categories:
 tags:
 - IKB
 - Yves Klein
+old: true
 ---
 
 This comic was produced for the Time Parcel Service anthology in the Winter of 2012. This story is about one of my favorite anecdotal stories in the life of [Yves Klein](http://en.wikipedia.org/wiki/Yves_Klein).

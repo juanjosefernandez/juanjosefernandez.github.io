@@ -9,6 +9,7 @@ title: 'VIA 2012: Pittsburgh''s Freshest Fest'
 wordpress_id: 1064
 categories:
 - Music
+old: true
 ---
 
 VIA 2012 is coming up on the horizon! A festival that's just as much a tech and culture laboratory, VIA's bringing talented folks from around the world to do what they do best for a whole week. From workshops, performances, interactive art, dance free-for-alls, VIA has been the root of some of my greatest experiences in Pittsburgh.

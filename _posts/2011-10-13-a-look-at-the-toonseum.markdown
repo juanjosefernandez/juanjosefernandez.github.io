@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2011/10/13/a-look-at-the-toonseum/
 slug: a-look-at-the-toonseum
 title: A look at the Toonseum
 wordpress_id: 345
+old: true
 ---
 
 Check out this look at the Toonseum.

@@ -11,6 +11,7 @@ tags:
 - form
 - materiality
 - semiotics
+old: true
 ---
 
 As you might know, I'm an advocate for print. You might also know that when I'm trying to come up with new stories, the way in which I typically dive into the endeavor is to choose a form that I'd like to work in. **Form always dictates a new story**. If I'm unsure of whether or not the story works, I simply ask myself if  it feels right in the vessel that's transmitting the story. More often than not, this is the reason why my stories don't cross over too well on the digital landscape. Nevertheless, it's a fluid creative process that avoids insurmountable creative blocks.

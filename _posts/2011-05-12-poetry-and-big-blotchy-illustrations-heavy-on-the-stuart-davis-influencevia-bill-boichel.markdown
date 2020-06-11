@@ -10,6 +10,7 @@ title: Poetry and big blotchy illustrations. Heavy on the Stuart Davis influence
 wordpress_id: 158
 categories:
 - Comics
+old: true
 ---
 
 Here's a link to my most recent work: a [poetry chap book](http://fernandezjuanjose.files.wordpress.com/2011/05/poetry-chap-book.pdf). I'd written some poems, so I thought that I would put them together. Of course, to keep it as viscerally entertaining as anything else, and to make it a little more obtuse, I illustrated the work. Nothing spectacular, but it was a great exercise in using Adobe Indesign. I'd never used it, but thanks to youtube video tutorials, Adobe's help online, patience and persistence, it was finished. I can now proudly say that If I need to print anything comics wise I don't need to figure it out all on paper and then transfer it to Photoshop. As old fashioned as that might be, no one had taught me anything else. Hell, no one taught me how to paginate. So, as all things in the world of one, trial and error and then some happy accidents (like the portrait I did on the third page of my beloved Lena's dear poodle, Einstein.)

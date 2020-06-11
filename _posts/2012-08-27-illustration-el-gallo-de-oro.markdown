@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/08/27/illustration-el-gallo-de-oro/
 slug: illustration-el-gallo-de-oro
 title: 'Illustration: El Gallo De Oro'
 wordpress_id: 1016
+old: true
 ---
 
 As you may know, I do illustrations for Carnegie Mellon University's newspaper, the Tartan. I like the weekly illustration challenge as I improve my drawing chops, especially because I get to see the images go to print.

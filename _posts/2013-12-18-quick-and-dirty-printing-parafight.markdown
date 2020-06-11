@@ -14,6 +14,7 @@ tags:
 - Process
 - screen printing
 - tape worm
+old: true
 ---
 
 [![tumblr_mxxhe8zJQb1rc4waeo1_1280](http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg)](http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg)

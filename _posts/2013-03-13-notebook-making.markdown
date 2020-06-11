@@ -9,6 +9,7 @@ title: Notebook making
 wordpress_id: 1686
 categories:
 - Notebooks
+old: true
 ---
 
 A notebook that fits in your breast pocket is a thing of beauty.

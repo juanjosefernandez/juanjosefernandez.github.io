@@ -9,6 +9,7 @@ title: Schulz will make any poor sap's heart melt
 wordpress_id: 497
 categories:
 - Comics
+old: true
 ---
 
 <blockquote>

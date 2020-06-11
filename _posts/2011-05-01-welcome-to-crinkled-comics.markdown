@@ -7,10 +7,10 @@ link: http://juanjosefernandez.com/2011/05/01/welcome-to-crinkled-comics/
 slug: welcome-to-crinkled-comics
 title: Welcome To Crinkled Comics
 wordpress_id: 15
+old: true
 categories:
 - Center For Cartoon Studies
 ---
-
 Well, hello there.
 
 It's a genuine pleasure to have you over in my cozy little corner of the internet. I hope you made it here safely. This blog is dedicated to documenting my progress in comics. You'll find sketches, process work, finished comics, interviews with artists and little updates about my life. I'm not a webcomics artist, so don't expect regular postings of strips. At least, not here.
@@ -21,4 +21,4 @@ I'll be sure to put together a post that contains all of the content that was be
 
 And now, to continue working on the pencils for my CCS application comic. Have a great one.
 
-[caption id="attachment_16" align="aligncenter" width="590" caption="Enjoying Jason comics with my sister, Maria"][![](http://fernandezjuanjose.files.wordpress.com/2011/05/juf2-otawa-1296.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/05/juf2-otawa-1296.jpg)[/caption]
+![Enjoying Jason comics with my sister, Maria](http://fernandezjuanjose.files.wordpress.com/2011/05/juf2-otawa-1296.jpg "Enjoying Jason comics with my sister, Maria")

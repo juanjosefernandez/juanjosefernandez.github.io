@@ -10,6 +10,7 @@ wordpress_id: 765
 categories:
 - Comics
 - Music
+old: true
 ---
 
 Holy moly maca-role!

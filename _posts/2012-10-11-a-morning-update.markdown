@@ -14,6 +14,7 @@ tags:
 - center for cartoon studies
 - comics
 - doodles
+old: true
 ---
 
 Holy fuckin' moley, what a month it's been. VIA in Pittsburgh, SPX in Bethesda, MICE in Boston and CCS in White River Junction.

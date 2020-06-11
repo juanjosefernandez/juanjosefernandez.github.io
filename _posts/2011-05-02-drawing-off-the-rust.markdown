@@ -10,6 +10,7 @@ wordpress_id: 30
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 
@@ -26,6 +27,6 @@ This is a bit pessimistic, but it is a looming fear. Alas, if I wish to get anyw
 
 On the whole though, I'm happy to have this blog and you folks here because it allows me to state goals to externally, which has in general kept me to completing them. Don't want to look like a fool on the internet by not following through, now do I?
 
-Here's a song that has had strong impression on me: [youtube=http://www.youtube.com/watch?v=wyXXAiEu2ps]
+Here's a song that has had strong impression on me: [http://www.youtube.com/watch?v=wyXXAiEu2ps](http://www.youtube.com/watch?v=wyXXAiEu2ps)
 
 

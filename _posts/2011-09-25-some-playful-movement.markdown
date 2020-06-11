@@ -10,6 +10,7 @@ wordpress_id: 280
 categories:
 - Comics
 - Process
+old: true
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2011/09/play.jpeg?w=595)](http://fernandezjuanjose.files.wordpress.com/2011/09/play.jpeg)

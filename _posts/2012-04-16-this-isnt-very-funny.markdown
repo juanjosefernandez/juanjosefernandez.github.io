@@ -10,6 +10,7 @@ wordpress_id: 741
 categories:
 - Comics
 - Reviews
+old: true
 ---
 
 [This article originally appeared in CMU's school Newspaper, the Tartan](https://thetartan.org/2012/4/16/pillbox/jim-rugg).

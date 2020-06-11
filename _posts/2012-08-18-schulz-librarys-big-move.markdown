@@ -10,6 +10,7 @@ wordpress_id: 932
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 These past couple of days I've been volunteering during the big move for the Schulz Library at the Center for Cartoon Studies. Why a big move?

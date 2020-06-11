@@ -9,6 +9,7 @@ title: Get WRCT to the top!
 wordpress_id: 673
 categories:
 - Music
+old: true
 ---
 
 Shameless self-promotion:

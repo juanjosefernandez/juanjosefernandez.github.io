@@ -9,6 +9,7 @@ title: The First Monoprints
 wordpress_id: 940
 categories:
 - Process
+old: true
 ---
 
 I spent the day playing around with monoprints at the [Two Rivers Print Studio.](http://tworiversprintmaking.com/)

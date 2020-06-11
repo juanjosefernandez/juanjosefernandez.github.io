@@ -14,6 +14,7 @@ tags:
 - buenos aires argentina
 - entertainment
 - music
+old: true
 ---
 
 The future of music is blasting out of the sound system at Zizek Club in Buenos Aires, Argentina. At Zizek DJs and producers mash-up Cumbia, Reggae, Hip-Hop and Electronic Music and create a space where musicians work with new ideas and the chance to show what they're doing in the current music scene. Arguably the hot bed of the borderline avant-garde transformation of the Latin American sound of Cumbia, Zizek Club has created whirlwind of energy in just a few years time and has spawned the acclaimed record label, ZZK records.

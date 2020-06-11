@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2011/09/29/24-hour-comics-at-the-toonseum/
 slug: 24-hour-comics-at-the-toonseum
 title: 24 Hour Comics at The Toonseum
 wordpress_id: 312
+old: true
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg)This weekend I'll be working on a 24 hour comic from Saturday until Sunday at the [Toonseum](http://en.wikipedia.org/wiki/The_ToonSeum) in Pittsburgh.

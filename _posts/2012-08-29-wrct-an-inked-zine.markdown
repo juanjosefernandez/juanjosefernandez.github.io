@@ -14,6 +14,7 @@ categories:
 tags:
 - arts
 - illustration
+old: true
 ---
 
 gettin' there. now I've got to get it into a printer friendly mode so that my good friends in pittsburgh can print, staple and distribute.  I'll have some photos of it being distributed sometime soon. For now, enjoy the meat and potatoes of it...

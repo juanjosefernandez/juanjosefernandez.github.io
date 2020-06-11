@@ -9,6 +9,7 @@ title: 'ToonSeum MiniCon: Super Rad Time For All'
 wordpress_id: 688
 tags:
 - pittsburgh
+old: true
 ---
 
 It was awesome. I'll be doing a write up soon, so that you can get all of the juicy details. Obviously, you can expect some pictures so that you can be bummed out that you didn't come by.

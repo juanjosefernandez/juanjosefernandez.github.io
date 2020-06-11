@@ -9,6 +9,7 @@ title: 'The First ToonSeum MiniCon: April 2012'
 wordpress_id: 711
 categories:
 - Comics
+old: true
 ---
 
 [![jazz and soul. my little nook.](http://farm8.staticflickr.com/7194/6914135138_b1facd80fa_s.jpg)](http://www.flickr.com/photos/everdamp/6914135138/in/set-72157629410669464/)[![bustling](http://farm8.staticflickr.com/7180/6914135192_2ed9bd9161_s.jpg)](http://www.flickr.com/photos/everdamp/6914135192/in/set-72157629410669464/)[![Chris and Anna](http://farm8.staticflickr.com/7072/7060219565_cd707c5705_s.jpg)](http://www.flickr.com/photos/everdamp/7060219565/in/set-72157629410669464/)[![A great turnout](http://farm6.staticflickr.com/5160/7060219641_2f9110c646_s.jpg)](http://www.flickr.com/photos/everdamp/7060219641/in/set-72157629410669464/)[![Paulette Poullet: the only Puerto-Rican Cartoonist in Pittsburgh?](http://farm8.staticflickr.com/7200/6914135322_407a0045ae_s.jpg)](http://www.flickr.com/photos/everdamp/6914135322/in/set-72157629410669464/)[![Jared Catherine promotes his incrediman stories](http://farm8.staticflickr.com/7045/7060219719_78bf776f62_s.jpg)](http://www.flickr.com/photos/everdamp/7060219719/in/set-72157629410669464/)

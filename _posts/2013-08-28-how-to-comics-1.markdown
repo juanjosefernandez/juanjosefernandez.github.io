@@ -10,6 +10,7 @@ wordpress_id: 2207
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 [![tumblr_ms7y1ndrpG1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif)

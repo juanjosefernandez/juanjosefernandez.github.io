@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Process
+old: true
 ---
 
 In the works is a new comic done at a scale unprecedented for me. There will be a total of 12 frames, 2 huge, 2 skinny horizontal strips and 8 standard rectangles.

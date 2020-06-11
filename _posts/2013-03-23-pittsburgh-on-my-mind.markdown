@@ -14,6 +14,7 @@ tags:
 - carnegie library
 - carnegie museum of art
 - drawing power
+old: true
 ---
 
 During the last week that I've spent back in Pittsburgh, I've been repeatedly reminded by how invigorating its community of creators has been for me in my growth as a cartoonist. It's a great place filled with some truly hard working creators.

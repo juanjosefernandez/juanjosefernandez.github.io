@@ -17,6 +17,7 @@ tags:
 - Jenn Jordan
 - Sophie Goldstein
 - webcomics
+old: true
 ---
 
 _This post originally appeared on the [Schulz Library Blog](http://www.cartoonstudies.org/schulz/blog/)._

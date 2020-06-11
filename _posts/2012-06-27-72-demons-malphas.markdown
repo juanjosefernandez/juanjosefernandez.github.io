@@ -9,6 +9,7 @@ title: '72 Demons: Malphas'
 wordpress_id: 893
 categories:
 - Process
+old: true
 ---
 
 Hey all, I'm contributing to Tara Helfer's 72 Demons Project. I thought I'd share my work in progress.

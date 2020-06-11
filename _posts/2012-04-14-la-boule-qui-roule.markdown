@@ -10,6 +10,7 @@ wordpress_id: 722
 categories:
 - Comics
 - Process
+old: true
 ---
 
 Here's some quick, Bleck inspired movement. Nothing fancy.

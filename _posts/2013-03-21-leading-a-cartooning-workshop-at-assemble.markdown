@@ -10,6 +10,7 @@ wordpress_id: 1699
 tags:
 - arts
 - assemble
+old: true
 ---
 
 This past Saturday I travelled to Pittsburgh to lead a 3-hour cartooning workshop with [Andy Scott](http://littletired.wordpress.com/about-2/) at the community space for arts and technology, [Assemble.](http://assemblepgh.org/)

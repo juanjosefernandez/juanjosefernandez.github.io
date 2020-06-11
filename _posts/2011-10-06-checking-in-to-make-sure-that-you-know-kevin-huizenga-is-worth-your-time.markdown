@@ -9,6 +9,7 @@ title: Checking in to make sure that you know Kevin Huizenga is worth your time
 wordpress_id: 324
 categories:
 - Comics
+old: true
 ---
 
 Folks, I'm bogged down by linguistics classes, managing WRCT and printing and binding work for PIX, but I don't want the week to pass by without speaking to you. As such, I'll point you in the direction of 3 interesting and inspiring things.

@@ -9,6 +9,7 @@ title: 'PIX: No change of location'
 wordpress_id: 297
 categories:
 - Center For Cartoon Studies
+old: true
 ---
 
 Courtesy of PIX:

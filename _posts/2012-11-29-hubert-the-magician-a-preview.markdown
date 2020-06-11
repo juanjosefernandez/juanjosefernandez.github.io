@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Process
+old: true
 ---
 
 As I promised on Monday, my magician story is complete. Unfortunately, I'm not letting you read **Hubert the Magician** just yet. Forgive me for being shy, but it's not ready for your discerning eyes!

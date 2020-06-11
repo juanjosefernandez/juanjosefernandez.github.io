@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Process
+old: true
 ---
 
 As you all know, gags aren't my thing. At least not yet. Lewis Trondheim has been a really big influence on me and his works [Mr. O](http://www.nbmpub.com/humor/trondheim/mistero/pre1.html) and [Mr. I](http://www.amazing-planet.net/slike/mister-o-and-i/mister_i_02.jpg) have gotten me to trying out my own distillations of gags strips.

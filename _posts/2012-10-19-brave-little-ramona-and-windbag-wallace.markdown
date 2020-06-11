@@ -19,6 +19,7 @@ tags:
 - Ramona
 - sun
 - wind
+old: true
 ---
 
 Here's a peek at the lineart of the comic that I'm currently working on. It should be all done tomorrow, both the web version and the print version.

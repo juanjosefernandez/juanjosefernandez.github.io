@@ -9,6 +9,7 @@ title: 'Sketchbook Crush: Joe Lambert'
 wordpress_id: 474
 categories:
 - Comics
+old: true
 ---
 
 Hey y'all,.

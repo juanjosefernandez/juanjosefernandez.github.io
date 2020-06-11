@@ -9,6 +9,7 @@ title: Wiggling to show you that I'm back
 wordpress_id: 168
 categories:
 - Center For Cartoon Studies
+old: true
 ---
 
 I'm currently working on my application comic for the Center for Cartoon Studies. I'm chugging along at a good pace on the 26 page story. The plan is for it to be 4.25 x 5.5" in black and white, stitched together. I've intentionally made it such that this story, although clearly a CCS application, will be just as readable to anyone who doesn't know what the CCS is. That way I can trade and sell it at SPX, PIX and in Pittsburgh's comics shops and have the readers of it both understand it and hell, possibly enjoy it.

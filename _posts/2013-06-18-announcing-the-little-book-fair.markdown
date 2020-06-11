@@ -12,6 +12,7 @@ categories:
 tags:
 - '''zines'
 - book fair
+old: true
 ---
 
 [![poster_letter_500](http://fernandezjuanjose.files.wordpress.com/2013/06/poster_letter_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/06/poster_letter_500.gif)

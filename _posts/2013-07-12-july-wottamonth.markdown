@@ -15,6 +15,7 @@ tags:
 - pittsburgh
 - reading
 - writing
+old: true
 ---
 
 [![julybanner](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)Hot dog. July's been a busy month in Pittsburgh!

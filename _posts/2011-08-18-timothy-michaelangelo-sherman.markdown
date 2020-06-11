@@ -9,6 +9,7 @@ title: Timothy Michaelangelo Sherman
 wordpress_id: 194
 categories:
 - Comics
+old: true
 ---
 
 Here's a cleaned up version of an homage to the one, the only Timothy Michaelangelo Sherman. He's a great guy, you should get to know him.

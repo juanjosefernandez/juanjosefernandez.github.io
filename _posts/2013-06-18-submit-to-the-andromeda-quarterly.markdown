@@ -14,6 +14,7 @@ tags:
 - andromeda quarterly
 - anthology
 - comics anthology
+old: true
 ---
 
 ![](http://25.media.tumblr.com/33b08903a5e1872605a155defbaf65fe/tumblr_moloubmvhF1rc4waeo1_400.gif)

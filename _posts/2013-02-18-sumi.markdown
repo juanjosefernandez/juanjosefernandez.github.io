@@ -14,6 +14,7 @@ tags:
 - basho
 - haiku
 - sumi
+old: true
 ---
 
 This comic was produced for the Time Parcel Service anthology in the Winter of 2012. I tried reverse engineering the landscape depictions from Kevin Huizenga’s _Case 0003128-24_, found in the collection put out by Drawn and Quarterly, [Curses](http://www.copaceticcomics.com/comics/curses). I was exploring the idea of how it was that [Basho](http://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D) arrived at the following haiku.

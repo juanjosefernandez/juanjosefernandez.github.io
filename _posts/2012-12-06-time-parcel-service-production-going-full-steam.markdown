@@ -10,6 +10,7 @@ wordpress_id: 1408
 categories:
 - Center For Cartoon Studies
 - Process
+old: true
 ---
 
 I've finished all of the screen printing for the CCS anthology! **Now to buckle down and finish the comics! **

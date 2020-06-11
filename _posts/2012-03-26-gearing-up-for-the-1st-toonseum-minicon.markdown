@@ -9,6 +9,7 @@ title: Gearing up for the 1st ToonSeum MiniCon
 wordpress_id: 674
 categories:
 - Comics
+old: true
 ---
 
 I'm currently organizing a comics and zine expo, The ToonSeum's 1st MiniCon. It's going to be the core event of the upcoming [Geek Artist/Green Innovators Festival (GA/GI)](http://gagifest12.blogspot.com/). It'll be happening on April 5th and April 6th. It's super exciting.

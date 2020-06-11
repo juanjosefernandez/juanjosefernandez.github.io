@@ -9,6 +9,7 @@ title: Noise to work through
 wordpress_id: 1503
 categories:
 - Process
+old: true
 ---
 
 I thought I'd share a pairing of experiences that I've recently enjoyed combining during late night drawing, particularly when silence doesn't cut it.

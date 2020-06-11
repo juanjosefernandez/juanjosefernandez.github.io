@@ -9,6 +9,7 @@ title: The Muster List
 wordpress_id: 715
 categories:
 - Comics
+old: true
 ---
 
 [Charles Forsman](http://charlesforsman.com/), of [Snake Oil](http://charlesforsman.com/comics/snake-oil-4/) and the [Oily Boutique](http://oilyboutique.bigcartel.com/) had a dream. It was a good dream.

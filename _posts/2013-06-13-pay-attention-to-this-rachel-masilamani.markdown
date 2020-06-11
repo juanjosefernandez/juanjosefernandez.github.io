@@ -14,6 +14,7 @@ tags:
 - dog city
 - RPM Comics
 - xeric grant
+old: true
 ---
 
 _This article orginally appeared in [Dog City: Issue 1](http://www.dogcitypress.com/about)_

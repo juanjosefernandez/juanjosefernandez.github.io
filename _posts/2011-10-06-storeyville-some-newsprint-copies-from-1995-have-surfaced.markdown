@@ -9,6 +9,7 @@ title: 'Storeyville: Some Newsprint copies from 1995 have surfaced!'
 wordpress_id: 331
 categories:
 - Comics
+old: true
 ---
 
 A year ago I read Storeyville by Frank Santoro and it was an experience like no other. I read the hardcover copy that was available at the Toonseum and the delicate combination of hope and melancholy of the whole work stayed with me for weeks.

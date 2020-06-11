@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/04/15/submission-for-wrct-t-shirt-contes
 slug: submission-for-wrct-t-shirt-contest
 title: Submission for WRCT T-Shirt Contest
 wordpress_id: 734
+old: true
 ---
 
 Every spring, WRCT has a spring staff t-shirt designed by a staff member. The shirts get submitted and then all of the staff votes. There's a friend of mine that loves manatees, so I thought that this would be appropriate.

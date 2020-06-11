@@ -9,6 +9,7 @@ title: Wilfred Santiago interviewed at the Comics Journal
 wordpress_id: 593
 categories:
 - Comics
+old: true
 ---
 
 <blockquote>_ In the mainstream most of the time they make cartoons and such look like this dumb thing, but whether it’s the most powerful cartoon known to man, Mickey Mouse, the cartoons that can piss enough Muslims off to commit acts of terrorism, or the inspiration of some imagery for contemporary movements like Anonymous or the OWS, it’s obvious you can’t fuck with cartoons. _

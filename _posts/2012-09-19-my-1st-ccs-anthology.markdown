@@ -10,6 +10,7 @@ wordpress_id: 1076
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 Right before SPX 2012, a couple of us in the first year class at CCS decided to make an anthology. 

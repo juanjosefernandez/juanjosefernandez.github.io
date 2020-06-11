@@ -11,6 +11,7 @@ tags:
 - Moomin
 - moomintroll
 - Tove Jansson
+old: true
 ---
 
 [![moomin-who-will-comfort-toffle](http://fernandezjuanjose.files.wordpress.com/2013/02/moomin-who-will-comfort-toffle.jpg)](http://fernandezjuanjose.files.wordpress.com/2013/02/moomin-who-will-comfort-toffle.jpg)

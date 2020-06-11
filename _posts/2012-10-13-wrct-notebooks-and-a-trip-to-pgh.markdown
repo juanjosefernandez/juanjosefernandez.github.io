@@ -14,6 +14,7 @@ tags:
 - center for cartoon studies
 - comics
 - VIA
+old: true
 ---
 
 I christen this the beginning of an era of regular updates.

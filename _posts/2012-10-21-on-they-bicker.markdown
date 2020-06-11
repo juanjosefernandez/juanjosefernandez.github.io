@@ -16,6 +16,7 @@ tags:
 - fable
 - sun
 - wind
+old: true
 ---
 
 As promised, here's my newest comic, **On They Bicker**. It's a little rough around the edges, but it tells a story and that's what comics are about, right? I'd love to hear what you think of it.

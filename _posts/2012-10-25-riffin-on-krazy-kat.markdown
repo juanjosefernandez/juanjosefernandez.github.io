@@ -14,6 +14,7 @@ categories:
 tags:
 - comic strips
 - krazy kat
+old: true
 ---
 
 Ain't got too much to say today, just wanted to share some strips I made with you.

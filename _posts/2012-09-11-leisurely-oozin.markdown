@@ -10,6 +10,7 @@ wordpress_id: 1053
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 The following is a 2 page contribution to a spontaneous little comics anthology that several students at the Center for Cartoon Studies decided to undertake before classes started. The theme for the issue was **_Summer_**. This was my take on it. I'll have some photos of the finished work, seeing as how it's in the process of being laid out as I type...

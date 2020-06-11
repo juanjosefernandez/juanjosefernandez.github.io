@@ -12,6 +12,7 @@ categories:
 tags:
 - comics
 - risograph
+old: true
 ---
 
 This one is my Yo La Tengo comic on the shoulders of the poetry giant, Mary Oliver. The words are excerpted from her poem, [_Wild Geese_.

@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/02/05/ed-piskor-and-the-eventual-brain-r
 slug: ed-piskor-and-the-eventual-brain-rot-of-american-society
 title: Ed Piskor and the eventual Brain Rot of american society
 wordpress_id: 509
+old: true
 ---
 
 Unbeknownst to most, Pittsburgh is home to a vibrant independent comics scene. With over 7 comics shops in the city and the Toonseum, a museum wholly dedicated to celebrating animation and comics, you can be sure that there are a lot of comics aficionados in town. And, with homegrown comics anthologies like _Andromeda_ and _Unicorn Mountain_, alongside independent comics giants like Jim Rugg, Frank Santoro and Tom Scioli, you can be sure that there's a lot of ink hitting the page in the city.

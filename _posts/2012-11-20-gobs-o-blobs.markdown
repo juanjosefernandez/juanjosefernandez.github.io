@@ -15,6 +15,7 @@ tags:
 - blobs
 - doodle
 - goo
+old: true
 ---
 
 Have at some blobs![![](http://fernandezjuanjose.files.wordpress.com/2012/11/gobsoblobs.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/11/gobsoblobs.jpg)

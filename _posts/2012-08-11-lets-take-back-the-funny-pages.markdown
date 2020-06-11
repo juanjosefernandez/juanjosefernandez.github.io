@@ -9,6 +9,7 @@ title: let's take back the funny pages!
 wordpress_id: 905
 categories:
 - Comics
+old: true
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/08/homeburgh.jpg)](http://www.skeletonballs.com/yinz/index.html)Pittsburgh cartoonists, there's a lot of you out there, but there don't seem to be many of you in Pittsburgh's periodicals.

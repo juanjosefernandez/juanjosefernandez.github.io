@@ -9,6 +9,7 @@ title: handlettering for PGH Zine Fair
 wordpress_id: 1042
 categories:
 - Process
+old: true
 ---
 
 Today I finished up a little page to celebrate the upcoming [Pittsburgh Zine Fair on September 22nd](http://pghzinefair.com/). Thought I'd share with y'all.

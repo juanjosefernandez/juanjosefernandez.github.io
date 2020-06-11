@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Process
+old: true
 ---
 
 http://www.youtube.com/watch?v=MTbNVAkVeC8

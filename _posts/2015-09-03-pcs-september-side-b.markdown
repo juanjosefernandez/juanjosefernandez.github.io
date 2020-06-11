@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2015/09/03/pcs-september-side-b/
 slug: pcs-september-side-b
 title: 'PCS September: Side B'
 wordpress_id: 2526
+old: true
 ---
 
 ![](http://i.imgur.com/Q7kZgN8.jpg)

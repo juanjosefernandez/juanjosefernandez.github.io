@@ -13,6 +13,7 @@ tags:
 - billy ireland library
 - columbus
 - comics
+old: true
 ---
 
 I'm Pittsburgh bound, but I have pangs to be in Columbus. At the Billy Ireland Library and Museum, more precisely. Man, what a spiritual place...

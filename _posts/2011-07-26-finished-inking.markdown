@@ -10,6 +10,7 @@ wordpress_id: 178
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 [![20110726-041010.jpg](http://fernandezjuanjose.files.wordpress.com/2011/07/20110726-041010.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/07/20110726-041010.jpg)

@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Reviews
+old: true
 ---
 
 [The Schulz Library](http://www.cartoonstudies.org/index.php/schulz-library/) is officially open. The first thing I've taken out is Jordan Crane's Non #5.

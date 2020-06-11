@@ -10,6 +10,7 @@ wordpress_id: 1909
 categories:
 - Center For Cartoon Studies
 - Comics
+old: true
 ---
 
 _Originally appeared on [dogcitypress.com](dogcitypress.com)_![image](http://media.tumblr.com/8902c15d8ed1a9fb6115cadd0d0c4ece/tumblr_inline_mlqdq23LaR1qz4rgp.png)

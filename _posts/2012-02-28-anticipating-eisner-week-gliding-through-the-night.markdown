@@ -9,6 +9,7 @@ title: 'Anticipating Eisner Week: Gliding through the night'
 wordpress_id: 601
 categories:
 - Comics
+old: true
 ---
 
 [![4CP: Gliding through the night](http://fernandezjuanjose.files.wordpress.com/2012/02/spiritbaltimoresun8dec1940-jpg.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/02/spiritbaltimoresun8dec1940-jpg.jpeg)

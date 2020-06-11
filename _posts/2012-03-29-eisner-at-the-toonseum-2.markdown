@@ -10,6 +10,7 @@ wordpress_id: 681
 categories:
 - Comics
 - Reviews
+old: true
 ---
 
 As odd as it may seem, Pittsburghers can find a slice of the Big Apple in the heart of downtown Pittsburgh until May 27.

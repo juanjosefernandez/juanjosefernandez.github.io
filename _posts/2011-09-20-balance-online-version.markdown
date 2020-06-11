@@ -9,6 +9,7 @@ title: 'Balance: Online Version'
 wordpress_id: 273
 categories:
 - Comics
+old: true
 ---
 
 As it stands, I'm working on finding a clean way to print this  story on two sides of a sheet of paper that is at least 30 inches long. Lena's likely going to help me tomorrow. I'll keep you posted on any developments.

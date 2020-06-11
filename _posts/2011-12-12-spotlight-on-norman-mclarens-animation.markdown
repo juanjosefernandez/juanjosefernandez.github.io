@@ -9,6 +9,7 @@ title: Spotlight on Norman Mclaren's Animation
 wordpress_id: 403
 categories:
 - Music
+old: true
 ---
 
 Almost finished with the semester.

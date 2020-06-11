@@ -10,6 +10,7 @@ wordpress_id: 1983
 categories:
 - Comics
 - Reviews
+old: true
 ---
 
 [![DSC_0894](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg)

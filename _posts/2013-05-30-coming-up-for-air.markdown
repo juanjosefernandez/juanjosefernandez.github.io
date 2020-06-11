@@ -14,6 +14,7 @@ tags:
 - arts
 - magazines
 - screen printing
+old: true
 ---
 
 [![industry-day-poster](http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif)

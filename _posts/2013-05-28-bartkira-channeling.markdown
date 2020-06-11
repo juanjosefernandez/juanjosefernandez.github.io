@@ -11,6 +11,7 @@ categories:
 - Comics
 tags:
 - bartkira
+old: true
 ---
 
 [![51561806924](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)

@@ -10,6 +10,7 @@ wordpress_id: 548
 categories:
 - Music
 - Reviews
+old: true
 ---
 
 A recent article that I wrote for CMU's newspaper, The Tartan:

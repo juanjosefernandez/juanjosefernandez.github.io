@@ -10,6 +10,7 @@ wordpress_id: 529
 categories:
 - Comics
 - Reviews
+old: true
 ---
 
 On Valentine's Day, people everywhere shell out all sorts of denominations on flowers, candy and gifts. In honor of that most glorious consumer holiday, it would be seem to be most appropriate to highlight comics that are perfect for Valentine's Day. Nevertheless, there are enough exhortations to purchase gifts at this time of the year, as such this column will not address what books to buy loved ones. Rather, the focus will be to examine how the traditional ideas espoused by Valentine's Day manifest themselves in the cartooning work of three different authors, Charles Schulz, Jordan Crane and Chester Brown.

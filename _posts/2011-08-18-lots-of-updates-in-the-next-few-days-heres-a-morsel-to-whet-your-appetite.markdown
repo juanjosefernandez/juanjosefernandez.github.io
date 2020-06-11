@@ -9,6 +9,7 @@ title: 'Lots of updates in the next few days: Here''s a morsel to whet your appe
 wordpress_id: 191
 categories:
 - Comics
+old: true
 ---
 
 Give me a caption and we'll see how it fits.[![Contemplation](http://fernandezjuanjose.files.wordpress.com/2011/08/contemplation.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/08/contemplation.jpg)

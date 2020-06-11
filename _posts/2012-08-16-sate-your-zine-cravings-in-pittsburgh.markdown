@@ -9,6 +9,7 @@ title: Sate your 'zine cravings in Pittsburgh
 wordpress_id: 851
 categories:
 - Comics
+old: true
 ---
 
 The Pittsburgh 'Zine fair is coming up real soon. Are you stoked?

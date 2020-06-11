@@ -17,6 +17,7 @@ tags:
 - panel comics
 - thesis
 - watercolor
+old: true
 ---
 
 [![flattened_ready-for-print](http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif)](http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif)

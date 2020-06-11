@@ -10,6 +10,7 @@ wordpress_id: 2432
 categories:
 - Comics
 - Daily Strips
+old: true
 ---
 
 [![1597280_357392601096269_241861085_n](https://fernandezjuanjose.files.wordpress.com/2014/10/1597280_357392601096269_241861085_n.jpg)](https://fernandezjuanjose.files.wordpress.com/2014/10/1597280_357392601096269_241861085_n.jpg)

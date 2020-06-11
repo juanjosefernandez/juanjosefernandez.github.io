@@ -9,6 +9,7 @@ title: 'My workspace: Spring 2011'
 wordpress_id: 374
 categories:
 - Process
+old: true
 ---
 
 

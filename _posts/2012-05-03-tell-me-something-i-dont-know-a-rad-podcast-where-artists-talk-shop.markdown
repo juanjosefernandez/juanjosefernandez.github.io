@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/05/03/tell-me-something-i-dont-know-a-ra
 slug: tell-me-something-i-dont-know-a-rad-podcast-where-artists-talk-shop
 title: 'Tell Me Something I Don''t Know: A Rad Podcast Where Artist''s Talk Shop'
 wordpress_id: 832
+old: true
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/05/picture-2.png)](http://tmsidk.podbean.com/)

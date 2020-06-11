@@ -9,6 +9,7 @@ title: Summons
 wordpress_id: 1072
 categories:
 - Center For Cartoon Studies
+old: true
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/09/summons-web.png)](http://fernandezjuanjose.files.wordpress.com/2012/09/summons-web.png)

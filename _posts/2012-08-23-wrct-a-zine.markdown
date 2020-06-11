@@ -10,6 +10,7 @@ wordpress_id: 972
 categories:
 - Comics
 - Process
+old: true
 ---
 
 It's amazing how little reference I need to draw this place...

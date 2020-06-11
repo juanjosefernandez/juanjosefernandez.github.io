@@ -10,6 +10,8 @@ wordpress_id: 218
 categories:
 - Center For Cartoon Studies
 - Process
+old: true
+
 ---
 
 http://www.youtube.com/watch?v=2F7g3CIQ8Ho

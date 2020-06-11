@@ -13,6 +13,7 @@ categories:
 - Daily Strips
 tags:
 - watercolor
+old: true
 ---
 
 [![tumblr_mtqqviKEOC1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/10/tumblr_mtqqvikeoc1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/10/tumblr_mtqqvikeoc1rc4waeo1_500.gif)

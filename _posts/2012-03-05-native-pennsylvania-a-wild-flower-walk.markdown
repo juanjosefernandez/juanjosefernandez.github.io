@@ -9,6 +9,7 @@ title: 'Native Pennsylvania: A Wild Flower Walk'
 wordpress_id: 653
 categories:
 - Reviews
+old: true
 ---
 
 ## Hunt Institute’s collection of plants and watercolors takes viewers on visual tour

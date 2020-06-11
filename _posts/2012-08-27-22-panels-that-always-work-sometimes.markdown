@@ -9,6 +9,7 @@ title: 22 Panels that Always Work (Sometimes)
 wordpress_id: 1012
 categories:
 - Comics
+old: true
 ---
 
 An oldie but a goodie from Ivan Brunetti from Schizo #4. [Riffin' on Wood.](http://www.bronxbanterblog.com/wordpress/wp-content/uploads/2012/03/wallywood22panel1600.jpg)

@@ -9,6 +9,7 @@ title: PIX 2012 Tumblr up and Running
 wordpress_id: 710
 categories:
 - Comics
+old: true
 ---
 
 Here's a little peak of what you can expect on the site. Check it out and stay tuned for the coming details. It's going to be a really special Expo this year, so make a mental note to be in Pittsburgh in early October.

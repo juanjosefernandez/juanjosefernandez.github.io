@@ -12,6 +12,7 @@ categories:
 tags:
 - dailies
 - daily comics
+old: true
 ---
 
 Greetings from the Crinkled Corner.

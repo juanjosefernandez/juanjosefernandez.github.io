@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2011/05/05/the-next-two-months-spain/
 slug: the-next-two-months-spain
 title: 'The Next Three Months: Spain and then some'
 wordpress_id: 62
+old: true
 ---
 
 This is what I'll be living out of for the next two months in Spain: [![](http://fernandezjuanjose.files.wordpress.com/2011/05/photo-on-2011-05-05-at-16-41.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/05/photo-on-2011-05-05-at-16-41.jpg)I have the incredible fortune of traveling for the next two months in Spain with my girlfriend, Lena. Lena will get to fully experience a true Spain with me, completely in Spanish, we'll both get to work with cheese-making and meat curing and I will get to research a comic that I have planned.

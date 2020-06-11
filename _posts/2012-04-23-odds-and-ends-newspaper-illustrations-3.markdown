@@ -9,6 +9,7 @@ title: 'Odds and Ends: Newspaper illustrations'
 wordpress_id: 793
 categories:
 - Music
+old: true
 ---
 
 You know the drill. Here are some recent drawings that have gone in CMU's newspaper. They look great on newsprint.

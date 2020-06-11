@@ -9,6 +9,7 @@ title: Monoprint Close Up
 wordpress_id: 1022
 categories:
 - Center For Cartoon Studies
+old: true
 ---
 
 Can you guess what this little guy's two favorite things to do are?

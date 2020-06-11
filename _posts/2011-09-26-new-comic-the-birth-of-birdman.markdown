@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Process
+old: true
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2011/09/in-the-wee-hours-longonline.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/09/in-the-wee-hours-longonline.jpg)

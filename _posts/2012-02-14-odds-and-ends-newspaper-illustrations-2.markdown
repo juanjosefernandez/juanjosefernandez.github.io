@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/02/14/odds-and-ends-newspaper-illustrati
 slug: odds-and-ends-newspaper-illustrations-2
 title: 'Odds and Ends: Newspaper Illustrations 2'
 wordpress_id: 536
+old: true
 ---
 
 [caption id="attachment_537" align="aligncenter" width="590" caption="Support grows for the boycott of Elsevier, the academic Jour"][![](http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg)[/caption]

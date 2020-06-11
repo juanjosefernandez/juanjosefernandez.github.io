@@ -9,6 +9,7 @@ title: Spoils of the flesh
 wordpress_id: 2031
 categories:
 - Comics
+old: true
 ---
 
 Here's a look at new comic I made.

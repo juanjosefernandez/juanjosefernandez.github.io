@@ -9,6 +9,7 @@ title: Pets Reign at Warhol Exhibit
 wordpress_id: 605
 categories:
 - Reviews
+old: true
 ---
 
 

@@ -9,6 +9,7 @@ title: Rage Comics and Image Macros
 wordpress_id: 427
 categories:
 - Comics
+old: true
 ---
 
 In the past 4 years, there has been a widespread development, across English speaking users to utilize the format of the Rage Comic. While often vapid, there are incredible comics done by users that use the structures of the comics and the expected payoffs in extraordinary ways.

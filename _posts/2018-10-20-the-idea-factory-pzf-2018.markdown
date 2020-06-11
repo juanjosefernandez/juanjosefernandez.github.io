@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2018/10/20/the-idea-factory-pzf-2018/
 slug: the-idea-factory-pzf-2018
 title: The Idea Factory + PZF 2018
 wordpress_id: 2644
+old: true
 ---
 
 Last weekend was a brilliant doozy here in Pittsburgh. I mentioned that it was a busy one, so you knew something was coming!

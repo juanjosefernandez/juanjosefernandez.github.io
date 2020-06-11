@@ -9,6 +9,7 @@ title: Illustration for School Newspaper
 wordpress_id: 223
 categories:
 - Comics
+old: true
 ---
 
 [caption id="" align="aligncenter" width="300" caption="The sketchbook doodle before entering the digital world."]

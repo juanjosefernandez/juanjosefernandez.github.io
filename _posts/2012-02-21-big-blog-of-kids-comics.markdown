@@ -9,6 +9,7 @@ title: Big Blog of Kids Comics
 wordpress_id: 555
 categories:
 - Comics
+old: true
 ---
 
 I must be late to the game, seeing as how I just discovered the great repository of children's comics that Mykal Banta has put together. Truth be told, though, so long as I get to see these comics I'm happy to even be playing!

@@ -9,6 +9,7 @@ title: 'Spotlight on an Artist: Gusto'
 wordpress_id: 808
 categories:
 - Music
+old: true
 ---
 
 A friend of mine, Gusto with whom I've DJed in the past, recently performed as an opener at the Carnegie Mellon Carnival.

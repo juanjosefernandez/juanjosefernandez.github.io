@@ -13,6 +13,7 @@ tags:
 - comics
 - joann sfar
 - sketchbook
+old: true
 ---
 
 Here's a peek at the ink that's been flowing recently. As you can tell, Joann Sfar has been big on my mind recently.

@@ -17,6 +17,7 @@ tags:
 - drawing power
 - minicomics
 - self-publishing
+old: true
 ---
 
 _This article was co-written with [Simon Reinhardt.](http://www.simonreinhardt.tumblr.com) It_ originally appeared at [Dog City Press](http://www.dogcitypress.com).

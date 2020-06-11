@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 - Daily Strips
+old: true
 ---
 
 [![tumblr_mteqpv42Sd1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_mteqpv42sd1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_mteqpv42sd1rc4waeo1_500.gif)

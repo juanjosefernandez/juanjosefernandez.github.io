@@ -14,6 +14,7 @@ tags:
 - cmyk
 - posterous
 - scans
+old: true
 ---
 
 This afternoon I came across a message from [Half-Man Half-Static](http://posterous.com/users/4aqiDs7OMvCN#activities/page/1), who runs the great little online galleries [4CP(Four Color Process)](http://4cp.posterous.com/), [Comic Book Cartoraphy](http://comicbookcartography.posterous.com/) and [Supertype!](http://supertype.posterous.com/), a comics typography gallery.

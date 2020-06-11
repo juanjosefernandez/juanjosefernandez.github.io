@@ -12,6 +12,7 @@ categories:
 - Daily Strips
 tags:
 - watercolor
+old: true
 ---
 
 Priming the pump. Hope to get back into the rhythm of things.

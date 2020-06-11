@@ -9,6 +9,7 @@ title: Celebrating Harvey's Life and Work
 wordpress_id: 393
 categories:
 - Comics
+old: true
 ---
 
 Howdy folks, it looks like the funding on a statue at the Cleveland Heights Public Library dedicated to celebrating Harvey Pekar's life and work in comics is getting up to the desired sum!

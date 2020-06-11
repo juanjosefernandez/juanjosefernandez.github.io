@@ -13,6 +13,7 @@ tags:
 - Jenn
 - Pittsburgh Indy Comics Expo
 - PIX
+old: true
 ---
 
 [![Screen shot 2015-02-10 at 5.42.17 PM](https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png)](https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png)

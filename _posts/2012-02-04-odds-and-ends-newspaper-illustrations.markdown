@@ -7,6 +7,7 @@ link: http://juanjosefernandez.com/2012/02/04/odds-and-ends-newspaper-illustrati
 slug: odds-and-ends-newspaper-illustrations
 title: 'Odds and Ends: Newspaper Illustrations'
 wordpress_id: 498
+old: true
 ---
 
 I thought that I'd share these little illustrations have been made for CMU's newspaper the Tartan. Nothing fancy, just trying to make some solid looking illustrations to go along with the articles.

@@ -9,6 +9,7 @@ title: 'Eleanor Davis: Spectacular Watercolor Storytelling'
 wordpress_id: 258
 categories:
 - Comics
+old: true
 ---
 
 Yesterday, while reading the last issue of MOME I came across a story, and therefore an artist that has really struck me. Here are some previews of her work. The cleanliness of her watercolors is breathtaking.

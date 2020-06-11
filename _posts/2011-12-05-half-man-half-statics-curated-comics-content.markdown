@@ -9,6 +9,7 @@ title: Half-Man Half-Static's Curated Content.
 wordpress_id: 384
 categories:
 - Comics
+old: true
 ---
 
 I'm just about wrapped up for the Fall Semester at Carnegie Mellon. Lots of work to complete before I go home, so for now all I've really got is link that you, my good reader, might enjoy.
