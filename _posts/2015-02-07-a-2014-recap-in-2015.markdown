@@ -13,6 +13,7 @@ tags:
 - pittsburgh
 - Simon Reinhardt
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2015/02/picture-6.png
 ---
 
 dear diary, I want to fill you in on what's happened since the last time we talked.

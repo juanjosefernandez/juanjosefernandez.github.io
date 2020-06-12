@@ -23,7 +23,9 @@ layout: default
               </a>
             </h3>
             {%- if post.image -%}
-            <img src={{post.image}} class="banner"/>
+            <a href={{post.url}}>
+              <img src={{post.image}} class="banner"/>
+            </a>
             {%- endif -%}
             {%- if site.show_excerpts -%}
               {{ post.excerpt }}

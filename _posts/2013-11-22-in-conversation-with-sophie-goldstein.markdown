@@ -18,6 +18,7 @@ tags:
 - Sophie Goldstein
 - webcomics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/11/across-sophie.gif
 ---
 
 _This post originally appeared on the [Schulz Library Blog](http://www.cartoonstudies.org/schulz/blog/)._

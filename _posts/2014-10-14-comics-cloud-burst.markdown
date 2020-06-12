@@ -11,6 +11,7 @@ categories:
 - Comics
 - Daily Strips
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2014/10/1597280_357392601096269_241861085_n.jpg
 ---
 
 [![1597280_357392601096269_241861085_n](https://fernandezjuanjose.files.wordpress.com/2014/10/1597280_357392601096269_241861085_n.jpg)](https://fernandezjuanjose.files.wordpress.com/2014/10/1597280_357392601096269_241861085_n.jpg)

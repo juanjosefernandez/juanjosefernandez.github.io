@@ -15,6 +15,7 @@ tags:
 - screen printing
 - tape worm
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg
 ---
 
 [![tumblr_mxxhe8zJQb1rc4waeo1_1280](http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg)](http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg)

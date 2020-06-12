@@ -13,6 +13,7 @@ categories:
 tags:
 - collage
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2014/04/tumblr_n3zp58svri1rc4waeo1_500.jpg
 ---
 
 [![tumblr_n3zp58svrI1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2014/04/tumblr_n3zp58svri1rc4waeo1_500.jpg)](http://fernandezjuanjose.files.wordpress.com/2014/04/tumblr_n3zp58svri1rc4waeo1_500.jpg)
