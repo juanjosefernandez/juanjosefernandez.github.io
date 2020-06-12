@@ -6,6 +6,7 @@ layout: post
 link: http://juanjosefernandez.com/2019/08/19/what-a-mess/
 slug: what-a-mess
 title: What a mess.
+image: "https://thumbs-prod.si-cdn.com/i8GwZKuTpBU1j69dvHhRqrDMlDo=/fit-in/1600x0/https://public-media.si-cdn.com/filer/24/a1/24a169e2-a5e4-4bd7-9c4a-3d9dd100450b/0messy-desk.jpg"
 wordpress_id: 2660
 ---
 

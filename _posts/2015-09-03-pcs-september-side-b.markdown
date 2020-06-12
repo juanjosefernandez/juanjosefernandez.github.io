@@ -8,6 +8,7 @@ slug: pcs-september-side-b
 title: 'PCS September: Side B'
 wordpress_id: 2526
 old: true
+image: http://i.imgur.com/Q7kZgN8.jpg
 ---
 
 ![](http://i.imgur.com/Q7kZgN8.jpg)

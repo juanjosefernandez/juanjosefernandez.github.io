@@ -8,6 +8,7 @@ slug: pcs-september-side-a
 title: 'PCS: September - Side A'
 wordpress_id: 2524
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2015/09/tumblr_ns5u7j01lw1u7g5f7o1_1280.jpg
 ---
 
 _Daunted and Freed by the Script_

@@ -6,3 +6,10 @@ To do:
 [ ] Have categories appear at the bottom, clickable to take you to a category page listing all the posts of that category
 [ ] Add posts from Instagram that had considerable writing or worthwhile images.
 [ ] make the image  that displays in the blog preview in the list be a link to the blog post
+
+Pages to Create:
+[ ] My Arts Education Statement - use the one from MCAD with edits
+[ ] Something that aggreagates all my comics teaching posts via category
+
+[ ] Create a page that documents the history of the Dog City Press Project
+[ ] Photograph all boxes and books for this post

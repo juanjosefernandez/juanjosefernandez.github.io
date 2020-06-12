@@ -13,6 +13,7 @@ categories:
 tags:
 - meaningful language
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2015/02/photo-11.jpg
 ---
 
 I'm having a blast working on this everyday.

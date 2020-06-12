@@ -11,6 +11,7 @@ tags:
 - comics
 - lenticular
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2019/03/03b.gif
 ---
 
 This is a sneak peak at the files I'm using to print a new series of comics!

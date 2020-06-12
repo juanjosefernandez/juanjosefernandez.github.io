@@ -13,6 +13,7 @@ tags:
 - comics
 - risograph
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2016/05/icanseethebirds-31.jpg
 ---
 
 This one is my Yo La Tengo comic on the shoulders of the poetry giant, Mary Oliver. The words are excerpted from her poem, [_Wild Geese_.

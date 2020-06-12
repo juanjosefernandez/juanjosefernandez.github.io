@@ -8,6 +8,7 @@ slug: what-is-a-blog-2018
 title: what is a blog? (2018)
 wordpress_id: 2611
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2018/02/screen-shot-2018-02-27-at-4-45-50-pm.png
 ---
 
 Oh boy, the last post here is from, what, two years ago? Oof, these past two years have been a bumpy ride.

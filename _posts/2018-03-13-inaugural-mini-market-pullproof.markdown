@@ -8,6 +8,7 @@ slug: inaugural-mini-market-pullproof
 title: Inaugural Mini-market @ Pullproof
 wordpress_id: 2625
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2018/03/unnamed.gif
 ---
 
 ![PULLPROOF Studios - mini-market](https://fernandezjuanjose.files.wordpress.com/2018/03/unnamed.gif)

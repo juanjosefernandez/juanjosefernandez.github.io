@@ -10,6 +10,7 @@ wordpress_id: 2641
 categories:
 - Comics
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2018/03/static1-squarespace.gif
 ---
 
 
