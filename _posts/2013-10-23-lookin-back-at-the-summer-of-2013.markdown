@@ -20,6 +20,7 @@ tags:
 - pittsburgh
 - the lab
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/10/screen-shot-2013-10-21-at-3-14-43-am.png
 ---
 
 [![picture-2](http://fernandezjuanjose.files.wordpress.com/2013/10/picture-21.gif)](http://fernandezjuanjose.files.wordpress.com/2013/10/picture-21.gif)Phew, it's been a while!

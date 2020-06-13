@@ -12,6 +12,7 @@ categories:
 - Comics
 - Daily Strips
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_mto10aamzs1rc4waeo1_500.gif
 ---
 
 [![tumblr_mteqpv42Sd1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_mteqpv42sd1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_mteqpv42sd1rc4waeo1_500.gif)
