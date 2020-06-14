@@ -18,6 +18,7 @@ tags:
 - Visual Language
 - Visual Language Theory
 - Zellig Harris
+excerpt: "Hello world"
 ---
 
 I'd like to share the paper I wrote for my senior thesis in linguistics from Carnegie Mellon University, [**Kernel Image Transformations: **An exploration of transformational grammar in visual language](https://fernandezjuanjose.files.wordpress.com/2020/04/thesis-juan-fernandez-kernel-image-transformations.pdf). My advisor for this was the ever helpful and patient, Thomas Werner. A huge thank you to him for helping me cross the finish-line on this.
