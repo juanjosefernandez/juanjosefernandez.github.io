@@ -2,11 +2,28 @@
 layout: page
 title: Blog Archive
 ---
-
+<ul class="post-list">
 <!-- post list -->
 {% for post in paginator.posts %}
-<li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
+<li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">
+        {{ post.date | date: date_format }}
+    </span>
+    <a href="{{post.url | prepend: site.baseurl}}">
+        <h3>{{post.title}}</h3>
+    </a>
+    {%- if post.image -%}
+        <a href={{post.url}}>
+          <img src={{post.image}} class="banner"/>
+        </a>
+    {%- endif -%}
+    {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+    {%- endif -%}
+</li>
 {% endfor %}
+</ul>
 
 
 <!-- pagination -->
