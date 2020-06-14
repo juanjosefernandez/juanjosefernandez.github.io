@@ -10,6 +10,7 @@ wordpress_id: 1433
 categories:
 - Notebooks
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/12/photo.jpeg
 ---
 
 _dearest crinkled comrades_, as you've seen I'm not posting on here much, but I feel you should know the drawing's still happening. I'm even getting better, dontcha know?

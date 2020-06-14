@@ -11,6 +11,7 @@ tags:
 - arts
 - assemble
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/03/image.jpeg
 ---
 
 This past Saturday I travelled to Pittsburgh to lead a 3-hour cartooning workshop with [Andy Scott](http://littletired.wordpress.com/about-2/) at the community space for arts and technology, [Assemble.](http://assemblepgh.org/)

@@ -10,6 +10,7 @@ wordpress_id: 940
 categories:
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-19-at-23-081.jpg
 ---
 
 I spent the day playing around with monoprints at the [Two Rivers Print Studio.](http://tworiversprintmaking.com/)

@@ -13,6 +13,7 @@ categories:
 tags:
 - watercolor
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_mrrhwaipz31rc4waeo1_500.gif
 ---
 
 Priming the pump. Hope to get back into the rhythm of things.

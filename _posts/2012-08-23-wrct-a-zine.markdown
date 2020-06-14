@@ -11,6 +11,7 @@ categories:
 - Comics
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-23-at-11-11-31.jpg
 ---
 
 It's amazing how little reference I need to draw this place...

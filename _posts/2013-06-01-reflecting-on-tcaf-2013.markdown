@@ -11,6 +11,7 @@ categories:
 - Comics
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg
 ---
 
 [![DSC_0894](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg)

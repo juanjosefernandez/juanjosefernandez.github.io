@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/07/20110726-041010.jpg
 ---
 
 [![20110726-041010.jpg](http://fernandezjuanjose.files.wordpress.com/2011/07/20110726-041010.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/07/20110726-041010.jpg)

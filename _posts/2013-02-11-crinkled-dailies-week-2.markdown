@@ -16,6 +16,7 @@ tags:
 - nowills
 - silver age
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/9-fuckthisshit.gif
 ---
 
 Last week, I wrapped up an intense project here at the Center for Cartoon Studies. I , along with 5 collaborators were to time travel back to 1966 and create a teen musical comedy that abided by the Comics Code and that would sell like hotcakes, knowing what we 21st century cartoonists knew about the medium.

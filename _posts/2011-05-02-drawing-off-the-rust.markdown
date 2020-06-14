@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 old: true
+image: https://s3.amazonaws.com/CopaceticComics/1DailyDavis/DD224.jpeg
 ---
 
 

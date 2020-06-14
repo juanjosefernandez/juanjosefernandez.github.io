@@ -12,6 +12,7 @@ categories:
 tags:
 - bartkira
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/05/tumblr_mn8npm8cem1rc4waeo4_1280.gif
 ---
 
 [![51561806924](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)

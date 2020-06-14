@@ -10,6 +10,7 @@ wordpress_id: 710
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/04/screen-shot-2012-04-19-at-2-32-04-am.png
 ---
 
 Here's a little peak of what you can expect on the site. Check it out and stay tuned for the coming details. It's going to be a really special Expo this year, so make a mental note to be in Pittsburgh in early October.

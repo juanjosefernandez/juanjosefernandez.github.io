@@ -18,6 +18,7 @@ tags:
 - cartooning
 - doodles
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/11/ccsfacebook2012cover-big.jpeg
 ---
 
 Lots of ground to cover in this post.

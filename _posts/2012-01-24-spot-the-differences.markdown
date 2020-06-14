@@ -8,6 +8,7 @@ slug: spot-the-differences
 title: Spot the differences...
 wordpress_id: 484
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/01/robot_differences_-_juan_fernandez.jpeg
 ---
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/01/robot_differences_-_juan_fernandez.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/01/robot_differences_-_juan_fernandez.jpeg)

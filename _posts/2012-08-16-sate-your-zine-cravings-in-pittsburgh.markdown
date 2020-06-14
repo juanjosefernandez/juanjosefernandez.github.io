@@ -10,6 +10,7 @@ wordpress_id: 851
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/picture-1.png
 ---
 
 The Pittsburgh 'Zine fair is coming up real soon. Are you stoked?

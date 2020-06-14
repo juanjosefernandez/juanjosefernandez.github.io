@@ -15,6 +15,7 @@ tags:
 - comics
 - doodles
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/10/good-morning_web.jpg
 ---
 
 Holy fuckin' moley, what a month it's been. VIA in Pittsburgh, SPX in Bethesda, MICE in Boston and CCS in White River Junction.

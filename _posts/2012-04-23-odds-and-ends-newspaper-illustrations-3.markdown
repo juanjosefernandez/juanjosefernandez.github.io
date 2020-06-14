@@ -10,6 +10,7 @@ wordpress_id: 793
 categories:
 - Music
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/04/bannedbook.jpeg
 ---
 
 You know the drill. Here are some recent drawings that have gone in CMU's newspaper. They look great on newsprint.

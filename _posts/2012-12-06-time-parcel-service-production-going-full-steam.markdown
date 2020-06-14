@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/12/photo-on-12-5-12-at-12-03-am-4.jpg
 ---
 
 I've finished all of the screen printing for the CCS anthology! **Now to buckle down and finish the comics! **

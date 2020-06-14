@@ -10,6 +10,7 @@ wordpress_id: 555
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/friendlyghostcasperno24252c2baugust1960001.jpg
 ---
 
 I must be late to the game, seeing as how I just discovered the great repository of children's comics that Mykal Banta has put together. Truth be told, though, so long as I get to see these comics I'm happy to even be playing!

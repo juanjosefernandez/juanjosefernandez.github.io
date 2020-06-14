@@ -13,6 +13,7 @@ tags:
 - bcgf
 - brooklyn comics and gaphics festival
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/11/a6-h8s-cuaa1qdd.jpeg
 ---
 
 The eagerness of the sun to set nowadays is really hitting me hard. Given that the early dusk causes me to naturally feel down and generally drowsy, I'm fighting pretty hard to stay productive and on top of things. Slowly but surely things are getting done.

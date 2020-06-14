@@ -10,6 +10,7 @@ wordpress_id: 813
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/06/teenwolverine-1.jpeg
 ---
 
 'ey y'all. The next coming posts are going to be juicy so hold on to your butts.

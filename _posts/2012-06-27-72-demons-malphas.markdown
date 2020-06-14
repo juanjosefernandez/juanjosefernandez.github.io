@@ -10,6 +10,7 @@ wordpress_id: 893
 categories:
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/06/photo-43.jpg
 ---
 
 Hey all, I'm contributing to Tara Helfer's 72 Demons Project. I thought I'd share my work in progress.

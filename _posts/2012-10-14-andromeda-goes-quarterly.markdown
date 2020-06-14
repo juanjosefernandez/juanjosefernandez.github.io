@@ -16,6 +16,7 @@ tags:
 - comics
 - pittsburgh
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/10/andromeda-quarterly-1_cover-1.jpeg
 ---
 
 I'm excited to relay the following announcement from Little Tired Press regarding the newest issue of Andromeda and it's transition to a quarterly publication:

@@ -13,6 +13,7 @@ tags:
 - '''zines'
 - book fair
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/06/poster_letter_500.gif
 ---
 
 [![poster_letter_500](http://fernandezjuanjose.files.wordpress.com/2013/06/poster_letter_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/06/poster_letter_500.gif)

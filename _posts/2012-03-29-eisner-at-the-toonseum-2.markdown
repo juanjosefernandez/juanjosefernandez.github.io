@@ -11,6 +11,7 @@ categories:
 - Comics
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_-_will_eisner-_juan_fernandez_dsc_0395.jpeg
 ---
 
 As odd as it may seem, Pittsburghers can find a slice of the Big Apple in the heart of downtown Pittsburgh until May 27.
@@ -30,4 +31,4 @@ The ToonSeum’s main gallery houses the exhibition and displays it in a concent
 Small details in the exhibit like a light post, a fire hydrant, and a manhole cover make for nice touches that embellish the exhibition. These details invite visitors to experience the work viscerally, on their own terms, and to develop their own relationship with the master’s work and with the city of New York.
 
 
-![Image](http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_-_will_eisner-_juan_fernandez_dsc_0395.jpeg?w=487)
+![Image](http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_-_will_eisner-_juan_fernandez_dsc_0395.jpeg)

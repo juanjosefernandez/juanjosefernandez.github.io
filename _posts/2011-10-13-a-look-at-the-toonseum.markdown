@@ -8,6 +8,7 @@ slug: a-look-at-the-toonseum
 title: A look at the Toonseum
 wordpress_id: 345
 old: true
+image: https://media-cdn.tripadvisor.com/media/photo-s/02/66/7f/3d/toonseum-exterior.jpg
 ---
 
 Check out this look at the Toonseum.

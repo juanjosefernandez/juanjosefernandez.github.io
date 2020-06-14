@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/img_20120817_163407.jpg
 ---
 
 These past couple of days I've been volunteering during the big move for the Schulz Library at the Center for Cartoon Studies. Why a big move?

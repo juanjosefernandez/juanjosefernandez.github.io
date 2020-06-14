@@ -8,6 +8,7 @@ slug: odds-and-ends-work-for-the-tartan
 title: 'Odds and Ends: Work for the Tartan'
 wordpress_id: 578
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/qatar1.jpg
 ---
 
 A computer science program for women in CMU's Qatar branch.

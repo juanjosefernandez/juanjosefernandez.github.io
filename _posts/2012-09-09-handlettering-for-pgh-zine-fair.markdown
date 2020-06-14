@@ -10,6 +10,7 @@ wordpress_id: 1042
 categories:
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/09/pghzinefair.jpg
 ---
 
 Today I finished up a little page to celebrate the upcoming [Pittsburgh Zine Fair on September 22nd](http://pghzinefair.com/). Thought I'd share with y'all.

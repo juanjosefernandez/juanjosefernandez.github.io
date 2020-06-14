@@ -10,6 +10,7 @@ wordpress_id: 374
 categories:
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/11/dsc_0880.jpg
 ---
 
 

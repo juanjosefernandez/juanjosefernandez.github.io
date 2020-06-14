@@ -12,6 +12,7 @@ categories:
 - Comics
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/09/dsc_0162.jpg
 ---
 
 http://www.youtube.com/watch?v=MTbNVAkVeC8

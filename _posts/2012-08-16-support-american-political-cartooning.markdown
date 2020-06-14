@@ -10,6 +10,7 @@ wordpress_id: 926
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/picture-3.png
 ---
 
 The Toonseum, Pittsburgh's non-profit cartoon art museum has a new project that you folks might fancy.

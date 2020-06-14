@@ -16,6 +16,7 @@ tags:
 - screen printing
 - winter
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/12/a9goqlxccaehiak.jpg
 ---
 
 I would be lying to you if I told you I wasn't pooped.

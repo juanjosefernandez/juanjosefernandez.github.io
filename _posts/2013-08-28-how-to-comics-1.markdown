@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif
 ---
 
 [![tumblr_ms7y1ndrpG1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif)

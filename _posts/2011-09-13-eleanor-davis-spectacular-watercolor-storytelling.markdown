@@ -10,6 +10,7 @@ wordpress_id: 258
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/09/nita32.jpg
 ---
 
 Yesterday, while reading the last issue of MOME I came across a story, and therefore an artist that has really struck me. Here are some previews of her work. The cleanliness of her watercolors is breathtaking.

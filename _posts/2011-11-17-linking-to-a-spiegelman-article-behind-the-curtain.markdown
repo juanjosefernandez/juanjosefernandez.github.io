@@ -8,6 +8,7 @@ slug: linking-to-a-spiegelman-article-behind-the-curtain
 title: 'LINK: 15 minute interview with Spiegelman'
 wordpress_id: 373
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/11/metamaus_af.jpg
 ---
 
 A well curated look behind the painstaking work that Spiegelman putinto Maus over the course of 13 years is available to you, dear reader in MetaMaus.

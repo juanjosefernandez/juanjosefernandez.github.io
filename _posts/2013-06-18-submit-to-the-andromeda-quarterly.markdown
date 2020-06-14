@@ -15,6 +15,7 @@ tags:
 - anthology
 - comics anthology
 old: true
+image: http://25.media.tumblr.com/33b08903a5e1872605a155defbaf65fe/tumblr_moloubmvhF1rc4waeo1_400.gif
 ---
 
 ![](http://25.media.tumblr.com/33b08903a5e1872605a155defbaf65fe/tumblr_moloubmvhF1rc4waeo1_400.gif)

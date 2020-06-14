@@ -14,6 +14,7 @@ tags:
 - abstract comics
 - brecht evens
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/10/tezuka-piece-copy.png
 ---
 
 Here's a little experiment for Jason Lutes' Cartooning Studio. The goal is to evoke an intense emotional experience. Can you guess what I'm attempting to depict?

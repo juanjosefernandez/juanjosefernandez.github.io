@@ -10,6 +10,7 @@ wordpress_id: 1503
 categories:
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/vy1ky7r.gif
 ---
 
 I thought I'd share a pairing of experiences that I've recently enjoyed combining during late night drawing, particularly when silence doesn't cut it.

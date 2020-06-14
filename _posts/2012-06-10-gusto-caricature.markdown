@@ -10,6 +10,7 @@ wordpress_id: 840
 categories:
 - Music
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/06/gusto_edited_1.gif
 ---
 
 My bud, Juan spins records in Pittsburgh. He's a fly dude who goes by the stage name Gusto. He's well worth your attention if you like to move your ass. I've posted him about in the past, but I thought I'd bring him up again.

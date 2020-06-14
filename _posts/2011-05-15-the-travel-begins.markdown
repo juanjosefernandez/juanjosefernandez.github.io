@@ -8,6 +8,7 @@ slug: the-travel-begins
 title: The Travel Begins
 wordpress_id: 169
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/05/juandata014.jpg
 ---
 
 Lena and I are off to Spain in some hours, so I thought I'd give you a little morsel to remember me by.

@@ -10,6 +10,7 @@ wordpress_id: 223
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/08/poison.jpeg
 ---
 
 [caption id="" align="aligncenter" width="300" caption="The sketchbook doodle before entering the digital world."]

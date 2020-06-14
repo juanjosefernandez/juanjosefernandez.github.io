@@ -14,6 +14,7 @@ tags:
 - columbus
 - comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/04/screen-shot-2013-04-19-at-12-12.gif
 ---
 
 I'm Pittsburgh bound, but I have pangs to be in Columbus. At the Billy Ireland Library and Museum, more precisely. Man, what a spiritual place...

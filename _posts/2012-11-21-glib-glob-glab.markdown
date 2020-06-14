@@ -14,6 +14,7 @@ tags:
 - vermont
 - watercolor
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/11/dooooodle.png
 ---
 
 holy mother of god, I'm exhausted.

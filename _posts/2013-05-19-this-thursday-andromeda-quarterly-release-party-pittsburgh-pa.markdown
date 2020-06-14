@@ -13,6 +13,7 @@ tags:
 - andromeda quarterly
 - copacetic comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/05/andromeda_amimation.gif
 ---
 
 ![](http://fernandezjuanjose.files.wordpress.com/2013/05/andromeda_amimation.gif)

@@ -14,6 +14,7 @@ tags:
 - panel gags
 - understanding comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/12/philosoraptor-game.png
 ---
 
 It's been a long time since a defense of comics as a medium of expression has been necessary. You might not like _Zot,_ but _[Understanding Comics](http://en.wikipedia.org/wiki/Understanding_Comics) _was the defense that the medium had long been waiting for.

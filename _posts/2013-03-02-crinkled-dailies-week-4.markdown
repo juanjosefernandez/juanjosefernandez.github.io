@@ -16,6 +16,7 @@ tags:
 - Moomin
 - moomin troll
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/03/22_busby.gif
 ---
 
 [![22_busby](http://fernandezjuanjose.files.wordpress.com/2013/03/22_busby.gif)](http://fernandezjuanjose.files.wordpress.com/2013/03/22_busby.gif) [![23---Frozen-moment-school](http://fernandezjuanjose.files.wordpress.com/2013/03/23-frozen-moment-school.gif)](http://fernandezjuanjose.files.wordpress.com/2013/03/23-frozen-moment-school.gif) ![24---argus](http://fernandezjuanjose.files.wordpress.com/2013/03/24-argus.gif)[![25-moomin](http://fernandezjuanjose.files.wordpress.com/2013/03/25-moomin.gif)](http://fernandezjuanjose.files.wordpress.com/2013/03/25-moomin.gif)[![26_faculties](http://fernandezjuanjose.files.wordpress.com/2013/03/26_faculties.gif)![27_party](http://fernandezjuanjose.files.wordpress.com/2013/03/27_party.gif)![28_organs_of_acceptance_nonfull](http://fernandezjuanjose.files.wordpress.com/2013/03/28_organs_of_acceptance_nonfull.gif)](http://fernandezjuanjose.files.wordpress.com/2013/03/28_organs_of_acceptance_nonfull.gif)

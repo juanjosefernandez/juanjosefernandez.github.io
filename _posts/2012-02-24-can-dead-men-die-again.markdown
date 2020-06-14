@@ -11,6 +11,7 @@ categories:
 - Comics
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/deadman.gif
 ---
 
 Thanks to [Phantom of The Attic Comics](http://www.facebook.com/pages/Phantom-of-the-Attic-Comics-Oakland/270567764926) in Pittsburgh, I've gotten the pleasure to experience the 1986 mini-series put together by [Andrew Helfer ](http://en.wikipedia.org/wiki/Andy_Helfer)and [Jose Luís García-López.](http://en.wikipedia.org/wiki/José_Luis_Garc%C3%ADa-López) They were kind enough to bundle the 4 part series and to sell it at the ever reasonable cover price of 75cents a pop.

@@ -10,6 +10,7 @@ wordpress_id: 1012
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/194258_ivan_032.jpeg
 ---
 
 An oldie but a goodie from Ivan Brunetti from Schizo #4. [Riffin' on Wood.](http://www.bronxbanterblog.com/wordpress/wp-content/uploads/2012/03/wallywood22panel1600.jpg)

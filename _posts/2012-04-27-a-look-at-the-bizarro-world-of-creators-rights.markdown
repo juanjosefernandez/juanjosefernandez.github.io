@@ -8,6 +8,7 @@ slug: a-look-at-the-bizarro-world-of-creators-rights
 title: A look at the bizarro world of creator's rights
 wordpress_id: 789
 old: true
+image: https://www.fantagraphics.com/images/detailed/6/52e99dcb4e0c61f6eb75b748da7d12ed.jpg
 ---
 
 Chris Roberson, the co-creator of the DC comic, i-Zombie [speaks to Tim Hodler at TCJ](http://www.tcj.com/i-have-not-yet-had-any-conversation-with-any-creator-who-doesnt-agree-with-what-ive-said-an-interview-with-chris-roberson/) about his recent departure from DC and his first hand experiences with the ugly nature of DC's intellectual property practices when it comes to creator's rights.

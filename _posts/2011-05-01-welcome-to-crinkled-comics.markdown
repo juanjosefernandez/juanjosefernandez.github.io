@@ -10,6 +10,7 @@ wordpress_id: 15
 old: true
 categories:
 - Center For Cartoon Studies
+image: http://2.bp.blogspot.com/-1YQCZeIC91M/TauanwZ5h8I/AAAAAAAAANw/lctFo8wERtc/s1600/squiggle%2Bfriend%2B2.jpeg
 ---
 Well, hello there.
 

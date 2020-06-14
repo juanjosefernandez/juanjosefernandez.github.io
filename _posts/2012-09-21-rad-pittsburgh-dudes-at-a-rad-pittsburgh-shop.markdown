@@ -10,6 +10,7 @@ wordpress_id: 1081
 categories:
 - Comics
 old: true
+image: https://pbs.twimg.com/media/C3Rf5-cWEAAhKYM.jpg
 ---
 
 [Julie Sokolow](http://juliesokolow.com) put together a great little documentary of Jim Rugg, Jasen Lex, Tom Scioli and Ed Piskor's trip to Pittsburgh's [New Dimension Comics.](http://www.ndcomics.com)

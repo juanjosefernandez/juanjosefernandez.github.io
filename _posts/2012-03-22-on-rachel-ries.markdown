@@ -11,6 +11,7 @@ categories:
 - Music
 - Reviews
 old: true
+image: http://www.wewearperfume.com/wp-content/uploads/2015/10/rachel-ries-we-wear-perfume-01.jpg
 ---
 
 I'm going through a lot right now. Rachel Ries' music is helping me go through it. I met her last week in Austin. I thought I'd share her influence on me with you.

@@ -14,6 +14,7 @@ tags:
 - rhythm
 - watercolor
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_mrz2ns3d4u1rc4waeo1_500.gif
 ---
 
 [![tumblr_mrwfauyUrP1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_mrwfauyurp1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_mrwfauyurp1rc4waeo1_500.gif)

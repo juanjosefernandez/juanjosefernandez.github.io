@@ -15,6 +15,7 @@ tags:
 - charley harper
 - comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/10/harper-lineart-bitmap-reduction.gif
 ---
 
 As promised, here's a look at the Charley Harper styled comic poster that I mentioned earlier. Finally got a chance to redraw it. Nothing fancy, just a little wordless meditation. You know how much I like those.

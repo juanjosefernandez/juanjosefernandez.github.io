@@ -18,6 +18,7 @@ tags:
 - public library
 - sketches
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/11/appeal_fernandez.gif
 ---
 
 hearty greetings to all!

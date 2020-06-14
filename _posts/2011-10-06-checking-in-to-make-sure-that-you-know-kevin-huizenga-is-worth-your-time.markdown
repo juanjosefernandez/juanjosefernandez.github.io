@@ -10,6 +10,7 @@ wordpress_id: 324
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/10/kevin-huizenga-ganges-03.jpg
 ---
 
 Folks, I'm bogged down by linguistics classes, managing WRCT and printing and binding work for PIX, but I don't want the week to pass by without speaking to you. As such, I'll point you in the direction of 3 interesting and inspiring things.

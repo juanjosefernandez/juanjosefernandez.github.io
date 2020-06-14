@@ -10,6 +10,7 @@ wordpress_id: 573
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/doc-martins.jpeg
 ---
 
 A while back, Gene Fama put together some essays online that explore the process of effective comics production. I found this courtesy of Ed Piskor's blog. The process section that I found particularly interesting was [on coloring](http://www.fama.net/Process__Chapter_6/Process__Chapter_7/Process__Chapter_8/process__chapter_8.html). I would certainly argue that unless making art comix or anything avant garde as a commercial illustrator, your best bet is to respect the principles that Fama puts forward.

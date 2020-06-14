@@ -10,6 +10,7 @@ wordpress_id: 1686
 categories:
 - Notebooks
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/03/be2a_ezccaalqep-large1.jpg
 ---
 
 A notebook that fits in your breast pocket is a thing of beauty.

@@ -11,6 +11,7 @@ categories:
 - Comics
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/04/abstract-for-tartan-april.jpg
 ---
 
 Here's some quick, Bleck inspired movement. Nothing fancy.

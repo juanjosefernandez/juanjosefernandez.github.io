@@ -11,6 +11,7 @@ categories:
 - Comics
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/04/jim-rugg.jpeg
 ---
 
 [This article originally appeared in CMU's school Newspaper, the Tartan](https://thetartan.org/2012/4/16/pillbox/jim-rugg).

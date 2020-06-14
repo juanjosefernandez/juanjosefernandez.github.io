@@ -14,6 +14,7 @@ tags:
 - lab
 - literary arts boom
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif?w=590
 ---
 
 [![Finalstorytellers](http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif)Hey Pittsburghers!

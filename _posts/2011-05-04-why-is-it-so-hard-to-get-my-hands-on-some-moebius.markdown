@@ -12,6 +12,7 @@ categories:
 - Comics
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/05/doodles-juan-1.jpeg
 ---
 
 It's been a good day. Yesterday I finished pencilling out a solid storyboard for a comic that I'm making for my application for the Center for Cartoon Studies. It's going to be a cute one with some sexy ink.

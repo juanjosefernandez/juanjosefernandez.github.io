@@ -18,6 +18,7 @@ tags:
 - minicomics
 - self-publishing
 old: true
+image: http://media.tumblr.com/b904a080468c9246ff391958ee47ed33/tumblr_inline_mlsrog3HEj1qz4rgp.jpg
 ---
 
 _This article was co-written with [Simon Reinhardt.](http://www.simonreinhardt.tumblr.com) It_ originally appeared at [Dog City Press](http://www.dogcitypress.com).

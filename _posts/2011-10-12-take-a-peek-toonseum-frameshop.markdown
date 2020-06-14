@@ -8,6 +8,7 @@ slug: take-a-peek-toonseum-frameshop
 title: 'Take a peek: Toonseum Frameshop'
 wordpress_id: 342
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/10/photo-e1318406680447.jpg
 ---
 
 Now that the Toonseum has expanded it has begun to move into its new space.

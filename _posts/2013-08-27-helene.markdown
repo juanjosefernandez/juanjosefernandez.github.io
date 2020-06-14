@@ -14,6 +14,7 @@ tags:
 - dupuy and berberian
 - watercolor
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/08/helene_3_joined.gif
 ---
 
 Helene was written using [bibliomancy](http://en.wikipedia.org/wiki/Bibliomancy).

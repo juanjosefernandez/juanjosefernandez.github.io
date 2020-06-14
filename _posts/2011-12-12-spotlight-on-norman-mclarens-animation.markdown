@@ -10,6 +10,7 @@ wordpress_id: 403
 categories:
 - Music
 old: true
+image: https://assets.mubicdn.net/images/film/3790/image-w1280.jpg?1481128231
 ---
 
 Almost finished with the semester.

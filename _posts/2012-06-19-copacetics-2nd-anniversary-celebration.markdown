@@ -10,6 +10,7 @@ wordpress_id: 887
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/06/copaceticann2.jpeg
 ---
 
 When's the last time you stopped by Pittsburgh's Copacetic Comics? Has it been too long? Well, this weekend might be the weekend to change that. For two days you can celebrate by emptying your wallet and filling your backpacks and handbags with comics and artbooks galore at the 2nd Anniversary Celebreation of Copacetic's location in Polish Hill. There'll be sale prices on the raddest of the rad, so it's certainly not something to miss out on.

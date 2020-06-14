@@ -15,6 +15,7 @@ tags:
 - carnegie museum of art
 - drawing power
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/pghzinefairdouble-107-2114581968-o.jpeg
 ---
 
 During the last week that I've spent back in Pittsburgh, I've been repeatedly reminded by how invigorating its community of creators has been for me in my growth as a cartoonist. It's a great place filled with some truly hard working creators.

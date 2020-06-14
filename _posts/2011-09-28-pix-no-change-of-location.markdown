@@ -10,6 +10,7 @@ wordpress_id: 297
 categories:
 - Center For Cartoon Studies
 old: true
+image: https://images.squarespace-cdn.com/content/5abaf5daaa49a1b4940cba6f/1582767626601-GW4UVSBMWCLZHVQ0NPM8/Bill+Boichel+rectangle.jpg
 ---
 
 Courtesy of PIX:

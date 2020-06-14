@@ -10,6 +10,7 @@ wordpress_id: 215
 categories:
 - Process
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/08/prototypin.jpeg
 ---
 
 Chuggin' along prototyping the mini-comics for SPX, CCS, PIX and the Pittsburgh zine fair.

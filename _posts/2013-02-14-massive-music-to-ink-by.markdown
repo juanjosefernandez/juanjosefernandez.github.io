@@ -10,6 +10,7 @@ wordpress_id: 1537
 categories:
 - Music
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/massivemusicschedule2013small.jpeg
 ---
 
 WRCT Pittsburgh, [my radio alma mater](http://www.wrct.org/), is putting together their annual Massive Music Weekend broadcast. The fine folks at 88.3 FM will be curating 120 30 minute blocks of the finest musical selections that they can get their greasy paws on.

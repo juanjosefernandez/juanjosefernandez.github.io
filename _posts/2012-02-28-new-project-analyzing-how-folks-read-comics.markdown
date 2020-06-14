@@ -10,6 +10,7 @@ wordpress_id: 596
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/img_0925a1.jpeg
 ---
 
 The biggest thing that I've been up to here in the ivory tower is work related to developing a way to quantifiably analyze how people read comics.

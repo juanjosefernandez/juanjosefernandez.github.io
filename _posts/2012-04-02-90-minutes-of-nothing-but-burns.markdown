@@ -10,6 +10,7 @@ wordpress_id: 704
 categories:
 - Comics
 old: true
+image: https://www.lambiek.net/artists/image/b/burns/burns_bigbaby.jpg
 ---
 
 I'm busy, but you deserve a post, dear reader.

@@ -11,6 +11,7 @@ categories:
 - Music
 - Reviews
 old: true
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Color_icon_red.svg/800px-Color_icon_red.svg.png
 ---
 
 A recent article that I wrote for CMU's newspaper, The Tartan:

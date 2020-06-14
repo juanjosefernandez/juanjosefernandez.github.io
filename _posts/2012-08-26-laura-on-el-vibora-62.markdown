@@ -8,6 +8,7 @@ slug: laura-on-el-vibora-62
 title: 'Laura on El Vibora #62'
 wordpress_id: 981
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/elvibora62.jpg
 ---
 
 Just something I thought I'd share. Drawn by Laura in 1984, ain't it a beauty?

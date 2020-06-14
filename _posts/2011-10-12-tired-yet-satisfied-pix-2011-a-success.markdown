@@ -10,6 +10,7 @@ wordpress_id: 334
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/10/photo-1.jpg
 ---
 
 As promised I survived last weekend. I'm swamped with work and I'm looking near and far for time to get everything done. All I know is that I'm not letting myself survive on caffeine. I crash way too hard. I'm dealing with so many people at the station and the Toonseum that being incapacitated by lack of sleep isn't a valid option.

@@ -12,6 +12,7 @@ categories:
 - Comics
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/08/2012-08-20-05-06-53-1.jpg
 ---
 
 [The Schulz Library](http://www.cartoonstudies.org/index.php/schulz-library/) is officially open. The first thing I've taken out is Jordan Crane's Non #5.

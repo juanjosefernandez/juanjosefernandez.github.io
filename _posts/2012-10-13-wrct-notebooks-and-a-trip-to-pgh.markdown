@@ -15,6 +15,7 @@ tags:
 - comics
 - VIA
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/10/341448_4594131779641_860724763_o.jpeg
 ---
 
 I christen this the beginning of an era of regular updates.

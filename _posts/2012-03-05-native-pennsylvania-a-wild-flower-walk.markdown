@@ -10,6 +10,7 @@ wordpress_id: 653
 categories:
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_-_hunt_library_flowers_-_kate_groschner_dsc_29161.jpeg
 ---
 
 ## Hunt Institute’s collection of plants and watercolors takes viewers on visual tour

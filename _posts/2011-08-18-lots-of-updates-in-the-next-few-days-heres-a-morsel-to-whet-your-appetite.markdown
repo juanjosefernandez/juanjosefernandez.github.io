@@ -10,6 +10,7 @@ wordpress_id: 191
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/08/contemplation.jpg
 ---
 
 Give me a caption and we'll see how it fits.[![Contemplation](http://fernandezjuanjose.files.wordpress.com/2011/08/contemplation.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/08/contemplation.jpg)

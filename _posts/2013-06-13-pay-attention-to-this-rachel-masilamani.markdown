@@ -15,6 +15,7 @@ tags:
 - RPM Comics
 - xeric grant
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/06/8553874_orig_cut.jpg
 ---
 
 _This article orginally appeared in [Dog City: Issue 1](http://www.dogcitypress.com/about)_

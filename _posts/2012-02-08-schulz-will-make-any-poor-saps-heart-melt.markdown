@@ -10,6 +10,7 @@ wordpress_id: 497
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/love1.jpeg
 ---
 
 <blockquote>

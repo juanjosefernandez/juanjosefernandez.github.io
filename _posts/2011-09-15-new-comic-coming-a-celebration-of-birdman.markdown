@@ -12,6 +12,7 @@ categories:
 - Comics
 - Process
 old: true
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Queen_Victoria_after_Heinrich_von_Angeli.jpg/800px-Queen_Victoria_after_Heinrich_von_Angeli.jpg
 ---
 
 In the works is a new comic done at a scale unprecedented for me. There will be a total of 12 frames, 2 huge, 2 skinny horizontal strips and 8 standard rectangles.

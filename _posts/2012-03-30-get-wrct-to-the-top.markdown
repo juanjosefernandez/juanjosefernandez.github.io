@@ -10,6 +10,7 @@ wordpress_id: 673
 categories:
 - Music
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/03/wrct-spinning1.gif
 ---
 
 Shameless self-promotion:

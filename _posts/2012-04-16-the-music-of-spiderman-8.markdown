@@ -11,6 +11,7 @@ categories:
 - Comics
 - Music
 old: true
+image: https://fernandezjuanjose.files.wordpress.com/2012/04/2987741688.jpeg?w=431
 ---
 
 Holy moly maca-role!

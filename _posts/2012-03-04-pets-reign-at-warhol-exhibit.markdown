@@ -10,6 +10,7 @@ wordpress_id: 605
 categories:
 - Reviews
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_dgr_01_1998-1-202.jpg
 ---
 
 

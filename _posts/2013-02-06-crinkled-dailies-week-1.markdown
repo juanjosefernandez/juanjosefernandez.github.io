@@ -13,6 +13,7 @@ tags:
 - dailies
 - daily comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/1-runasfast.gif
 ---
 
 Greetings from the Crinkled Corner.

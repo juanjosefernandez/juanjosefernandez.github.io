@@ -15,6 +15,7 @@ tags:
 - pittsburgh
 - small press
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/07/zine-fair-flyer-bw.jpg
 ---
 
 [caption id="attachment_184" align="aligncenter" width="590" caption="handbill designed by the ever talented Andy Scott."][![](http://fernandezjuanjose.files.wordpress.com/2011/07/zine-fair-flyer-bw.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/07/zine-fair-flyer-bw.jpg)[/caption]

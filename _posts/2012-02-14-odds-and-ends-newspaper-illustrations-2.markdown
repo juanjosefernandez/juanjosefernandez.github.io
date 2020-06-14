@@ -8,6 +8,7 @@ slug: odds-and-ends-newspaper-illustrations-2
 title: 'Odds and Ends: Newspaper Illustrations 2'
 wordpress_id: 536
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg
 ---
 
 ![](http://fernandezjuanjose.files.wordpress.com/2012/02/elsevier.jpg)**Support grows for the boycott of Elsevier, the academic Journal**

@@ -15,6 +15,7 @@ tags:
 - comic strips
 - krazy kat
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/10/final-krazy-boat.png
 ---
 
 Ain't got too much to say today, just wanted to share some strips I made with you.

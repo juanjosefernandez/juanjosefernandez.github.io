@@ -10,6 +10,7 @@ wordpress_id: 474
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/01/4585337305_123f292184_o.jpeg
 ---
 
 Hey y'all,.

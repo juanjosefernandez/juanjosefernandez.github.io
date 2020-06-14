@@ -11,6 +11,7 @@ categories:
 - Center For Cartoon Studies
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2012/09/photo-on-2012-09-13-at-12-54-3.jpg
 ---
 
 Right before SPX 2012, a couple of us in the first year class at CCS decided to make an anthology. 

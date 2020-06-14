@@ -15,6 +15,7 @@ tags:
 - golden age
 - modern sketch
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/06/tumblr_mo41dykp9x1r0zb46o1_1280.jpeg
 ---
 
 ![tumblr_mo41dykP9x1r0zb46o1_1280](http://fernandezjuanjose.files.wordpress.com/2013/06/tumblr_mo41dykp9x1r0zb46o1_1280.jpeg?w=590)

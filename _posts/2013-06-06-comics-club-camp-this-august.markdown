@@ -13,6 +13,7 @@ tags:
 - comics classes
 - comics club camp
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg
 ---
 
 [![color_ccc_flyer_version 2](http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg)**Hey Pittsburghers!**

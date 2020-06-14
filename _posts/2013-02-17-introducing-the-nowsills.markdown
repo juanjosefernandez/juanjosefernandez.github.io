@@ -16,6 +16,7 @@ tags:
 - Nowsills
 - silver age
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/nowsills-final-cover.png
 ---
 
 [![Nowsills final cover](http://fernandezjuanjose.files.wordpress.com/2013/02/nowsills-final-cover.png)](http://fernandezjuanjose.files.wordpress.com/2013/02/nowsills-final-cover.png)

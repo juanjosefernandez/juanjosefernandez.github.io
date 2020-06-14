@@ -8,6 +8,7 @@ slug: occupy-gezi-this-is-nuts-here-are-some-resources
 title: Occupy Gezi - this is nuts - here are some resources
 wordpress_id: 2034
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/06/picture-2.png
 ---
 
 I normally don't post non-comics related things, but this is important.

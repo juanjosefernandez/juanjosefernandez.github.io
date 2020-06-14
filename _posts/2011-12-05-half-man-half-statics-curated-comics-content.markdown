@@ -10,6 +10,7 @@ wordpress_id: 384
 categories:
 - Comics
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2011/12/greenbleedhsofmyst201.jpg
 ---
 
 I'm just about wrapped up for the Fall Semester at Carnegie Mellon. Lots of work to complete before I go home, so for now all I've really got is link that you, my good reader, might enjoy.

@@ -14,6 +14,7 @@ tags:
 - ernie bushmiller
 - nancy
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mi3hwvijcx1s5zj6uo1_400.gif
 ---
 
 A fellow CCS student and friend, [Luke Healy](http://www.lukewhealy.com), and I have started putting together a collection of Nancy gifs that channel our love for Bushmiller's world. We've just started, but we hope to go far!

@@ -16,6 +16,7 @@ tags:
 - reading
 - writing
 old: true
+image: http://fernandezjuanjose.files.wordpress.com/2013/07/superstars.gif
 ---
 
 [![julybanner](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)Hot dog. July's been a busy month in Pittsburgh!
