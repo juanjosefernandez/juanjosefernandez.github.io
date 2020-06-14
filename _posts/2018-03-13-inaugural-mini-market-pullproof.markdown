@@ -9,11 +9,13 @@ title: Inaugural Mini-market @ Pullproof
 wordpress_id: 2625
 old: true
 image: https://fernandezjuanjose.files.wordpress.com/2018/03/unnamed.gif
+excerpt_separator: "<!--more-->"
 ---
 
 ![PULLPROOF Studios - mini-market](https://fernandezjuanjose.files.wordpress.com/2018/03/unnamed.gif)
 
 The weekend before last I sold and shared comics during the Penn Avenue _Unblurred _gallery crawl. I set up shop at PULLPROOF Studio's inaugural Mini-Market. All in all, it featured zines, prints, and jewelry by a local crew of great artists. It was really nice company. Among us were [Jenna Houston](https://studio.us17.list-manage.com/track/click?u=a15f9ef9b5110e39e5b52b696&id=ec608b3b72&e=51ebdeb0bb), [Lizzee Solomon](https://studio.us17.list-manage.com/track/click?u=a15f9ef9b5110e39e5b52b696&id=7bfb56e495&e=51ebdeb0bb), [City Slicker Press](https://studio.us17.list-manage.com/track/click?u=a15f9ef9b5110e39e5b52b696&id=aa0917bf4e&e=51ebdeb0bb), [Max Emiliano Gonzales](https://studio.us17.list-manage.com/track/click?u=a15f9ef9b5110e39e5b52b696&id=66b70fc7e1&e=51ebdeb0bb), [Jerome "Chu" Charles](https://studio.us17.list-manage.com/track/click?u=a15f9ef9b5110e39e5b52b696&id=d9e31dfbce&e=51ebdeb0bb), Asia Lae, Lilian Kababa!
+<!--more-->
 
 [PULLPROOF Studio](https://studio.us17.list-manage.com/track/click?u=a15f9ef9b5110e39e5b52b696&id=9ad575d1ff&e=51ebdeb0bb) is an in-progress printmaking studio in Pittsburgh, PA. They intend to offer a fully equipped silkscreen printing facility with a shared workspace and small storefront gallery at [5112 Penn Avenue](https://maps.google.com/?q=5112+Penn+Avenue&entry=gmail&source=g) in the Garfield neighborhood of Pittsburgh, Pennsylvania. Their mission is to provide affordable access to silkscreen printing equipment, space, and time to artists in the Western Pennsylvania area. It's going to be nice to have them in addition to the Artists Image Resource on the North Side._
 _

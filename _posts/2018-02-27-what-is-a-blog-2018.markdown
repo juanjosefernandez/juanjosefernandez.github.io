@@ -9,11 +9,13 @@ title: what is a blog? (2018)
 wordpress_id: 2611
 old: true
 image: https://fernandezjuanjose.files.wordpress.com/2018/02/screen-shot-2018-02-27-at-4-45-50-pm.png
+excerpt_separator: "<!--more-->"
 ---
 
 Oh boy, the last post here is from, what, two years ago? Oof, these past two years have been a bumpy ride.
 
 Life has gone in a lot of directions and I've had to let go of a lot of things for my own mental and emotional health. I'm now 27 and the flow of time is getting weird. I'm not old, but I'd be lying if I told you I had the energy I had when I started this blog six years ago. Maybe that's a blessing in disguise, though. The past 2 years have seen me double down on the things that actually matter. Not just pissing away tons of energy in 8 directions at once, to no noticeable effect.
+<!--more-->
 
 In this energetic vein, digital communications are completely different creature today than they were in 2004, let alone 2008. These days, there's 8 conversations going on in pieces across 4 different communications platforms. It's overwhelming trying to stay abreast of it all. Often times I lose myself and feel out of time. Not in a good "eternal" way, more of a twilight zone type of feeling. It's really draining.
 

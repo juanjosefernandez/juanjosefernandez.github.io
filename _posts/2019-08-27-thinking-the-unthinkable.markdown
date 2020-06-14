@@ -19,11 +19,13 @@ tags:
 - semiotics
 - systems
 - vision
+excerpt_separator: "<!--more-->"
 ---
 
 This weekend Jenn and I took a trip to visit her parents in Garrettsville. It was quiet little weekend. We got in late Friday night as we usually do, traveling from Pittsburgh via the Turnpike. The sunset was especially glorious that night. Clouds tipped with fluorescent pink.
 
 On Saturday, Jenn and Joyce went out to Goodwill, as they are want to do. The thrift store goods shown their light on Jenn. She found pair after pair of pants, exactly her size. Great brands. All for around $3 each. Ace. I spent some time walking around outside while they were gone. I poked around in the garden. Joyce's garden is bursting, though a little overgrown at the moment, it's full of life. In the nearby coop she has new chickens that she and her neighbor have been incorporating into their flock. They seem to be getting on well. Saturday saw 5 eggs. Sunday just 1.
+<!--more-->
 
 While they were out, I watched an incredible talk presented by Bret Victor at the MIT Media Lab in 2013. It was called "[Media for Thinking the Unthinkable](https://www.youtube.com/watch?v=oUaOucZRlmE&feature=youtu.be)". It was recommended by my friend Max Krieger, who is a current undergraduate in Mathematics at CMU. It was amazing.
 

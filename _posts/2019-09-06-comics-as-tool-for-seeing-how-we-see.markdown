@@ -19,6 +19,7 @@ tags:
 - syntax
 - vision
 image: https://fernandezjuanjose.files.wordpress.com/2019/09/dynamical-vision_2500_lede.jpg?w=739
+excerpt_separator: "<!--more-->"
 ---
 
 _These are further reflections on thoughts from a previous post to help me prepare my thoughts for a talk that I'm giving at the [Small Press Expo in Bethesda, Maryland.](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)_
@@ -34,6 +35,7 @@ I look at comics a lot. But I don't look at them the way I think you think I do.
 Deep down I'm a linguist trying to understand language, particularly interested in visual language. I'm convinced that comics are attractive to us as a mode of expression because they allow our human eyes to read images that line up with the mental models that we create for how we "see" the world. You can think of cartoons as diagrams of our existing, procedural abstractions of the world and comics sequences as visual abstractions of how we model the passage of time in our minds.
 
 Why do we cartoon the way we do? Is there a biological reason for it? I believe so.
+<!--more-->
 
 I recently read an article on the first [anatomically accurate mathematical model that explains how vision is possible](https://www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/)**.** It was interesting. It’s a model that recognizes how we can create such seemingly rich visual depictions of the world in our mind despite there only being just 10 or so nerve cells that connect the retina to the visual cortex. The part that really got to me was the idea that these 10 Lateral Genticulate Nucleus cells are scarce and can’t do much. They send a pulse to the visual cortex when they detect a change from dark to light, or vice versa, in their tiny section of the visual field. And that’s it. On. Off.
 

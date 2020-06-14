@@ -11,6 +11,7 @@ categories:
 - Comics
 old: true
 image: https://fernandezjuanjose.files.wordpress.com/2018/03/static1-squarespace.gif
+excerpt_separator: "<!--more-->"
 ---
 
 
@@ -31,6 +32,8 @@ _**Time to settle in and make some comics! **_This should take a little over an
 - - - - - - - - - - - - -
 
 To start, here's a thought: Comics is the visual language of encoding and decoding realities. Nibble on that for a little while you work on this week's excercise.
+<!--more-->
+
 
 - - - - - - - - - - - - -
 

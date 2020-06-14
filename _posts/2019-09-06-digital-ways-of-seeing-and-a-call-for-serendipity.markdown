@@ -10,6 +10,7 @@ image: "http://comicsworkbook.com/wp-content/uploads/2017/01/pd_banner_magnified
 wordpress_id: 2742
 categories:
 - Linguistics
+excerpt_separator: "<!--more-->"
 ---
 
 Lately, I've been really interested in how we create and share information (and truth) across the web.
@@ -17,6 +18,7 @@ Lately, I've been really interested in how we create and share information (and 
 Did you know that [more than 180,000 of the items in the New York Public Library's Digital Collections are in the public domain](https://www.nypl.org/research/collections/digital-collections/public-domain)? It's true! My friend, Aaron Cockle, showed me that a year ago, the NYPL had announced this new part of their digitally accessible collection. Thanks Aaron.
 
 Now everyone has the freedom to enjoy, modify, reuse and share the materials in almost limitless ways! NYPL now makes it possible to download these items in the highest resolution available, directly from the Digital Collections website. _They're BIG files._
+<!--more-->
 
 [![](http://comicsworkbook.com/wp-content/uploads/2017/01/pd_banner_magnified_0.png)](http://comicsworkbook.com/wp-content/uploads/2017/01/pd_banner_magnified_0.png) **Explore the NYPL Public Domain Digital Collection with their visualization tool.**
 

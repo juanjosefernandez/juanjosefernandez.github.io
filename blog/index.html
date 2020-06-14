@@ -18,10 +18,12 @@ title: Blog Archive
           <img src={{post.image}} class="banner"/>
         </a>
     {%- endif -%}
-    {%- if site.show_excerpts -%}
+    <p>         
+      {{ post.excerpt }} <a href="{{post.url | prepend: site.baseurl}}">Read more >></a>
+    </p>
+    <!-- {%- if site.show_excerpts -%} -->
         <!-- <p>test</p> -->
-        {{ post.excerpt }}
-    {%- endif -%}
+    <!-- {%- endif -%} -->
 </li>
 {% endfor %}
 </ul>

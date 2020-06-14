@@ -18,11 +18,13 @@ tags:
 - signal
 - signal processing
 - writing
+excerpt_separator: "<!--more-->"
 ---
 
 The other night, over dinner here in Pittsburgh, Jenn and I were talking about making autobio comics and she asked “Are comics mostly writing? Only?”. It made me stop in my tracks.
 
 **That’s a good question.**
+<!--more-->
 
 To me, comics are more writing than they are drawing. That writing process, though, is one that far different from this common notion:
 

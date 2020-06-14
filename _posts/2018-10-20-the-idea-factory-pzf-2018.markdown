@@ -9,6 +9,7 @@ title: The Idea Factory + PZF 2018
 wordpress_id: 2644
 old: true
 image: http://comicsworkbook.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-18-at-3.31.03-PM.png
+excerpt_separator: "<!--more-->"
 ---
 
 Last weekend was a brilliant doozy here in Pittsburgh. I mentioned that it was a busy one, so you knew something was coming!
@@ -18,6 +19,7 @@ Last weekend was a brilliant doozy here in Pittsburgh. I mentioned that it was a
 
 I was programmatically double booked, with a cartooning program, the Idea Factory, from 10am-4pm at the Children’s Museum on Saturday and Sunday, and then as one of the head organizers of the Pittsburgh Zine Fair the zine fair’s annual mixer and reading from 4pm-7pm and the main zine fair event from 2-8pm. Combining the setting up, the striking, the picking up of a U-haul and tables Sunday morning at 6am… It was a lot. Thankfully, I wasn’t afraid to ask for help and got the much-needed assistance from the cartooning team that I scheduled at the museum, and my fellow zine fair organizers. Thank you so much.
 
+<!--more-->
 
 
 

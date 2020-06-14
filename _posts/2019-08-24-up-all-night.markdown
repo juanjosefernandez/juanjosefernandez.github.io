@@ -8,6 +8,7 @@ slug: up-all-night
 title: Up all night
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gradient_of_a_Function.tif/lossy-page1-560px-Gradient_of_a_Function.tif.jpg"
 wordpress_id: 2702
+excerpt_separator: "<!--more-->"
 ---
 
 It's difficult to get things done after work as an adult.
@@ -15,6 +16,7 @@ It's difficult to get things done after work as an adult.
 And I want to do so much. I need to do so much. This isn't me being overly ambitious. I need to do so much if I want to be able to change the material conditions of my life and those of those around me.
 
 Capitalism is a bloodthirsty vampire. It wants all of me. It sucks. The society we live in is trying to extract as much out of me as a worker and consumer as it can, and in that extraction there is so little room to breathe. It doesn't have to be this way. But at the moment the self perpetuating system that benefits few at the cost of many wants to keep it that way.
+<!--more-->
 
 There's so much I want to learn how to do and so much I want to just experience. But there's so little time to take care of myself and Jenn outside of work. Let alone rest.
 

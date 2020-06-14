@@ -8,7 +8,7 @@
 ### Blog Archive
 - [x] paginate the BLOG posts section 
 - [x] make homepage display the full content of the 5 posts
-- [ ] make blog archive show post.excerpt
+- [x] make blog archive show post.excerpt
 
 ### Categories
 - [ ] Have categories appear at the bottom of each post, as clickable buttons that take you to a category page listing all the posts of that category - Useful: https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/ https://stackoverflow.com/questions/20872861/jekyll-display-posts-by-category https://blog.webjeda.com/jekyll-categories/

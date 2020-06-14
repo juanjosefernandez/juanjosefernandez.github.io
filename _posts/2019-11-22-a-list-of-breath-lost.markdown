@@ -12,6 +12,7 @@ categories:
 - Comics
 - Linguistics
 - Process
+excerpt_separator: "<!--more-->"
 ---
 
 ![](https://fernandezjuanjose.files.wordpress.com/2019/11/59546519749__cfb60dc3-6d01-4949-957d-b1d0b98f3016.jpg?w=739) *I got on the wrong bus, mistaking a 56 for a 58. eyes grow weary, roads become rivers*
@@ -19,6 +20,7 @@ categories:
 Tom Spurgeon, THE COMICS REPORTER, is gone.
 
 I keep thinking about Tom. I barely knew him. I mean, I did and I didn't. And yet, I've been thinking about him everyday. I miss him. I couldn't exist making, reading and theorizing about comics and visual language in America without someone like Tom, building the internet.
+<!--more-->
 
 Spend some time in the archives of his website to remember him, if you can http://www.comicsreporter.com/.
 

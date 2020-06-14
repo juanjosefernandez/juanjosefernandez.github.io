@@ -12,8 +12,10 @@ tags:
 - lenticular
 old: true
 image: https://fernandezjuanjose.files.wordpress.com/2019/03/03b.gif
+excerpt_separator: "<!--more-->"
 ---
 
 This is a sneak peak at the files I'm using to print a new series of comics!
+<!--more-->
 
 Enjoy :)[![](https://fernandezjuanjose.files.wordpress.com/2019/03/01b.gif)](https://fernandezjuanjose.files.wordpress.com/2019/03/01b.gif) [![](https://fernandezjuanjose.files.wordpress.com/2019/03/02d.gif)](https://fernandezjuanjose.files.wordpress.com/2019/03/02d.gif) [![](https://fernandezjuanjose.files.wordpress.com/2019/03/03b.gif)](https://fernandezjuanjose.files.wordpress.com/2019/03/03b.gif) [![](https://fernandezjuanjose.files.wordpress.com/2019/03/04c.gif)](https://fernandezjuanjose.files.wordpress.com/2019/03/04c.gif)

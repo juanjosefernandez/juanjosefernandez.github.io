@@ -8,11 +8,13 @@ slug: back-in-the-saddle
 title: Back in the Saddle
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cmu_panorama.jpg/1500px-Cmu_panorama.jpg"
 wordpress_id: 2673
+excerpt_separator: "<!--more-->"
 ---
 
 I'm back on campus at Carnegie Mellon University. Can you believe it? It's really strange to be back here. I rode the bus from where I live, in Greenfield, and to my surprise I wound up catching the ending of the Freshman Orientation Event. There were hordes of 18 year olds. Loud, overly peppy, semi-euro sounding pop. Bright lights, big sounds.
 
 I was hoping to get to the Hunt Library after work, but alas, it seems that they aren't open late this week. During the school year they are open 24-hours a day. It's a little unhealthy... But it is good to have a space like that here, where people will wind up all night anyway.
+<!--more-->
 
 What am I doing here at CMU? Research on Visual Language Theory.  I'm exploring it's intersection with comics and seeing if I can create a thoroughly researched treatise on how comics can or cannot manifest the things that we expect traditional notions of language to do. Embedding clauses, representing epistemic knowledge, indirect reference, indexicality, among other things!
 
