@@ -10,15 +10,15 @@
 - [x] make homepage display the full content of the 5 posts
 - [x] make blog archive show post.excerpt
 
-### Categories
-- [ ] Have categories appear at the bottom of each post, as clickable buttons that take you to a category page listing all the posts of that category - Useful: https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/ https://stackoverflow.com/questions/20872861/jekyll-display-posts-by-category https://blog.webjeda.com/jekyll-categories/
-
 ### Newsletter
 -[x] Add newlsetter https://medium.com/@davideiaiunese/the-problem-why-a-newsletter-baae4409a526
 Uses feedburner.google.com
 -[ ]Confirm Newsletter is working properly by testing it
 -[ ] Set up weekly Feed round up for posts using the feed .xml
 -[ ]Tweak the feeburner formatting to be nice.
+
+### Categories
+- [ ] Have categories appear at the bottom of each post, as clickable buttons that take you to a category page listing all the posts of that category - Useful: https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/ https://stackoverflow.com/questions/20872861/jekyll-display-posts-by-category https://blog.webjeda.com/jekyll-categories/
 
 ### Add Contact Page
 - [ ] Find simple tutorial
