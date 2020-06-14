@@ -6,14 +6,14 @@
  
 
   <div class="wrapper">
-     <!--  -->
+     <!-- Email Subscription Form  -->
   <div class="newsletter-container ">
     <!-- <p class="newsletter-text"></p> -->
     <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=JuanJoseFernandez', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
   
         <p class="newsletter-text">Get new posts in your inbox</p>
   
-        <input type="hidden" value="Juan's Blog" name="uri" />
+        <input type="hidden" value="JuanJoseFernandez" name="uri" />
   
         <input type="hidden" name="loc" value="en_US" />
         
@@ -29,6 +29,7 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
+            toot
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
