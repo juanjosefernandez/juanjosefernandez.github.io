@@ -13,6 +13,7 @@
 
 ### Newsletter
 -[ ] Add newlsetter https://medium.com/@davideiaiunese/the-problem-why-a-newsletter-baae4409a526
+Uses feedburner.google.com
 
 ### Additional Content
 - [ ] Add posts from Instagram that had considerable writing or worthwhile images.
