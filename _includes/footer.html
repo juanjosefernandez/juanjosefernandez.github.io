@@ -1,35 +1,11 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <!-- <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=JuanJoseFernandez', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="JuanJoseFernandez" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form> -->
-  
- 
-
-  <div class="wrapper">
-     <!-- Email Subscription Form  -->
-  <div class="newsletter-container ">
-    <!-- <p class="newsletter-text"></p> -->
-    <form class="newsletter-form" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=JuanJoseFernandez', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-  
-        <p class="newsletter-text">Get new posts in your inbox</p>
-  
-        <input type="hidden" value="JuanJoseFernandez" name="uri" />
-  
-        <input type="hidden" name="loc" value="en_US" />
-        
-        <input class="newsletter-email" type="text" name="email" placeholder="name@example.com" />
-  
-        <input class="newsletter-submit" type="submit" value="Subscribe" />
-  
-    </form>
-    </div>
-    <!--  -->
-
+<div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            toot
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
@@ -50,9 +26,7 @@
         <p class="italic">{{- site.description | escape -}}</p>
       </div>
     </div>
-
-
-
   </div>
+
 
 </footer>
