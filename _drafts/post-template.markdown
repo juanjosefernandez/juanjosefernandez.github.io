@@ -7,17 +7,11 @@ link: http://juanjosefernandez.com/2020/04/06/on-kernel-image-transformations/
 slug: on-kernel-image-transformations
 title: On Kernel Image Transformations
 image: "https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png" 
-wordpress_id: 2833
 categories:
-- Comics
-- Linguistics
+- DEFAULT
 tags:
-- Kernel Image
-- Kernel Sentence
-- Thomas Werner
-- Visual Language
-- Visual Language Theory
-- Zellig Harris
+- DEFAULT
+excerpt_separator: "<!--more-->"
 ---
 
 I'd like to share the paper I wrote for my senior thesis in linguistics from Carnegie Mellon University, [**Kernel Image Transformations: **An exploration of transformational grammar in visual language](https://fernandezjuanjose.files.wordpress.com/2020/04/thesis-juan-fernandez-kernel-image-transformations.pdf). My advisor for this was the ever helpful and patient, Thomas Werner. A huge thank you to him for helping me cross the finish-line on this.
