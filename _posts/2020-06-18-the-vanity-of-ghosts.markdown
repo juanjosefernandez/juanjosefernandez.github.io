@@ -4,9 +4,13 @@ comments: true
 layout: post
 image: /assets/images/Inferno_Canto_3_line_9.jpg
 categories:
-- DEFAULT
+- Essay
 tags:
-- DEFAULT
+- Instagram
+- Social Media
+- Psychology
+- Internet
+- Loneliness
 excerpt_separator: "<!--more-->"
 music: BIBLICAL VIOLENCE by Hella  
 ---
