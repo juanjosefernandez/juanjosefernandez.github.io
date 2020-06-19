@@ -1,10 +1,12 @@
 ---
-# author: Juan Jose Fernandez
+author: Juan Jose Fernandez
 comments: true
 layout: post
+title:  "The Vanity of Ghosts"
+date:   2020-06-18 01:34:51 -0400
 image: /assets/images/Inferno_Canto_3_line_9.jpg
-categories:
-- Essay
+vertical: Code
+categories: Essay jekyll social-media
 tags:
 - Instagram
 - Social Media
@@ -12,7 +14,8 @@ tags:
 - Internet
 - Loneliness
 excerpt_separator: "<!--more-->"
-music: BIBLICAL VIOLENCE by Hella  
+music: BIBLICAL VIOLENCE by Hella 
+excerpt: "Instagram makes me lonely. For a while I've tried to figure out why."
 ---
 <style>
 .bar{
