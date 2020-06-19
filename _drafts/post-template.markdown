@@ -1,16 +1,15 @@
 ---
 author: Juan Jose Fernandez
 comments: true
-date: 2020-04-06 21:02:49+00:00
 layout: post
-link: http://juanjosefernandez.com/2020/04/06/on-kernel-image-transformations/
-slug: on-kernel-image-transformations
-title: On Kernel Image Transformations
-image: "https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png" 
-categories:
-- DEFAULT
+title:  "How to make your Jekyll site more shareable"
+date:   2015-10-29 01:34:51 -0400
+categories: jekyll social-media
 tags:
 - DEFAULT
+image: https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png 
+vertical: Code
+excerpt: "Jekyll is pretty cool, here's how to make writing with it easier for others to share on social networks."
 excerpt_separator: "<!--more-->"
 music:
 ---
