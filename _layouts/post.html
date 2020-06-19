@@ -20,6 +20,9 @@ layout: default
       {%- include archived-post-intro.html -%}
     {%- endif -%}
     {{ content }}
+    {%- if page.music -%}
+      {%- include music.html -%}
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}
