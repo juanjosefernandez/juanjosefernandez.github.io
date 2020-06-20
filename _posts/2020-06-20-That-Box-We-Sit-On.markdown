@@ -13,6 +13,7 @@ tags:
 - zines
 - that box we sit on
 excerpt_separator: "<!--more-->"
+summary: "That Box We Sit On by Richie Pope is a little comics miracle. This comic, much like Super Itis and Fatherson, is a testament to the power of Richie Pope’s imagination. I want to pop open the hood and take a look at what I see going on in this excellent short story."
 excerpt: "That Box We Sit On by Richie Pope is a little comics miracle. This comic, much like Super Itis and Fatherson, is a testament to the power of Richie Pope’s imagination. I want to pop open the hood and take a look at what I see going on in this excellent short story."
 music: Gemini - Princess Nokia
 ---
