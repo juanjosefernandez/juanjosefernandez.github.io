@@ -6,7 +6,7 @@ date:   2020-06-20 09:34:51 -0400
 comments: true
 layout: post
 image: /assets/images/front_cover_20web.jpg
-categories: Reviews jekyll social-media
+categories: Reviews
 tags:
 - Richie Pope
 - comics
