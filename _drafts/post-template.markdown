@@ -9,8 +9,9 @@ tags:
 - DEFAULT
 image: https://fernandezjuanjose.files.wordpress.com/2020/04/screen-shot-2020-04-06-at-4.34.12-pm.png 
 vertical: Code
-excerpt: "Jekyll is pretty cool, here's how to make writing with it easier for others to share on social networks."
+excerpt: ""
 excerpt_separator: "<!--more-->"
+summary: ""
 music:
 ---
 <style>
@@ -22,4 +23,9 @@ music:
     }
 </style>
 
+<!-- Divider -->
 <div class="bar"></div>
+
+<!-- code for images -->
+![]({{site.url}}/assets/images/front_cover_20web.jpg)
+
