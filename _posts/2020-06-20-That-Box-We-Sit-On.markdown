@@ -35,7 +35,7 @@ That Box We Sit On by Richie Pope is a little comics miracle. This comic, much l
 This comics gem consists of two friends musing about the (transformer) box that they’ve come to sit on every day after school for 16 pages. Their theories about it are wild, ranging from a mech slumbering underground or a spatial portal to a sub-dimension to more creepy and silly origin stories. 
 
 This comic is like shooting the breeze with your good bud. You rag on each other, but it’s all good. You don’t have anywhere to be or anything to do. So your imagination runs wild while staying super chill. 
-This comic is a breath of fresh air.
+This comic is a breath of fresh air.*
 
 When I found this comic in 2018, I found myself in awe of Pope’s control as a storyteller and the breadth of his visual imagination.  With the bare minimum, black lines on white paper, his work shows an unparalleled strength of imagination and an brilliant intellectual thoroughness. Top to bottom, every panel counts. All killer, no filler.
 
