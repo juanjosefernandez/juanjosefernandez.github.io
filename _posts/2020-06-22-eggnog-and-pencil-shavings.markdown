@@ -10,7 +10,7 @@ tags:
 - art
 - process
 - cartooning
-image: /assets/images/holidaycard/gpacFinal.jpg
+image: https://www.juanjosefernandez.com/assets/images/holidaycard/gpacFinal.jpg
 vertical: Code
 excerpt: "Last December I was asked to illustrate a holiday card for the Greater Pittsburgh Arts Council. This is the process of how I made it."
 excerpt_separator: "<!--more-->"
@@ -63,7 +63,7 @@ I'd say it was a success.
 After scanning the final pencils I brought the art into Photoshop where I thresholded them to increase the contrast and then got busy coloring the image. I used the Art Council's branded palette as the jumping off point. This was helpful as I had a limited color palette. The coloring was just solving a puzzle: How do I distribute the colors give outfits of varied colors for all the figures while not concentrating any one color any where? I love it when art becomes simple problem solving. 
 
 Below is the final result scanned from the post card.
-![Final art depicting the whole staff of the arts council wishing Pittsburgh Happy Holidays.]({{site.url}}/assets/images/holidaycard/gpacFinal.jpg)
+![Final art depicting the whole staff of the arts council wishing Pittsburgh Happy Holidays.](https://www.juanjosefernandez.com/assets/images/holidaycard/gpacFinal.jpg)
 
 Thanks to everyone at the Greater Pittsburgh Arts Council from 2016->2020 for making my time there as enlightening as it was. I'm thankful for all the ways you helped me grow into who I am today <3. Real talk.
 
