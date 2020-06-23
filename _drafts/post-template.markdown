@@ -27,5 +27,5 @@ music:
 <div class="bar"></div>
 
 <!-- code for images -->
-![]({{site.url}}/assets/images/front_cover_20web.jpg)
+![](https://www.juanjosefernandez.com/ <!-- path --> )
 
