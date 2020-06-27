@@ -10,7 +10,7 @@ tags:
 - programming
 - interviews
 - emotions
-image: /assets/images/neurotrash-02.png
+image: https://www.juanjosefernandez.com/assets/images/neurotrash-02.png
 vertical: Code
 excerpt: I’m currently looking for work as a Software Developer. I’m at the Junior level right now and have I’ve been looking for work since May. It’s been a challenge, as you can imagine. I’m smart and hardworking, but so are a lot of people. Companies have only recently started to rehire as state ordinances allow businesses to open up more so there's a lot of demand for work and not a lot of supply of work.
 excerpt_separator: "<!--more-->"
