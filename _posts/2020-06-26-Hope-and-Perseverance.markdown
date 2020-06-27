@@ -32,7 +32,7 @@ music: <a href="https://panamerican.bandcamp.com/album/cloud-room-glass-room">Pa
 
 <!--more-->
 <!-- code for images -->
-![Glitch Art, brightly colored pattern dither](/assets/images/neurotrash-01.png)
+![Glitch Art, brightly colored pattern dither](https://www.juanjosefernandez.com/assets/images/neurotrash-01.png)
 
 ## Looking for Work ##
 I’m currently looking for work as a Software Developer. 
@@ -61,7 +61,7 @@ Alas. Onwards!
 <div class="bar"></div>
 
 The lesson here for me is that for my own emotional well-being I need to emotionally compartmentalize a little more in this process. This is difficult given that I like to be genuine with people, but it should help in the long run. I need to be consistently writing solid cover letters, firing off applications and working on honing my programming chops by taking classes and building my own projects. Something will come up. I'm sure of it.
-![Glitch Art, brightly colored pattern dither](/assets/images/neurotrash-02.png)
+![Glitch Art, brightly colored pattern dither](https://www.juanjosefernandez.com/assets/images/neurotrash-02.png)
 ## Here’s what I’m working on to make it happen. ##
 I’m currently completing the [University of Helsinki’s massive open online course (MOOC) on object-oriented programming](https://java-programming.mooc.fi/) in Java. So far so good. Java is **very** similar to C# so I’m not having many issues there. It’s primarily an issue of getting accustomed to the idiosyncrasies of Java’s verbose-ness. All good. I’m doing this because in the Pittsburgh job market there is a huge, steady demand for folks who work in Java.
 
