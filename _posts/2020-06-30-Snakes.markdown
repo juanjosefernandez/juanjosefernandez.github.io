@@ -1,0 +1,47 @@
+---
+title:  "S-N-A-K-E-S"
+author: Juan Jose Fernandez
+comments: true
+layout: post
+date:   2020-06-30 01:34:51 -0400
+categories: zines
+tags:
+- marker
+- comics
+- emotions
+image: /assets/images/snakes---03.jpg
+vertical: Code
+excerpt: Made when Simon Reinhardt was visiting Pittsburgh in April of 2017 for PIX, the Pittsburgh Independent Comics Expo. It was a confusing time, so naturally, this is a confusing zine.
+# excerpt_separator: "<!--more-->"
+summary:  This is a look at a zine I made in 2017 when Simon Reinhardt was visiting Pittsburgh. It was a confusing time, so naturally, this is a confusing zine.
+music: <a href="https://www.discogs.com/Rothko-Billy-Mahonie-For-Danny-Hoon/release/1181039">Rothko - For Danny</a>
+
+---
+<style>
+.bar{
+    height: 10px;
+    background: #bc4e9c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #f80759, #bc4e9c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+</style>
+
+![Front and Back Cover of "Snakes"](/assets/images/snakes---00.png)
+![First Spread of "Snakes"](/assets/images/snakes---03.jpg)
+![Second Spread of "Snakes"](/assets/images/snakes---04.jpg)
+![Third Spread of "Snakes"](/assets/images/snakes---05.jpg)
+
+This is a zine I made when [Simon Reinhardt](https://simonmreinhardt.tumblr.com/) was visiting Pittsburgh in April of 2017 for PIX, the Pittsburgh Independent Comics Expo. It was a confusing time, so naturally, this is a confusing zine.
+
+It was made from a collection of drawings that I was making with a chunky, Sharpie Flip Chart marker while out and about on index cards. This was done at the peak of working for Frank Santoro so his predilection for Matisse-like mark-making and notecard technique was rubbing off on me. It was also the beginning of my burn-out from working with Frank. 
+
+I had just started working at the Greater Pittsburgh Arts Council, was running the then 3-times monthly comics salons, was still doing a radio-show on WRCT-Pittsburgh, and the daily news blogging on Comics Workbook was going full-steam. I was coordinating workshops at PIX that year with Frank and Sally Ingraham and it was just too much. I was really hungry for experience and opportunities for growth at the time so I was afraid of saying no to things, but it broke back.
+
+![Flip Chart Marker](/assets/images/sharpie.png)
+
+In the face of the daily exhaustion, I found the Flip Chart Marker drawings immensely helpful. The lines went down with immediate impact. In the little time that I had to draw on the bus or waiting between jobs I could draw lines that felt like someone else was drawing them. *(I don't particularly recommend these markers other than for ephemeral drawing - These markers aren't made for archival use so the drawings fade quickly. And if you spill water on them, the pigments composing the colors spread out real wild-like.)*
+
+This zine comes from trying to make a special, strange object with comics-energy from the pieces of my ongoing notecard drawings. Simon and I stayed up late to make these zines and had them ready for the Expo. He was doodling some snakes and I asked him if I could photocopy them and include them in the zine. It creates a silly, bizarre tension between the drawings of people around town. It also takes me back to a moment of late night creative friendship with Simon. I love it. 
+
+It was exciting and fun to have this strange little zine to people. Looking back on it, I'd say this was the first zine that I'm truly proud of. It speaks to a certain aesthetic mystery that I've tried to pursue over the past 3 years.
+

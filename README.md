@@ -11,16 +11,14 @@
 - [x] make blog archive show post.excerpt
 
 ### Newsletter
--[x] Add newlsetter https://medium.com/@davideiaiunese/the-problem-why-a-newsletter-baae4409a526
+- [x] Add newlsetter https://medium.com/@davideiaiunese/the-problem-why-a-newsletter-baae4409a526
 Uses feedburner.google.com
--[x]Confirm Newsletter is working properly by testing it
--[x] Set up weekly Feed round up for posts using the feed .xml
+- [x]Confirm Newsletter is working properly by testing it
+- [x] Set up weekly Feed round up for posts using the feed .xml
 
 ### Categories
 - [ ] Have categories appear at the bottom of each post, as clickable buttons that take you to a category page listing all the posts of that category - Useful: https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/ https://stackoverflow.com/questions/20872861/jekyll-display-posts-by-category https://blog.webjeda.com/jekyll-categories/
-
-### Add Contact Page
-- [ ] Find simple tutorial
+- [ ] Figure out a useful master set of categories for the site (Essay, Tutorial, Comic, Art) *everything else can be handled by tags* Add to Personal Reference section in this README.md file.
 
 ### Additional Content
 - [ ] Add posts from Instagram that had considerable writing or worthwhile images.
@@ -28,4 +26,10 @@ Uses feedburner.google.com
 - [ ] Something that aggreagates all my comics teaching posts via category
 - [ ] Create a page that documents the history of the Dog City Press Project
 - [ ] Photograph all boxes and books for this post
+- [ ] Add scans of old comics as blog posts (SNAKES/Whirligiggler/Senior Thesis at CCS)
 
+**Personal Reference**
+# Categories for posts on this site #
+- Comics
+- Programming
+- Essays
