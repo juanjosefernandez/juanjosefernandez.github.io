@@ -26,10 +26,10 @@ music: <a href="https://www.discogs.com/Rothko-Billy-Mahonie-For-Danny-Hoon/rele
     }
 </style>
 
-![Front and Back Cover of "Snakes"](/assets/images/snakes---00.png)
-![First Spread of "Snakes"](/assets/images/snakes---03.jpg)
-![Second Spread of "Snakes"](/assets/images/snakes---04.jpg)
-![Third Spread of "Snakes"](/assets/images/snakes---05.jpg)
+![Front and Back Cover of "Snakes"](https://www.juanjosefernandez.com/assets/images/snakes---00.png)
+![First Spread of "Snakes"](https://www.juanjosefernandez.com/assets/images/snakes---03.jpg)
+![Second Spread of "Snakes"](https://www.juanjosefernandez.com/assets/images/snakes---04.jpg)
+![Third Spread of "Snakes"](https://www.juanjosefernandez.com/assets/images/snakes---05.jpg)
 
 This is a zine I made when [Simon Reinhardt](https://simonmreinhardt.tumblr.com/) was visiting Pittsburgh in April of 2017 for PIX, the Pittsburgh Independent Comics Expo. It was a confusing time, so naturally, this is a confusing zine.
 
