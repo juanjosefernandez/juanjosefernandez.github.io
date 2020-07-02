@@ -29,7 +29,7 @@ music: <a href="https://www.discogs.com/Rothko-Billy-Mahonie-For-Danny-Hoon/rele
     }
 </style>
 
-![4 panel comic that references Toni Morrison's 1993 conversation with Charlie Rose urging people to think of anti-racist work as the responsibility not of Black Americans but that of White Americans.](/assets/images/neurotrash-03-600.png)
+![4 panel comic that references Toni Morrison's 1993 conversation with Charlie Rose urging people to think of anti-racist work as the responsibility not of Black Americans but that of White Americans.](https://www.juanjosefernandez.com/assets/images/neurotrash-03-600.png)
 
 >**History is not the past, history is the present. We carry our history with us. To think otherwise is criminal.**
 >\-James Baldwin
