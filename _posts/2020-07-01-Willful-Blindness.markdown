@@ -9,6 +9,9 @@ tags:
 - collage
 - toni morrison
 - mf doom
+- racism
+- whiteness
+- white supremacy
 image: /assets/images/neurotrash-03-600.png
 vertical: Code
 excerpt: History is not the past, history is the present. We carry our history with us. To think otherwise is criminal. -James Baldwin
