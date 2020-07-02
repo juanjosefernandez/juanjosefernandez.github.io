@@ -4,6 +4,7 @@
 - [x] Add navigation from one blog post to next and previous based on date
 - [x] Add the images to posts to allow for previews.
 - [x] make the image  that displays in the blog preview in the list be a link to the blog post
+- [ ] Add Zines, Code, Pedagogy sections based off of the portfolio section
 
 ### Blog Archive
 - [x] paginate the BLOG posts section 
