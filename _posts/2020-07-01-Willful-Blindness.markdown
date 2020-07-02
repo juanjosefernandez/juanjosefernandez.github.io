@@ -34,7 +34,9 @@ music: <a href="https://www.discogs.com/Rothko-Billy-Mahonie-For-Danny-Hoon/rele
 >**History is not the past, history is the present. We carry our history with us. To think otherwise is criminal.**
 >\-James Baldwin
 
-Whiteness is a dangerous, violent concept. It isn't about skin color. It's not even about race. I mean, It is, and it isn't. Fundamentally it's the symbol of those appearances and lineages used to implement a willful blindness used to justify white supremacy. Whiteness mutates as the needs of the shape of the hegemony of whiteness shifts. It's a deft chameleon. It is about using moral rhetoric to defend exploitation, racism, mass murder, reigns of terror and the crimes of empire. It is necessary to justify the sins needed to satisfy our ancestors greed and our comfort. 
+Nothing fancy here. Just a straighforward public service announcement.
+
+Whiteness is a dangerous, violent concept. It isn't about skin color. It's not even about race. I mean, it is, and it isn't. Fundamentally it's the symbol of those appearances and lineages used to implement a willful blindness used to justify white supremacy. Whiteness mutates as the needs of the shape of the hegemony of whiteness shifts. It's a deft chameleon. It is about using moral rhetoric to defend exploitation, racism, mass murder, reigns of terror and the crimes of empire. It is necessary to justify the sins needed to satisfy our ancestors' greed and our comfort. 
 
 This is the history of whiteness. Reckon with it and see yourself as you truly are. 
 
