@@ -12,7 +12,7 @@ tags:
 - busyness
 - death
 - zen 
-image: /assets/images/neurotrash-04-740.png
+image: https://www.juanjosefernandez.com/assets/images/neurotrash-04-740.png
 vertical: Code
 excerpt: Death is around the corner. How we come to terms with, that is the business of our living.
 # excerpt_separator: "<!--more-->"
@@ -29,7 +29,7 @@ music: <a href="https://en.wikipedia.org/wiki/Rounds_(album)">Four Tet - Rounds<
     }
 </style>
 
-![4 panel comic that reflects on the vanity of needless busyness,](/assets/images/neurotrash-04-740.png)
+![4 panel comic that reflects on the vanity of needless busyness,](https://www.juanjosefernandez.com/assets/images/neurotrash-04-740.png)
 
 Death is around the corner. How we come to terms with, that is the business of our living.
 
