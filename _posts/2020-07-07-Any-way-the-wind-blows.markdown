@@ -30,7 +30,7 @@ music: <a href="https://www.youtube.com/watch?v=4x0fPZrPV3M">Romeo Void - Never 
     background: linear-gradient(to top, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     }
 </style>
-![Animation of the web app in use](/assets/images/weatherornot.gif)
+![Animation of the web app in use](https://www.juanjosefernandez.com/assets/images/weatherornot.gif)
 
 Earlier this summer my buddy [Missy Moreno](https://www.missymoreno.com/) and I decided to make inroads in learning how to work with React and APIs. We decided to make a cheerful weather web app that had some kind of suggestion system based on the weather forecast at a given location. That was the genesis of Weather-Or-Not. Here's a [link to the Github repository](https://github.com/juanjosefernandez/weather-or-not) where we keep the code.
 <div class="bar"></div>
