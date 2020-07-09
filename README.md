@@ -6,6 +6,10 @@
 - [x] make the image  that displays in the blog preview in the list be a link to the blog post
 - [ ] Add Zines, Code, Pedagogy sections based off of the portfolio section
 
+###Posts
+- [ ] create an INCLUDE that allows you to create images that are 50% of the width of the blog post so that you can create a tighter grid of smaller content
+- [ ] create a container for your pixel art images that cause them to not be resized but rather cropped
+
 ### Blog Archive
 - [x] paginate the BLOG posts section 
 - [x] make homepage display the full content of the 5 posts

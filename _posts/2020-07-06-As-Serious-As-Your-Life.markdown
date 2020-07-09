@@ -7,7 +7,7 @@ date:   2020-07-06 01:34:51 -0400
 categories: comics
 tags:
 - collage
-- toni morrison
+- memento mori
 - four tet
 - busyness
 - death

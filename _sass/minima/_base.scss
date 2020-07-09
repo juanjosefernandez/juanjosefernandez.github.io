@@ -59,8 +59,18 @@ img {
   vertical-align: middle;
 }
 
+.img-small {
+  width: 48%;
+  // vertical-align: middle;
+  // align-self: inline;
+}
+
 .covered{
   height:270px;
+  object-fit: cover;
+}
+
+.pixel-art{
   object-fit: cover;
 }
 
