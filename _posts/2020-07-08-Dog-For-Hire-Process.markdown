@@ -12,7 +12,7 @@ tags:
 - toro y moi
 - dog
 - zen 
-image: /assets/images/neurotrash5/neurotrash-05-740.png
+image: https://www.juanjosefernandez.com/assets/images/neurotrash5/neurotrash-05-740.png
 vertical: Code
 excerpt: Here's some insight in the process of creating my neurotrash digital collage comics.
 # excerpt_separator: "<!--more-->"
@@ -29,7 +29,9 @@ music: <a href="https://en.wikipedia.org/wiki/Outer_Peace">Toro y Moi  - Outer P
     }
 </style>
 
-<div><img src="/assets/images/neurotrash5/neurotrash-05-740.png" class="pixel-art"></div>
+<div>
+<img src="https://www.juanjosefernandez.com/assets/images/neurotrash5/neurotrash-05-740.png" class="pixel-art">
+</div>
 
 <div class="bar"></div>
 
@@ -37,10 +39,10 @@ music: <a href="https://en.wikipedia.org/wiki/Outer_Peace">Toro y Moi  - Outer P
 
 ## Content ##
 <div class="img-holder"> 
-    <img class="img-small" src="/assets/images/neurotrash5/2181049-YDFLXSPO-7.jpg"> 
-    <img class="img-small" src="/assets/images/neurotrash5/bit-art-pixel-characters_silhouettes.png">
-    <img class="img-small" src="/assets/images/neurotrash5/Screen Shot 2020-07-08 at 6.15.39 PM.png">
-    <img class="img-small" src="/assets/images/neurotrash5/geometric-abstract-lace-grid-seamless-pattern-weaving-lines-brush-vector-id1220287379.jpg">
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/2181049-YDFLXSPO-7.jpg"> 
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/bit-art-pixel-characters_silhouettes.png">
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/Screen Shot 2020-07-08 at 6.15.39 PM.png">
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/geometric-abstract-lace-grid-seamless-pattern-weaving-lines-brush-vector-id1220287379.jpg">
 </div> 
 
 These were the pieces that I chopped up for this. I looked at a lot of other things but these wanted to coalesce together in my mind. I allow this stage of the process to be open. I save the images to my desktop and then drag them into the canvas once I've laid in a grid.
@@ -53,10 +55,10 @@ I use the Icon Archive's classic pixel art icons as a source of inspiration. It'
 I usually start these comics solely with a desire to make something. Sometimes I have a direction in mind. I usually find myself using that as a place to start but veer away from that idea or sentiment fairly quickly. I tend to follow my intuition of what makes the pieces come together. Here's a look at some of the early cut and pasting and rearranging looked like. 
 
 <div class="img-holder"> 
-    <img class="img-small" src="/assets/images/neurotrash5/Screen Shot 2020-07-08 at 6.06.51 PM.png"> 
-    <img class="img-small" src="/assets/images/neurotrash5/Screen Shot 2020-07-08 at 8.43.37 PM.png"> 
-    <img class="img-small" src="/assets/images/neurotrash5/Screen Shot 2020-07-08 at 9.07.08 PM.png">
-    <img class="img-small" src="/assets/images/neurotrash5/Screen Shot 2020-07-08 at 9.14.26 PM.png">
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/Screen Shot 2020-07-08 at 6.06.51 PM.png"> 
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/Screen Shot 2020-07-08 at 8.43.37 PM.png"> 
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/Screen Shot 2020-07-08 at 9.07.08 PM.png">
+    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/Screen Shot 2020-07-08 at 9.14.26 PM.png">
 </div> 
 The first step was the laying out of an underlying grid. I don't always do this, but it was something I wanted to work on in this case. I've been really interested in underlying grids determining higher order structure relationships. Tight, but invisible. (I look forward to making 15 panel grid pages in the future. That grid is a brutally beautiful thing).
 
@@ -71,4 +73,6 @@ I started following this train of thought a couple years ago. I've found that it
 
 Some high level take-aways: *Gradients dither really nicely, for example. Garish colors in an original image, assuming they have solid contrast, yield coherent new images. Organic mark making techniques yield surprising textures. Pixel art's sharp edges yield a satisfying textural contrast to the complext dithering that happens, etc.*
 
-In short, this process creates richly textured digital images that I think of as screen printed collages.
+In short, this process creates richly textured digital images that I think of as screen printed collages. It's a good space to step into when I want to communicate something but don't know exactly what. 
+
+*Trial and error, constraint and composition, chaos and accident.*
