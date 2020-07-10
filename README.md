@@ -26,6 +26,7 @@ Uses feedburner.google.com
 - [ ] Figure out a useful master set of categories for the site (Essay, Tutorial, Comic, Art) *everything else can be handled by tags* Add to Personal Reference section in this README.md file.
 
 ### Additional Content
+- [ ] add coding proficiencies in about section
 - [ ] Add posts from Instagram that had considerable writing or worthwhile images.
 - [ ] My Arts Education Statement - use the one from MCAD with edits
 - [ ] Something that aggreagates all my comics teaching posts via category

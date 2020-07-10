@@ -13,7 +13,7 @@ tags:
 - dog
 - process
 - zen 
-image: https://www.juanjosefernandez.com/assets/images/neurotrash5/neurotrash-05-740.png
+image: /assets/images/neurotrash5/neurotrash-05-740.png
 vertical: Code
 excerpt: Here's some insight in the process of creating my neurotrash digital collage comics.
 # excerpt_separator: "<!--more-->"
