@@ -12,7 +12,7 @@ tags:
 - busyness
 - death
 - zen 
-image: https://www.juanjosefernandez.com/assets/images/neurotrash-04-740.png
+image: /assets/images/neurotrash-04-740.png
 vertical: Code
 excerpt: Death is around the corner. How we come to terms with, that is the business of our living.
 # excerpt_separator: "<!--more-->"
