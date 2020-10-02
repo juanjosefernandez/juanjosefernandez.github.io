@@ -18,7 +18,6 @@ excerpt: Here's some insight in the process of creating my neurotrash digital co
 # excerpt_separator: "<!--more-->"
 summary: An overview of the groundwork for building a peer-to-peer zine and minicomics platform for selling and trading. Putting to practice the ethos of "Commodity form as Community form".
 music: <a href="https://www.youtube.com/watch?v=Xo3vWPGJXBQ&ab_channel=KCRW">Mia Doi Todd - Paraty</a>
-
 ---
 <style>
 .bar{
@@ -33,11 +32,3 @@ music: <a href="https://www.youtube.com/watch?v=Xo3vWPGJXBQ&ab_channel=KCRW">Mia
 An overview of the groundwork for building a peer-to-peer zine and minicomics platform for selling and trading. 
 
 **Putting to practice the ethos of "Commodity form as Community form".**
-
-## Content ##
-<div class="img-holder"> 
-    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/2181049-YDFLXSPO-7.jpg"> 
-    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/bit-art-pixel-characters_silhouettes.png">
-    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/Screen Shot 2020-07-08 at 6.15.39 PM.png">
-    <img class="img-small" src="https://www.juanjosefernandez.com/assets/images/neurotrash5/geometric-abstract-lace-grid-seamless-pattern-weaving-lines-brush-vector-id1220287379.jpg">
-</div> 
