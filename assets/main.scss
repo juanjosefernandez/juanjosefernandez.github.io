@@ -109,8 +109,23 @@ footer {
     max-width: 30%;
 }
 
+.circle{
+    max-width: 200px;
+}
+
+@media only screen and (max-width: 350px) {
+    .circle{
+        max-width: 100%;
+    }
+  }
+
 .textwrap{
     float: right;
+    margin: 10px;
+}
+
+.textwrap2{
+    float: left;
     margin: 10px;
 }
 
