@@ -3,5 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<!-- ![Alt text](https://fsa.zobj.net/crop.php?r=9tlvlL2ohMpiO8HudtHVnLuB01OOTHICTxDy3T6z7RGNRAVwOUnT6HfQoZubB2gPPuT5-B5MLARznjKUDtQpMj7Co6mczb5QgL_N-Vham1YnUDLSrcjheQeZmO5AUg0SF9fH5Rm4CI05V6Vu) -->
->*This is the digital confluence of a lot of things I do: comics, writing, coding, theory, and arts education. Make yourself comfortable and dig in wherever you like. It's nice to have you here.*
+<h1>Hello!</h1>
+
+ I'm an artist and full-stack developer who loves Ruby on Rails.
+
+>This site is the digital confluence of a lot of things I do: comics making, writing, coding, theory-crafting, and teaching. Make yourself comfortable and dig in wherever you like. It's nice to have you here.
+
+🧠 I have a deep interest in communication, art, systems design, comics and community development. I love building great applications, solving puzzles, and making people smile. [(Learn more about me)](/about).❤️
+
+🌼 Currently, I'm building a peer-to-peer marketplace platform for zines and self-published comics called [Zine Bloom](https://zinebloom.com/). Ask me about it! I'd love to hear what you think.
+

@@ -12,7 +12,7 @@ tags:
 - mailboxer
 - zines
 - self-publishing
-image: /assets/images/neurotrash5/neurotrash-05-740.png
+image: assets/images/zinebloom_underconstruction.png
 vertical: Code
 excerpt: Here's some insight in the process of creating my neurotrash digital collage comics.
 # excerpt_separator: "<!--more-->"
@@ -28,7 +28,9 @@ music: <a href="https://www.youtube.com/watch?v=Xo3vWPGJXBQ&ab_channel=KCRW">Mia
     }
 </style>
 
+![zinebloom coming soon](/assets/images/zinebloom_underconstruction.png)
+
 <div class="bar"></div>
-An overview of the groundwork for building a peer-to-peer zine and minicomics platform for selling and trading. 
+An overview of the groundwork for building a peer-to-peer zine and minicomics platform for selling and trading.
 
 **Putting to practice the ethos of "Commodity form as Community form".**

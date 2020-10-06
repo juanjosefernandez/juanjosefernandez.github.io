@@ -5,25 +5,28 @@ title: Blog Archive
 <ul class="post-list">
 <!-- post list -->
 {% for post in paginator.posts %}
-<li>
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <span class="post-meta">
-        {{ post.date | date: date_format }}
-    </span>
-    <a href="{{post.url | prepend: site.baseurl}}">
-        <h3>{{post.title}}</h3>
-    </a>
+<li class="row">
+  <div class="col-3">
     {%- if post.image -%}
-        <a href={{post.url}}>
-          <img src={{post.image}} class="banner"/>
-        </a>
+    <a href={{post.url}}>
+      <img src={{post.image}} class="blogpost-preview"/>
+    </a>
+  </div>
+    <div class="col-9">
     {%- endif -%}
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <a href="{{post.url | prepend: site.baseurl}}">
+        <h3>{{post.title}}</h3>    <span class="post-meta">
+          {{ post.date | date: date_format }}
+      </span>
+    </a>
     <p>         
-      {{ post.excerpt }} <a href="{{post.url | prepend: site.baseurl}}">Read more >></a>
+      {{ post.excerpt }} <br><a href="{{post.url | prepend: site.baseurl}}">Read more >></a>
     </p>
     <!-- {%- if site.show_excerpts -%} -->
         <!-- <p>test</p> -->
     <!-- {%- endif -%} -->
+    </div>
 </li>
 {% endfor %}
 </ul>
@@ -31,11 +34,11 @@ title: Blog Archive
 
 <!-- pagination -->
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div class="pagination mx-auto">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <span>&laquo; Prev </span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -51,7 +54,7 @@ title: Blog Archive
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span> Next &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
