@@ -11,5 +11,5 @@ layout: home
 
 🧠 I have a deep interest in communication, art, systems design, comics and community development. I love building great applications, solving puzzles, and making people smile. [(Learn more about me)](/about).❤️
 
-🌼 Currently, I'm building a peer-to-peer marketplace platform for zines and self-published comics called [Zine Bloom](https://zinebloom.com/). Ask me about it! I'd love to hear what you think.
+🌼 Currently, I'm building a peer-to-peer marketplace platform for zines and self-published comics called **Zine Bloom** (([Alpha Version](https://mysterious-beach-28605.herokuapp.com/))([Code](https://github.com/juanjosefernandez/zmkt))). Ask me about it! I'd love to hear what you think.
 
