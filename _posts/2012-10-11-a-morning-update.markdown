@@ -20,9 +20,9 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/good-morning_web.jpg
 
 Holy fuckin' moley, what a month it's been. VIA in Pittsburgh, SPX in Bethesda, MICE in Boston and CCS in White River Junction.
 
-
 Nose to the grindstone, I'm finally in the swing of things at the Center for Cartoon Studies.
 
+<!--more-->
 
 As such, I'm happy to announce a new update schedule for this little website that you have before you. Crinkled Comics will be moving to a **Monday-Wednesday-Friday** update schedule for the coming months. There are a ton of things that I'd like to share with you that I've come across and I'm sure there's a lot you want to show me, because of that, I'd like to move to the weekly posting cycle. I've been keeping all the Crinkled goodies to myself and that just ain't fair, now is it?
 

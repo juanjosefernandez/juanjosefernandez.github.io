@@ -15,6 +15,7 @@ image: http://www.wewearperfume.com/wp-content/uploads/2015/10/rachel-ries-we-we
 ---
 
 I'm going through a lot right now. Rachel Ries' music is helping me go through it. I met her last week in Austin. I thought I'd share her influence on me with you.
+<!--more-->
 
 Hailing from the vast expanses of South Dakota, [Ries](http://rachelries.com/) can bring audiences to tears with the trembling of her harmonies. A talented instrumentalist, and deft songwriter, Ries has been traveling around the country accompanying [Anais Mitchell](http://anaismitchell.com/) as part of the Young Man Band on Mitchell’s [most recent tour](http://anaismitchell.com/tour/).
 

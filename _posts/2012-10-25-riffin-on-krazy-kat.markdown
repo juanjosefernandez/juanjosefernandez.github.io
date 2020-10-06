@@ -19,6 +19,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/final-krazy-boat.png
 ---
 
 Ain't got too much to say today, just wanted to share some strips I made with you.
+<!--more-->
 
 The following are strips that were made for the second assignment in Jason Lutes' Cartooning Studio. The objective was to  recreate faithfully the visual and narrative style of an American strip artist and to tell 3 autobiographical stories using the strip as the vehicle. The assigned artists ranged far and wide from Walt Kelly to Scott Adams. I was lucky enough to get George Herriman's Krazy Kat.
 

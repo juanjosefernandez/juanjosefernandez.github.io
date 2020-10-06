@@ -17,6 +17,7 @@ image: https://fernandezjuanjose.files.wordpress.com/2012/04/2987741688.jpeg?w=4
 Holy moly maca-role!
 
 WFMU on it, as always.
+<!--more-->
 
 5 years ago, DJ Kliph Nesteroff prepared a whole show that revealed the masters from the 1960s television program. Listen in. You might learn something while your ears have a blast. There's plenty that you might miss if you just listen, so [feel free to check out the WFMU blog for more information.](http://blog.wfmu.org/freeform/2007/01/the_music_every.html)
 

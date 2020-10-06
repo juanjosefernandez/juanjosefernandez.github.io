@@ -13,11 +13,10 @@ categories:
 old: true
 image: http://media.tumblr.com/8902c15d8ed1a9fb6115cadd0d0c4ece/tumblr_inline_mlqdq23LaR1qz4rgp.png
 ---
-
 _Originally appeared on [dogcitypress.com](dogcitypress.com)_![image](http://media.tumblr.com/8902c15d8ed1a9fb6115cadd0d0c4ece/tumblr_inline_mlqdq23LaR1qz4rgp.png)
 
-
 <blockquote>“I guess I’m still really attracted to that autobiographical stuff — dirty secrets, gossip, voyeurism; getting a peek underneath the veneer of someone’s public persona to the really awful and disarming and pure, lovely, human mess that convention and sanity can’t expose. All the things that civilization is designed to snuff out, diminish or regulate, basically — the urges, vulnerabilities, fears, and dreams that hinder the smooth gear work of hierarchy, convenience, and tepid industrial business-as-usual.” - [Schulz in a 2007 interview with Steve Bissette](http://srbissette.blogspot.com/2007_05_25_archive.html)</blockquote>
+<!--more-->
 
 
 Gabby Schulz/(pen name: Ken Dahl) is a gifted story teller whose cartooning work is jarringly incisive. It’s a real shame that not that many people know his work.

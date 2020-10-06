@@ -15,6 +15,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/screen-shot-2012-02-
 ---
 
 On Valentine's Day, people everywhere shell out all sorts of denominations on flowers, candy and gifts. In honor of that most glorious consumer holiday, it would be seem to be most appropriate to highlight comics that are perfect for Valentine's Day. Nevertheless, there are enough exhortations to purchase gifts at this time of the year, as such this column will not address what books to buy loved ones. Rather, the focus will be to examine how the traditional ideas espoused by Valentine's Day manifest themselves in the cartooning work of three different authors, Charles Schulz, Jordan Crane and Chester Brown.
+<!--more-->
 
 It's important to start with Charles Schulz, the cartoonist responsible for Peanuts created the epitome of the comics Valentine in the little book, _Love is Walking Hand in Hand_. It was created as part of a series of Peanuts gift books that Hallmark Cards released in the early sixties. In creating this little book, Charles Schulz, the accidental king of all that is marketable,  birthed the  perfect comic for Valentine's Day.
 

@@ -16,7 +16,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/03/image.jpeg
 
 This past Saturday I travelled to Pittsburgh to lead a 3-hour cartooning workshop with [Andy Scott](http://littletired.wordpress.com/about-2/) at the community space for arts and technology, [Assemble.](http://assemblepgh.org/)
 Have a look at the goings on. It was a blast.
-
+<!--more-->
 
 #### [![image](http://fernandezjuanjose.files.wordpress.com/2013/03/image.jpeg)](http://fernandezjuanjose.files.wordpress.com/2013/03/image.jpeg)[![image-3](http://fernandezjuanjose.files.wordpress.com/2013/03/image-3.jpeg)](http://fernandezjuanjose.files.wordpress.com/2013/03/image-3.jpeg)[![image-4](http://fernandezjuanjose.files.wordpress.com/2013/03/image-4.jpeg)](http://fernandezjuanjose.files.wordpress.com/2013/03/image-4.jpeg)One of my favorite things to do is to make comics with kids. They know what's up.
 

@@ -16,5 +16,6 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/p45.jpeg
 ---
 
 Holy moley macaroley! A recent article on the Comics Journal shares Seth's design process on the beautiful _The Collected Doug Wright._ If you're interested in a book designer's process work, [check it out. ](http://www.tcj.com/creating-a-personal-vernacular-canadian-design-style-the-collected-doug-wright/)
+<!--more-->
 
 The book is a gem and that reads effortlessly and exudes a bold Canadiana. As an American interested in contemporary Canadian culture, I would say that in that department, Seth really hits it out of the ballpark.[![](http://fernandezjuanjose.files.wordpress.com/2012/02/p45.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/02/p45.jpeg)

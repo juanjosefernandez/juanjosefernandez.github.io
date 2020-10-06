@@ -14,6 +14,7 @@ image: https://assets.mubicdn.net/images/film/3790/image-w1280.jpg?1481128231
 ---
 
 Almost finished with the semester.
+<!--more-->
 
 You can count on drawings to be posted soon. For now, let's bask in the vivaciousness of the following two animations by Norman Mclaren and Evelyn Lambart.
 

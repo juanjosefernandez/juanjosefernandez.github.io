@@ -18,10 +18,11 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg
 ---
 
+Last night I whipped up and printed these posters for my friend, [Willow Payne](http://williamkpayne.tumblr.com/).
+<!--more-->
 [![tumblr_mxxhe8zJQb1rc4waeo1_1280](http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg)](http://fernandezjuanjose.files.wordpress.com/2013/12/tumblr_mxxhe8zjqb1rc4waeo1_1280.jpg)
-Last night I whipped up and printed these posters for my friend, [Will Payne](http://williamkpayne.tumblr.com/).
 
-He’s working on an underground tape worm fighting ring comic right now. I thought I’d celebrate his story by making a 2 color boxing match style promo for his story, PARAFIGHT. I made 12 of these and gave them all to Will.
+She’s working on an underground tape worm fighting ring comic right now. I thought I’d celebrate their story by making a 2 color boxing match style promo for his story, PARAFIGHT. I made 12 of these and gave them all to Willow.
 
 I used the [Knockout ](http://www.typography.com/fonts/knockout/overview/)type family for the majority of it and printed on a textweight yellow stock. Doing this, I learnt a little bit about typographic history. Particularly about the idea of how [wooden type sets were designed as  series before the idea of the rational typeface.](http://www.typography.com/fonts/champion-gothic/overview/)
 

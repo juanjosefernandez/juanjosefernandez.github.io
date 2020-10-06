@@ -16,7 +16,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/05/doodles-juan-1.jpeg
 ---
 
 It's been a good day. Yesterday I finished pencilling out a solid storyboard for a comic that I'm making for my application for the Center for Cartoon Studies. It's going to be a cute one with some sexy ink.
-
+<!--more-->
 Although it is autobiographical, I'm not going the Jeffrey Brown route and just using a ball point pen and going for a long series of comics. It's a one-shot. Int his case, form is just as important in this work as the content. Additionally, I like sexy styled ink, so that's what I'm going to give this comic. Obviously, it's going to take a while longer to finish, but that's what's got to happen.
 
 I like the form that I'll be giving this little booklet. It's going to be a handsewn booklet with handmade covers that will have 6 panels in a 3 x 2 formation in the spread.  Here's a picture to go with the description.

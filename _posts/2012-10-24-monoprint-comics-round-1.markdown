@@ -18,6 +18,8 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/tezuka-piece-copy.pn
 ---
 
 Here's a little experiment for Jason Lutes' Cartooning Studio. The goal is to evoke an intense emotional experience. Can you guess what I'm attempting to depict?
+<!--more-->
+
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/tezuka-piece-copy.png)](http://fernandezjuanjose.files.wordpress.com/2012/10/tezuka-piece-copy.png)[![](http://fernandezjuanjose.files.wordpress.com/2012/10/tezuka-piece-copy-2.png)](http://fernandezjuanjose.files.wordpress.com/2012/10/tezuka-piece-copy-2.png)
 
 I've wanted to make a comic using monoprinting as a key component for a while. As you can see, I gave it a go. Given that for this assignment we didn't have to prepare 14 pages, I thought that it'd be a do-able task. Additionally, as you've seen me post adamantly about abstract comics, I thought I ought to put my money where my mouth was and give them a good go. 

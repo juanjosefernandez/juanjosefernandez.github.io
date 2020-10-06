@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/10/50820.jpg
 ---
 
 A year ago I read Storeyville by Frank Santoro and it was an experience like no other. I read the hardcover copy that was available at the Toonseum and the delicate combination of hope and melancholy of the whole work stayed with me for weeks.
+<!--more-->
 
 I just read some exciting news over at the comics journal. Some copies of sealed Storeyville's were found here in Pittsburgh. Awesome.[ Be sure to check out this awesome find and to pick up a copy if you can.](http://www.copaceticcomics.com/comics/1343)
 

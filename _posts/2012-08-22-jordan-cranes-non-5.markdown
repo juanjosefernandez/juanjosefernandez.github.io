@@ -18,6 +18,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/2012-08-20-05-06-53-
 [The Schulz Library](http://www.cartoonstudies.org/index.php/schulz-library/) is officially open. The first thing I've taken out is Jordan Crane's Non #5.
 
 There was a review of [NON #5 in the Comics Journal #240](http://www.tcj.com/the-comics-journal-no-240-november-2001/) in 2001, but given that access to that information is only available to suscribers of TCJ, I thought that illuminating on the details of this gem of a publication would be good to have on the web. If anything I'd like y'all to see what a beautiful motherfucker Crane put together.
+<!--more-->
 
 Take a look at this beautiful anthology.
 

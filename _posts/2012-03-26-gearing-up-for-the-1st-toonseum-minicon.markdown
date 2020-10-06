@@ -14,6 +14,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Color_icon_red.
 ---
 
 I'm currently organizing a comics and zine expo, The ToonSeum's 1st MiniCon. It's going to be the core event of the upcoming [Geek Artist/Green Innovators Festival (GA/GI)](http://gagifest12.blogspot.com/). It'll be happening on April 5th and April 6th. It's super exciting.
+<!--more-->
 
 Want to attend or exhibit at the expo? Well, then c[heck out the site for the upcoming event here.](http://toonseumminicon.wordpress.com/)
 

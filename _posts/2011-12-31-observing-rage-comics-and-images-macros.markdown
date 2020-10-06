@@ -18,6 +18,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/12/philosoraptor-game.p
 ---
 
 It's been a long time since a defense of comics as a medium of expression has been necessary. You might not like _Zot,_ but _[Understanding Comics](http://en.wikipedia.org/wiki/Understanding_Comics) _was the defense that the medium had long been waiting for.
+<!--more-->
 
 I'd argue that it stands in the same place that a lot of scientific research does. It explains and concretely addresses the instinctive notions that many of us have about the world that we live in. They may not necessarily say anything new, but they allow those things that we already thought we knew to be said with some sense of objective truth backing them.
 

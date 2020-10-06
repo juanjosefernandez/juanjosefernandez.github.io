@@ -20,6 +20,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/andromeda-quarterly-
 ---
 
 I'm excited to relay the following announcement from Little Tired Press regarding the newest issue of Andromeda and it's transition to a quarterly publication:
+<!--more-->
 
 
 <blockquote>Andromeda has transcended it’s hey day as a monthly comics publication and is now dawning a new age as a Quarterly Comics Anthology. The very 1st issue as a quarterly will be available for reading as well as purchasing at the Copacetic Comics Company in Polish Hill. This will be a seriously casual event, mostly chatting about comics and Andromeda in particular. A handful of the contributors will be there as well as Andy, editor and publisher of Andromeda, to answer questions or talk shop. Copies of the new Quarterly will be on sale for only $5 each, which is a steal as the book is _40 pages mostly in color and wrapped up nicely in a snug perfect binding_. **So swing on by 3138 Dobson Street next Thursday starting at 6pm** for an evening with the burgeoning Pittsburgh’s comics and cartooning superstars!</blockquote>

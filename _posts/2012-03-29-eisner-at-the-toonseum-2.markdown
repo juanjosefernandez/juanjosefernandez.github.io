@@ -17,6 +17,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_-_will_eisne
 As odd as it may seem, Pittsburghers can find a slice of the Big Apple in the heart of downtown Pittsburgh until May 27.
 
 This is because the ToonSeum, Pittsburgh’s museum of cartoon and comics art, is currently presenting _Will Eisner’s New York_, a rare collection of original works by legendary comics pioneer Will Eisner. The exhibit chronicles the artist’s informal history of the city that shaped many of his illustrated masterpieces. Simultaneously personal and universal, Eisner’s depiction of New York City captures the nuance that the greatest of biographers are capable of.
+<!--more-->
 
 The exhibition is curated by cartoonist and critic Denis Kitchen along with comic book writer and editor Danny Fingeroth; it is presented in partnership with the Museum of Comic and Cartoon Art in New York (MoCCA). MoCCA had originally organized an Eisner retrospective in 2005, soon after Eisner passed away at the age of 88. Many of the pieces are from this restrospective. The ToonSeum’s display of _Will Eisner’s New York_ is the first time that this particular collection of New York oriented work has been shown outside of New York City.
 

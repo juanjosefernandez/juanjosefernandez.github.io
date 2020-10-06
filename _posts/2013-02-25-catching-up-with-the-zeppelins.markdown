@@ -19,7 +19,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/02/screen-shot-2013-02-
 ---
 
 For the past week I've been hunkered down working on a children's book pitch to hopefully make to some publishers. Here's a peek at the cover that I've been working on. I had to choose between two stories that came to me one night. I arrived at these primarily based on the principle of catchy titles. I reckoned the stories would flow from there.
-
+<!--more-->
 The two stories were Mr. Frog's Backyard Rollercoaster and the Great Zeppelin Race. You can see which one I went with.
 
 ![Screen shot 2013-02-22 at 2.45.34 AM](http://fernandezjuanjose.files.wordpress.com/2013/02/screen-shot-2013-02-22-at-2-45-34-am.png)

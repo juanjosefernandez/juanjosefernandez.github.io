@@ -17,12 +17,9 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/06/tumblr_mo41dykp9x1r0zb46o1_1280.jpeg
 ---
-
-![tumblr_mo41dykP9x1r0zb46o1_1280](http://fernandezjuanjose.files.wordpress.com/2013/06/tumblr_mo41dykp9x1r0zb46o1_1280.jpeg?w=590)
-
-
 My friend Sean Knickerbocker has just put out a new 3-color risograph 28 page comics 'zine! It's called [AWESOME SOUND](http://seank.bigcartel.com/product/awesome-sound). This is the beginning of a beautiful, beautiful thing.
-
+<!--more-->
+![tumblr_mo41dykP9x1r0zb46o1_1280](http://fernandezjuanjose.files.wordpress.com/2013/06/tumblr_mo41dykp9x1r0zb46o1_1280.jpeg?w=590)
 
 It features the work of 3 great cartoonists that I have the good fortune of knowing personally, [DW](http://kidclampdown.tumblr.com/), [Dan Rinylo](http://www.drinylo.com/), and [Sean K](http://seanvscomics.tumblr.com/). himself. Oh, and I have a short little comic in there, too!
 

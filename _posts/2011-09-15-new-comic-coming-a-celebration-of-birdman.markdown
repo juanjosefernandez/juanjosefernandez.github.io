@@ -16,6 +16,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Queen_Victoria_
 ---
 
 In the works is a new comic done at a scale unprecedented for me. There will be a total of 12 frames, 2 huge, 2 skinny horizontal strips and 8 standard rectangles.
+<!--more-->
 
 Devoid of any words, it is a vignette of my creative process and the birth of a new character, Birdman. This has been an exercise in exploring contour line drawing from life. I'll have some images up for you soon. I just wanted to announce the coming images.
 

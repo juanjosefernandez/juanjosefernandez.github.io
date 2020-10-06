@@ -14,5 +14,6 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/scaaaaan058-crop.png
 ---
 
 Can you guess what this little guy's two favorite things to do are?
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/08/scaaaaan058-crop.png)](http://fernandezjuanjose.files.wordpress.com/2012/08/scaaaaan058-crop.png)[![](http://fernandezjuanjose.files.wordpress.com/2012/08/scaaaaan061-crop.png)](http://fernandezjuanjose.files.wordpress.com/2012/08/scaaaaan061-crop.png)

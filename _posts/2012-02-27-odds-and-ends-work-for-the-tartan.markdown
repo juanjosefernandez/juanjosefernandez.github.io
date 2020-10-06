@@ -12,6 +12,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/qatar1.jpg
 ---
 
 A computer science program for women in CMU's Qatar branch.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/02/qatar1.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/02/qatar1.jpg)
 

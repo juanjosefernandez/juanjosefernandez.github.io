@@ -15,7 +15,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/04/screen-shot-2013-04-
 ---
 
 Here's a shout out to my classmate, [Eleri Harris](http://elerimai.com/). She's a real go getter. She's trying to raise funds to jet down to her motherland, Australia. She's doing so by selling a full run of 400 mini comics that document her forays in American Culture as an Australian cartoonist. She's nearly halfway there.
-
+<!--more-->
 [![Screen shot 2013-04-02 at 9.16.06 PM](http://fernandezjuanjose.files.wordpress.com/2013/04/screen-shot-2013-04-02-at-9-16-06-pm.png)](http://fernandezjuanjose.files.wordpress.com/2013/04/screen-shot-2013-04-02-at-9-16-06-pm.png)
 
 Here's a message from the cartoonist herself:

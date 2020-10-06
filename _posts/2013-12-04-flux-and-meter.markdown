@@ -20,12 +20,12 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif
 ---
-
-[![flattened_ready-for-print](http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif)](http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif)
+<!--more-->
 
 Behold, the poster for my thesis at the Center for Cartoon Studies. Hope you dig it.
 
 In the coming months I’ll be posting loads of new 4 panel comics. For the moment, though I’m keeping to myself a little bit.
+[![flattened_ready-for-print](http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif)](http://fernandezjuanjose.files.wordpress.com/2013/12/flattened_ready-for-print.gif)
 
 I’m trying to create a buffer between the work and the public eye.
 

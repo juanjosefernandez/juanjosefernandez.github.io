@@ -11,6 +11,8 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/09/doodle-book.gif
 ---
 
-Took plenty of notes and doodled quite a bit at SPX last week. Just Thought I'd give y'all a spread to sate your cravings.
+Took plenty of notes and doodled quite a bit at SPX last week. Just Thought I'd give y'all a spread to sate your(my) cravings.
+<!--more-->
+
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/09/doodle-book.gif)](http://fernandezjuanjose.files.wordpress.com/2012/09/doodle-book.gif)

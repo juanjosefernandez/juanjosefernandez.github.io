@@ -14,10 +14,8 @@ old: true
 image: https://s3.amazonaws.com/CopaceticComics/1DailyDavis/DD224.jpeg
 ---
 
-
-
 I have a great friend, Eric, who studies design and excels at drawing. On the whole he is a muscle memory freak. Skateboarding, playing a drumkit, improvising on the guitar, woodworking, playing sonatas on the piano, given enough time, he can always get down any routine perfectly. It's amazing. I love him for it and often envy him. At the end of the day though, I'm not him and I have to face that my motor coordination is not like his.
-
+<!--more-->
 As a kid I was obsessed with skateboarding. Nevertheless, like the piano, tennis and swimming, my muscle memory never really developed and as such I was always trying to master the basics. I still skateboard, but have not progressed past the ollie and the fakie ollie. I've been doing it for over 7 years casually, and occasionally make some headway with kickflips and heelflips.  After a while though, as soon as I stop skating, my body seems to become disconnected from my mind.
 
 So what does getting massive speed wobbles while bombing hills in Pittsburgh have to do with comics and drawing? Well, in order to hone my skills and gain a genuine mastery of the craft, massive amounts of time have got to be invested. I'm a bit more gifted at drawing than I am at skateboarding, but it still requires a hell of a lot work on my part in order to effectively draw what I see. I can't _see_ well enough yet.

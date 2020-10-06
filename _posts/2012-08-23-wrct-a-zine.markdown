@@ -15,6 +15,8 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-23-
 ---
 
 It's amazing how little reference I need to draw this place...
+<!--more-->
+
 [![](http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-23-at-11-11-31.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-23-at-11-11-31.jpg)
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-23-at-11-11-2.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-23-at-11-11-2.jpg)

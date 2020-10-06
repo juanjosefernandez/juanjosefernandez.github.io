@@ -18,6 +18,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/09/dsc_0162.jpg
 http://www.youtube.com/watch?v=MTbNVAkVeC8
 
 Here's a video of  a non-standard comic that I've been working on and off on since the end of August. It is non-standard in the sense that it's wordless and that there are no panels, but it has a planned sequence of reading.
+<!--more-->
 
 This is the first attempt at printing, so it is a bit wonky. I need to align properly. Additionally, I need to find a printer that is not running out of ink...
 

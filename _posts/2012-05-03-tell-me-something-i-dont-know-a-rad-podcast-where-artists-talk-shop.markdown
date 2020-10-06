@@ -10,10 +10,9 @@ wordpress_id: 832
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/05/picture-2.png
 ---
-
-[![](http://fernandezjuanjose.files.wordpress.com/2012/05/picture-2.png)](http://tmsidk.podbean.com/)
-
 How does an artist make a living? What compromises does an artist make? Is the idea of the "sell out" obsolete? How have the technologies of the past 20 years made it possible to be an artist? What does it mean for a city to have a good creative culture. What do you do when offered the opportunity to script an opera?
+<!--more-->
+[![](http://fernandezjuanjose.files.wordpress.com/2012/05/picture-2.png)](http://tmsidk.podbean.com/)
 
 Artist, if these are questions that keep you up at night, read on.
 

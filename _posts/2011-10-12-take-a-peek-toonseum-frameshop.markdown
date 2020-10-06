@@ -12,6 +12,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/10/photo-e1318406680447
 ---
 
 Now that the Toonseum has expanded it has begun to move into its new space.
+<!--more-->
 
 Two weeks ago I helped organize and stock the Frameshop, This new space is a vast improvement. Now a good, clean and quiet work space is always available.
 

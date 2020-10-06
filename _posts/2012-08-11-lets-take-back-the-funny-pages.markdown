@@ -13,9 +13,12 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/08/homeburgh.jpg
 ---
 
-[![](http://fernandezjuanjose.files.wordpress.com/2012/08/homeburgh.jpg)](http://www.skeletonballs.com/yinz/index.html)Pittsburgh cartoonists, there's a lot of you out there, but there don't seem to be many of you in Pittsburgh's periodicals.
+Pittsburgh cartoonists, there's a lot of you out there, but there don't seem to be many of you in Pittsburgh's periodicals.
 
 Why's that? Is that because you don't know which to submit to? Understandable! Fortunately for you, [Nils Skeletonballs](http://www.skeletonballs.com/index.html), was kind enough to put together a list of local periodicals that you should be submitting your comics to.
+<!--more-->
+
+[![](http://fernandezjuanjose.files.wordpress.com/2012/08/homeburgh.jpg)](http://www.skeletonballs.com/yinz/index.html)
 
 Get crackin' and let's take back the funnies one strip at a time.
 

@@ -12,5 +12,6 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/b01.jpg
 ---
 
 Seein' as how I shared some illustrations for the paper, I thought I'd share with you this is the cover I did for the Tartan's arts and culture magazine, Pillbox. It captured the feel of the traditional notion of Carnegie Mellon Universities Carnival pretty well. This was a pretty politically correct cover. It came out nicely on newsprint, full of energy, but not too noisy.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/b01.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/04/b01.jpg)

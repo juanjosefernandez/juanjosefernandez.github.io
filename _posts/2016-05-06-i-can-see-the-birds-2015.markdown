@@ -19,8 +19,7 @@ image: https://fernandezjuanjose.files.wordpress.com/2016/05/icanseethebirds-31.
 This one is my Yo La Tengo comic on the shoulders of the poetry giant, Mary Oliver. The words are excerpted from her poem, [_Wild Geese_.
 ](https://www.youtube.com/watch?v=lv_4xmh_WtE)
 
-
-
+<!--more-->
 
 Process post on this one to come soon. Lots of details to comment on this one! For now though, I'd like to simply share the comic.
 

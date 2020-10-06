@@ -15,11 +15,12 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/05/andromeda_amimation.gif
 ---
-
-![](http://fernandezjuanjose.files.wordpress.com/2013/05/andromeda_amimation.gif)
 For those of you in or near Pittsburgh, PA next week:
 
 Come join the [Andromeda Quarterly](https://www.facebook.com/pages/Andromeda-Quarterly/122087897831664) this Thursday, the 23rd from 6pm to 8pm at the [Copacetic Comics Co.](http://www.copaceticcomics.com/) for an evening of celebrating Pittsburgh’s own Rustbelt Comics Anthology. [Click here for more event details.](https://www.facebook.com/events/338125096314296/)
+<!--more-->
+
+![](http://fernandezjuanjose.files.wordpress.com/2013/05/andromeda_amimation.gif)
 
 The publication is now on Issue 3 and I've got a couple of comics in the issue. Come check it out, talk comics and meet some of the contributors in person. They’d love to have you.
 

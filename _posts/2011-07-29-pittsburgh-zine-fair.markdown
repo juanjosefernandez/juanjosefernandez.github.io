@@ -17,10 +17,10 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2011/07/zine-fair-flyer-bw.jpg
 ---
+Exciting times are upon us, denizens of the crinkled realm. The Pittsburgh Zine Fair is being held for the first time ever on Thursday, September 1st from 5pm-10pm. The Zine Fair will be held at A.I.R. (Artists Image Resource) in the North Side and will feature over 30 vendors, workshops, hands-on demonstrations on letter-pressing and screenprinting, readings, and discussions!
+<!--more-->
 
 [caption id="attachment_184" align="aligncenter" width="590" caption="handbill designed by the ever talented Andy Scott."][![](http://fernandezjuanjose.files.wordpress.com/2011/07/zine-fair-flyer-bw.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/07/zine-fair-flyer-bw.jpg)[/caption]
-
-Exciting times are upon us, denizens of the crinkled realm. The Pittsburgh Zine Fair is being held for the first time ever on Thursday, September 1st from 5pm-10pm. The Zine Fair will be held at A.I.R. (Artists Image Resource) in the North Side and will feature over 30 vendors, workshops, hands-on demonstrations on letter-pressing and screenprinting, readings, and discussions!
 
 About AIR:
 

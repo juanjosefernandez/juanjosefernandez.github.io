@@ -16,10 +16,11 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif?w=590
 ---
-
-[![Finalstorytellers](http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif)Hey Pittsburghers!
+Hey Pittsburghers!
 
 Do you know any kids ages 5-13 who love writing and sharing stories? They might love to participate in **Storytellers’ Studio: After-Camp Care!**
+<!--more-->
+[![Finalstorytellers](http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/06/finalstorytellers.gif)
 
 Over the course of this five-day program, kids get to collaborate with other campers on a group story and adapt it into** plays, songs/raps, and comics**. I’ll be facilitating the comics making. I'm really excited to be part of this program and can't wait to see what we all cook up comics-wise!
 

@@ -22,12 +22,13 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/10/screen-shot-2013-10-21-at-3-14-43-am.png
 ---
-
-[![picture-2](http://fernandezjuanjose.files.wordpress.com/2013/10/picture-21.gif)](http://fernandezjuanjose.files.wordpress.com/2013/10/picture-21.gif)Phew, it's been a while!
-
 Autumn is upon the Upper Valley and I've finally tied the last bow on projects that were started this summer. As such, I feel it's an appropriate time for some kind of reflection.
 
 At the heart of this summer were coffee, kids and comics.
+
+<!--more-->
+
+[![picture-2](http://fernandezjuanjose.files.wordpress.com/2013/10/picture-21.gif)](http://fernandezjuanjose.files.wordpress.com/2013/10/picture-21.gif)Phew, it's been a while!
 
 ![Picture 1](http://fernandezjuanjose.files.wordpress.com/2013/08/picture-1.png)
 

@@ -26,6 +26,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/jjfernan-windy-page.
 Here's a peek at the lineart of the comic that I'm currently working on. It should be all done tomorrow, both the web version and the print version.
 
 I took loads of inspiration from Jordan Crane in terms of line variance and character design. I used a brush here and did everything by hand with ink and opaque white. I've never used brushes when making comics, so I thought I better stick close to the technique of someone whose work I love, if I wanted to churn out something that I'd be happy to look at. So far, I'm pretty damn proud of this comic. I'd be confident to say it's my best so far. It's a fun little story based on the fable of the Sun, the Wind and the Traveller's Cloak.
+<!--more-->
 
 Stay tuned for a full post of this little comic.
 

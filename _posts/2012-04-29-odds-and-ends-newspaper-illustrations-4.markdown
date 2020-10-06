@@ -12,6 +12,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/noreaster_final.png
 ---
 
 Some more for the Tartan. Nor'easters and the campus security alert system were the themes.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/noreaster_final.png)](http://fernandezjuanjose.files.wordpress.com/2012/04/noreaster_final.png)
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/alert.png)](http://fernandezjuanjose.files.wordpress.com/2012/04/alert.png)

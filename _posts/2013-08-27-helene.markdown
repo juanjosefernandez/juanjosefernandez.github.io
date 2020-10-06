@@ -16,11 +16,10 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/08/helene_3_joined.gif
 ---
-
-Helene was written using [bibliomancy](http://en.wikipedia.org/wiki/Bibliomancy).
+Helene was created using [bibliomancy](http://en.wikipedia.org/wiki/Bibliomancy).
 
 As per my instructor,  Jason Lutes', request.I cracked open a  French dictionary three times. Every time, I chose the first word on the page and used that word as turning point for the story 2 pages in, 4 pages in and 6 pages in. This assignment at the Center for Cartoon Studies marks the moment that I actively began to pursue the use of oblique strategies in my comics making process.
-****
+<!--more-->
 
 **The words I got were the following:**
 -to discover the world

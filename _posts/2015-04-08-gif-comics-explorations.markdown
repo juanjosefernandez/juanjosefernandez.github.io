@@ -17,6 +17,7 @@ image: https://fernandezjuanjose.files.wordpress.com/2015/04/tumblr_nihy0nrzaf1r
 ---
 
 I've been exploring animating comics. I'm above all in making comics that encourage the viewer to "read" animations. GIFs in comics tend to be a novelty, a background texture. These thoughts are rough. I'd love to hear what any one reading this has to say about the intersection of animation and comics.
+<!--more-->
 
 Instead of seeing animations in that way in comics, I want people to see the arrranging of animations as a practice where the animation is an essential part how meaning arises from the sequence. As comics makers we get to be architects of time and space. I'm trying to figure out how this kind of sequencing fits into that architecture.
 

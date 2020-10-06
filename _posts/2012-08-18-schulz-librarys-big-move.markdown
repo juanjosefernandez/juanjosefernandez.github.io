@@ -15,6 +15,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/img_20120817_163407.
 ---
 
 These past couple of days I've been volunteering during the big move for the Schulz Library at the Center for Cartoon Studies. Why a big move?
+<!--more-->
 
 It just so happens that in the summer of 2011, Hurricane Irene brought some scary floods to the Upper Valley. At the time the Schulz Library was located right next to the White River, sharing a store front with White River Junction's [Main Street Museum.](http://www.mainstreetmuseum.org/) As such, the precious collection was in serious risk of permanent damage. With a collection as spectacular as CCS' something had to be done. The books HAD to be kept safe.
 

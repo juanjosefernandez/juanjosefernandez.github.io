@@ -25,6 +25,7 @@ _This post originally appeared on the [Schulz Library Blog](http://www.cartoons
 
 CCS Alum [Sophie Goldstein](http://www.redinkradio.com/) (Class of 2013) is a comics powerhouse.
 Although she only graduated this May, Goldstein has had an extremely productive year of cartooning.  Her work has recently been appearing in a host of reputable venues. It’s been quite a year for her in terms of publications.
+<!--more-->
 
 [![across-sophie](http://fernandezjuanjose.files.wordpress.com/2013/11/across-sophie.gif)](http://fernandezjuanjose.files.wordpress.com/2013/11/across-sophie.gif)
 

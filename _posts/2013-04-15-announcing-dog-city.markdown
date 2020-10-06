@@ -17,10 +17,11 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/04/tumblr_inline_mlabe0m1aa1qj37il.png
 ---
-
+Over the past couple of months, while not cranking out my daily comics here at the Center for Cartoon Studies, I've been working hard alongside my buds, [Luke Healy](http://lukewhealy.com/) and [Simon Reinhardt](http://simonmreinhardt.tumblr.com/) to put together a comics publication that brings together all the things that I love about comics and independent publishing.
+<!--more-->
 [![tumblr_inline_mlabe0M1Aa1qj37il](http://fernandezjuanjose.files.wordpress.com/2013/04/tumblr_inline_mlabe0m1aa1qj37il.png)](http://fernandezjuanjose.files.wordpress.com/2013/04/tumblr_inline_mlabe0m1aa1qj37il.png)
 
-Over the past couple of months, while not cranking out my daily comics here at the Center for Cartoon Studies, I've been working hard alongside my buds, [Luke Healy](http://lukewhealy.com/) and [Simon Reinhardt](http://simonmreinhardt.tumblr.com/) to put together a comics publication that brings together all the things that I love about comics and independent publishing.
+
 
 [![tumblr_static_banner copy](http://fernandezjuanjose.files.wordpress.com/2013/04/tumblr_static_banner-copy.jpg?w=590)](http://www.dogcitypress.com/)
 Dog City is a small press comics magazine dedicated to publishing quality minicomics. Each issue of Dog City consists of a curated selection of minicomics packaged in an artfully designed cardboard box.

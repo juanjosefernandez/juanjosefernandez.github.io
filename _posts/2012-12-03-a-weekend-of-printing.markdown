@@ -22,6 +22,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/12/a9goqlxccaehiak.jpg
 I would be lying to you if I told you I wasn't pooped.
 
 The semester is coming to a close here at the Center for Cartoon Studies and that means that the First Year Anthology Deadline is rearing its little old head up on the horizon. As such, I've spent the past days this weekend screen printing a good number of covers for an upcoming project. No drawing, no writing, just printing and trouble shooting(lots of that!).
+<!--more-->
 
 Alongside 3 partners, I'm creating 11 little booklets that will be bound together by a bellyband (that'll be a wearable "communicator"). You can see some of the covers below.
 

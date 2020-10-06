@@ -13,12 +13,11 @@ categories:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg
 ---
-
-[![DSC_0894](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg)
-
 A couple of weeks ago I went to the Toronto Comics Arts Festival.
 
 I hoped to write a comprehensive post  but, silly little me, I hadn't realized what a huge happening TCAF was. I knew there was a lot of things going on, but I hadn't imagined how much goes on at once at the Festival.
+<!--more-->
+[![DSC_0894](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/05/dsc_0894.jpg)
 
 While, I only have a few things to say about this years' TCAF, the TCAF write ups of veteran convention go-ers,  [Tom Spurgeon](http://www.comicsreporter.com/index.php/several_notes_on_tcaf_2013/) and [Dustin Harbin](http://www.dharbin.com/blog/on-tcaf-and-gina-gagliano-and-value/), are choc-a-bloc with information on the festival.
 

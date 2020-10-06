@@ -14,7 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/03/be2a_ezccaalqep-larg
 ---
 
 A notebook that fits in your breast pocket is a thing of beauty.
-
+<!--more-->
 ![BE2a_EzCcAALQeP.jpg-large](http://fernandezjuanjose.files.wordpress.com/2013/03/be2a_ezccaalqep-large1.jpg)
 
 Comprised of no more than a durable cover with a neat image and and some quality graph paper, a small notebook helps me create an unparalleled connection to the world around me. It lets be in the moment.

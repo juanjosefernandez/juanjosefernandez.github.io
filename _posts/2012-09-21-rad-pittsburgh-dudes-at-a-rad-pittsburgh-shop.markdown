@@ -15,7 +15,8 @@ image: https://pbs.twimg.com/media/C3Rf5-cWEAAhKYM.jpg
 
 [Julie Sokolow](http://juliesokolow.com) put together a great little documentary of Jim Rugg, Jasen Lex, Tom Scioli and Ed Piskor's trip to Pittsburgh's [New Dimension Comics.](http://www.ndcomics.com)
 
-It's well worth your time to listen to these dudes geek out over back issues.
+It's well worth your time to listen to these dudes geek out over back issues.<!--more-->
+
 
 http://www.youtube.com/watch?v=P46fxBUQjEI&feature=youtu.be
 

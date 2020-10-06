@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/picture-3.png
 ---
 
 The Toonseum, Pittsburgh's non-profit cartoon art museum has a new project that you folks might fancy.
+<!--more-->
 
 The [Toonseum](http://www.toonseum.org/) and [Rob Rogers](http://www.robrogers.com/), the Pittsburgh Post-Gazette's Editorial Cartoonist, are looking to make a documentary that takes a look behind the curtain of political cartooning in America's current presidential race. The documentary hopes to send Rogers to cover the juicy details of the 2012 Republican and Democratic National Conventions.
 

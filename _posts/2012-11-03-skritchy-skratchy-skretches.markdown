@@ -26,6 +26,7 @@ Lots of ground to cover in this post.
 For starters, why pay for a yearbook when you can make one yourself? Here's a peek at the 2012 CCS yearbook.
 [![](http://fernandezjuanjose.files.wordpress.com/2012/11/ccsfacebook2012cover-big.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/11/ccsfacebook2012cover-big.jpeg)
 
+<!--more-->
 
 ###### [![](http://fernandezjuanjose.files.wordpress.com/2012/11/facebook-preview.png)](http://fernandezjuanjose.files.wordpress.com/2012/11/facebook-preview.png)Clockwise from upper left: [Eleri Mai Harris](http://elerimai.com), Sara Sarmiento, [Luke Healy](http://lukewhealy.com), Ben Gowen.
 

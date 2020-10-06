@@ -14,6 +14,7 @@ image: https://www.lambiek.net/artists/image/b/burns/burns_bigbaby.jpg
 ---
 
 I'm busy, but you deserve a post, dear reader.
+<!--more-->
 
 Check out Charles Burns speaking at the Rochester Institute of Technology.
 http://www.youtube.com/watch?feature=player_embedded&v=b407VbCIeaA#!

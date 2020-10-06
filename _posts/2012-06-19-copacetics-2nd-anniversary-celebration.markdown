@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/06/copaceticann2.jpeg
 ---
 
 When's the last time you stopped by Pittsburgh's Copacetic Comics? Has it been too long? Well, this weekend might be the weekend to change that. For two days you can celebrate by emptying your wallet and filling your backpacks and handbags with comics and artbooks galore at the 2nd Anniversary Celebreation of Copacetic's location in Polish Hill. There'll be sale prices on the raddest of the rad, so it's certainly not something to miss out on.
+<!--more-->
 
 If you've never been to Copacetic and you're a comics fan within a reasonable distance from Pittsburgh, you should consider a weekend trip and check out the [Stephan Pastis talk and exhibit opening at the Toonseum](http://events.pittsburgh.cbslocal.com/pittsburgh_pa/events/evening-stephan-pastis-pearls-before-swine-/E0-001-048582836-7).
 

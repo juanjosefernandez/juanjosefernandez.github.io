@@ -13,9 +13,10 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/06/teenwolverine-1.jpeg
 ---
 
-'ey y'all. The next coming posts are going to be juicy so hold on to your butts.
+hey y'all. The next coming posts are going to be juicy so hold on to your butts.
 
 [The following is happening next monday](http://www.facebook.com/events/201524219969510/) at Lili Coffee Shop in Polish Hill in Pittsburgh. Do stop by. I'll be geekin' out about all kinds of comics related things. I'll have some recap/photos to share.
+<!--more-->
 
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/06/522654_3402897551226_741449517_n2.jpeg)](http://www.facebook.com/events/201524219969510/)

@@ -16,10 +16,9 @@ tags:
 old: true
 image: https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png
 ---
-
-[![Screen shot 2015-02-10 at 5.42.17 PM](https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png)](https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png)
-
 Let me tell you, Jenn and I are keeping busy. We've got some new books in the works that we're really excited to be bringing into the world at the end of March at PIX, the Pittsburgh Indy Comics Expo.
+<!--more-->
+[![Screen shot 2015-02-10 at 5.42.17 PM](https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png)](https://fernandezjuanjose.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-5-42-17-pm.png)
 
 [![photo](https://fernandezjuanjose.files.wordpress.com/2015/02/photo.jpg)](https://fernandezjuanjose.files.wordpress.com/2015/02/photo.jpg)
 One will be a collection of Jenn's diary comics from this January and February. She's been working hard and I can't wait for everyone to see where she's taking these diary comics. I think they're going to strike a really beautiful nerve with some people. Hope on over[ to her site](http://cargocollective.com/jenniferlisa/Comics) to get a taste of some of her older comics!

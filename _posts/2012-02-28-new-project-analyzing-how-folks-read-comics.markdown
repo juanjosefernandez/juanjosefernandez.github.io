@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/img_0925a1.jpeg
 ---
 
 The biggest thing that I've been up to here in the ivory tower is work related to developing a way to quantifiably analyze how people read comics.
+<!--more-->
 
 Here's a peek at the eye tracker that I'm trying build. I'll be changing the code so that eye movement paths are recorded for later analysis.
 

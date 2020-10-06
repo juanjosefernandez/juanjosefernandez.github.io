@@ -24,6 +24,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/11/appeal_fernandez.gif
 hearty greetings to all!
 
 You know the rules, first off, some updates, second some doodles and the like and finally some music.
+<!--more-->
 
 My recent illustration gigs turned out well. Made some work I'm proud of, got some money for my and got to experiment with watercolors. The only thing I really lost out on was sleep. The following is for an illustration that I prepared for the [Quechee Public Library'](http://www.quecheelibrary.org/) s annual appeal. They wanted an attention-catching piece that would cause the viewer to think about how important libraries are. I've gotten so much out of the libraries that I've come across, that I thought it was due time to give back. [![](http://fernandezjuanjose.files.wordpress.com/2012/11/appeal_fernandez.gif)](http://fernandezjuanjose.files.wordpress.com/2012/11/appeal_fernandez.gif)
 

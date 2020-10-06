@@ -14,5 +14,6 @@ image: http://media.cleveland.com/cleveland-heights/photo/we0641018cjpg-2243be52
 ---
 
 Howdy folks, it looks like the funding on a statue at the Cleveland Heights Public Library dedicated to celebrating Harvey Pekar's life and work in comics is getting up to the desired sum!
+<!--more-->
 
 [Check out the Project.](http://www.kickstarter.com/projects/1844705603/harvey-pekar-library-statue-comics-as-art-and-lite) It's really something.

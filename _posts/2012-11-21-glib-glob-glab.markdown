@@ -22,6 +22,7 @@ holy mother of god, I'm exhausted.
 I've got a deadline that I've got to meet tomorrow. I'm finally at the digital stage of the process, so after a couple hours of sleep I'll be able to wrap that up. For now, it's a little update and then to catch that teensy bit of rest.
 
 I'm super proud of my first forays into watercolors. The results have been really satisfying.
+<!--more-->
 
 Here's a peek, followed by some recent doodles.[![](http://fernandezjuanjose.files.wordpress.com/2012/11/map_color_joined.png)](http://fernandezjuanjose.files.wordpress.com/2012/11/map_color_joined.png)[![](http://fernandezjuanjose.files.wordpress.com/2012/11/dooooodle.png)](http://fernandezjuanjose.files.wordpress.com/2012/11/dooooodle.png)
 

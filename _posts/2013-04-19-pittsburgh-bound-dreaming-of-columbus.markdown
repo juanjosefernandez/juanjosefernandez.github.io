@@ -16,8 +16,8 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/04/screen-shot-2013-04-19-at-12-12.gif
 ---
-
 I'm Pittsburgh bound, but I have pangs to be in Columbus. At the Billy Ireland Library and Museum, more precisely. Man, what a spiritual place...
+<!--more-->
 
 Julie Sokolow recently produced a [short video](http://www.youtube.com/watch?v=Wu0cCTZvaVw) that explores that Billy Ireland Cartoon Library and Museum at Ohio State University. Watch the [Tell Me Something I Don't Know](https://twitter.com/TMSIDKS) crew geek out over Nancy panels with librarian, Caitlin Mcgurk.
 

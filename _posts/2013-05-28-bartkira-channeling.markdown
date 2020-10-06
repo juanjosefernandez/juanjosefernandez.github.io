@@ -14,10 +14,9 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/05/tumblr_mn8npm8cem1rc4waeo4_1280.gif
 ---
-
-[![51561806924](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)
-
 About a month and a half ago, artist [James Harvey](http://harveyjames.tumblr.com/) saw [some Akira/Simpsons fan art ](http://ryanhumphrey.co.uk/Bartkira)done by [Ryan Humphrey.](http://ryanhumphrey.co.uk/)
+<!--more-->
+[![51561806924](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)](http://fernandezjuanjose.files.wordpress.com/2013/05/51561806924.gif)
 
 Inspired by the energy of the energy of the combination, Harvey proposed a group project to folks on the internet that was as silly as it was monumental. Harvey proposed they redraw the entire 6 volume, 2160 page Akira saga, transposing it into the Simpsons universe. [The Bartkira project was born](http://harveyjames.tumblr.com/post/46123764908/springfield-is-about-to-eoxopolooodoe-whew-just).
 

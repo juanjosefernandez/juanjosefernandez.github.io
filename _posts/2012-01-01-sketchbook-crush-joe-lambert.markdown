@@ -16,6 +16,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/01/4585337305_123f29218
 Hey y'all,.
 
 I thought I'd start off 2012 with a post about my sketchbook crush on Joe Lambert. He recently made a post showing all of his sketchbooks. [39 in total.](http://www.submarinesubmarine.com/2011/12/old-sketchbooks.html)
+<!--more-->
 
 I have a great deal of respect for him and hope to create comics as nuanced as his. He's got an amazing handle on cartooning and lettering. Similar to Dustin Harbin, but much, much looser in his explorations.
 

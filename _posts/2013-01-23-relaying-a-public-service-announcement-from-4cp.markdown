@@ -19,6 +19,7 @@ image: http://i.imgur.com/jGQh2dH.jpg
 ---
 
 This afternoon I came across a message from [Half-Man Half-Static](http://posterous.com/users/4aqiDs7OMvCN#activities/page/1), who runs the great little online galleries [4CP(Four Color Process)](http://4cp.posterous.com/), [Comic Book Cartoraphy](http://comicbookcartography.posterous.com/) and [Supertype!](http://supertype.posterous.com/), a comics typography gallery.
+<!--more-->
 
 I've mentioned 4CP in the past, so forgive me if you're already familiar with what Half-Man Half Static has been up to. The post was regarding the likely loss of his public galleries due to Twitter's acquisition of Posterous. I highly recommend you visit the galleries to gander at some wonderfully curated crops of the magical 4 color process. Download what you like (and be sure to jot down the source notes. That's always pretty useful!)
 

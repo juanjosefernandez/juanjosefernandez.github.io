@@ -13,11 +13,10 @@ categories:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif
 ---
+_made for a friend. thought I’d share._
+<!--more-->
 
 [![tumblr_ms7y1ndrpG1rc4waeo1_500](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/08/tumblr_ms7y1ndrpg1rc4waeo1_500.gif)
-
-_made for a friend. thought I’d share._
-
 Here’s your first lesson. This should take an hour.
 1) comics are hard
 
@@ -25,8 +24,6 @@ Here’s your first lesson. This should take an hour.
 
 
 3) comics are life
-
-
 
 
 

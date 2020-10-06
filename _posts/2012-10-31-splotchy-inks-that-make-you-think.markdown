@@ -18,6 +18,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/ballzzzzz012_web.jpg
 ---
 
 Here's a peek at the ink that's been flowing recently. As you can tell, Joann Sfar has been big on my mind recently.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/ballzzzzz012_web.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/10/ballzzzzz012_web.jpg)
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/ballzzzzz015_web.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/10/ballzzzzz015_web.jpg)

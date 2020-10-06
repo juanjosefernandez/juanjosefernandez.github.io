@@ -17,6 +17,8 @@ I thought I'd share a pairing of experiences that I've recently enjoyed combinin
 
 My friend, [Sal Farina](http://salvatorefarina.com/index.php), has coded[ some neat visual toys ](http://salvatorefarina.com/codes.php)for Mac OS X. He's a real lover of textures and patterns. 
 
+<!--more-->
+
 Of those bits of code he's written, my favorite is [_acid static_](http://salvatorefarina.com/acid.zip). Once you download and install the application, _acid static_ runs full screen behind all of your applications and on top of your desktop. Here's a screenshot of how it transforms your screen. It's truly a beautiful bit of cellular automata. (The gif doesn't do it justice, as I had to reduce it down to 5 frames...)
 
 [![Vy1Ky7R](http://fernandezjuanjose.files.wordpress.com/2013/02/vy1ky7r.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/vy1ky7r.gif)

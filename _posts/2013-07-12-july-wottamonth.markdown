@@ -18,12 +18,13 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/07/superstars.gif
 ---
-
-[![julybanner](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)Hot dog. July's been a busy month in Pittsburgh!
+Hot dog. July's been a busy month in Pittsburgh!
 
 Although I haven't had much time to be making and publishing my own work,  I've been knee deep in comics, while soaking up the summer in Pittsburgh.
 
 Aside from organizing the [Little Book Fair](littlebookfair.tumblr.com) and assembling an all-star crew of cartoonists for another exciting [Dog City Press](http://www.dogcitypress.com/) endeavor, I've been teaching all over the city of Pittsburgh.
+<!--more-->
+[![julybanner](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)](http://fernandezjuanjose.files.wordpress.com/2013/07/julybanner.gif)
 
 Two highlights of this month have been being a part of the [Computing Workshop](https://www.facebook.com/computingworkshop)'s summer staff  and working with the incredible, education super-stars, Mary Hart and [Paula Levin](http://remakelearning.org/person/levin-paula/).
 

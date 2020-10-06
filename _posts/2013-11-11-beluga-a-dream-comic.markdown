@@ -16,5 +16,6 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_cover1.gif
 ---
+<!--more-->
 
 [![dream_72_cover](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_cover1.gif)](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_cover1.gif)![dream_72_01](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_011.gif)![dream_72_02](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_021.gif)[![dream_72_03](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_031.gif)](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_031.gif)![dream_72_04](http://fernandezjuanjose.files.wordpress.com/2013/11/dream_72_041.gif)

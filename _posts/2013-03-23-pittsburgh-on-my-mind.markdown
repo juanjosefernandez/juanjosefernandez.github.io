@@ -19,7 +19,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/02/pghzinefairdouble-10
 ---
 
 During the last week that I've spent back in Pittsburgh, I've been repeatedly reminded by how invigorating its community of creators has been for me in my growth as a cartoonist. It's a great place filled with some truly hard working creators.
-
+<!--more-->
 One of the things that bums me out the most about not having been in Pittsburgh this past fall was not being able to attend the 2nd Annual Zine Fair. With a roster of exhibitors as juicy [as the one that they organized](http://pghzinefair.com/who-they-are/), the event was bound to be a blast. Hopefully, the timing of the 2013 zine fair is conducive to me trekking down to the city.
 
 

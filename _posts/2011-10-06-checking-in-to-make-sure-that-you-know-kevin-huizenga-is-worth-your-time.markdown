@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/10/kevin-huizenga-gange
 ---
 
 Folks, I'm bogged down by linguistics classes, managing WRCT and printing and binding work for PIX, but I don't want the week to pass by without speaking to you. As such, I'll point you in the direction of 3 interesting and inspiring things.
+<!--more-->
 
 1) Time Travelling by Kevin Huizenga is a story worth experiencing. It appeared in the original Ganges and I find it beautifully done. http://whatthingsdo.com/comic/time-travelling/
 

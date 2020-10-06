@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/12/greenbleedhsofmyst20
 ---
 
 I'm just about wrapped up for the Fall Semester at Carnegie Mellon. Lots of work to complete before I go home, so for now all I've really got is link that you, my good reader, might enjoy.
+<!--more-->
 
 Here's a link to an image blog dedicated to the appreciation of the 4 color process of comics and the striking images that this analogue process creates combined with the artistic visions of the cartoonists who put them down into ink.
 

@@ -19,6 +19,7 @@ A recent article that I wrote for CMU's newspaper, The Tartan:
 
 ## Interval Mondays and Space Exchange promise vivacious weekly performances
 
+<!--more-->
 
 A city that used to be a veritable hotbed of American Jazz, Pittsburgh has seen what could be described as a process of jazz atrophy. Cultural institutions like the August Wilson Center and the Manchester Craftsmen’s Guild feed off a legacy of jazz, not a vibrant scene.
 

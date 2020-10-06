@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/screen-shot-2012-04-
 ---
 
 Here's a little peak of what you can expect on the site. Check it out and stay tuned for the coming details. It's going to be a really special Expo this year, so make a mental note to be in Pittsburgh in early October.
+<!--more-->
 
 For now, the best way to stay up to date is via [the facebook](http://www.facebook.com/PittsburghIndieExpo) or [the tumblr.](http://pixpo.tumblr.com/)
 

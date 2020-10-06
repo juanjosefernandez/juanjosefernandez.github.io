@@ -13,5 +13,6 @@ categories:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/09/jjfernanportrait-copy-gradient.png
 ---
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/09/jjfernanportrait-copy-gradient.png)](http://fernandezjuanjose.files.wordpress.com/2012/09/jjfernanportrait-copy-gradient.png)

@@ -14,6 +14,7 @@ image: https://fernandezjuanjose.files.wordpress.com/2015/09/tumblr_ns5u7j01lw1u
 _Daunted and Freed by the Script_
 
 Every month I've been putting together a recap of the Comics Salon happenings for supporters of the[ Comics Salon Patreon](https://www.patreon.com/pittsburghcomicssalon?ty=h). I'd like to start sharing those thoughts here with you. Let me know what you think, comes to mind while you read in the comments. If you'd like to support the ongoing efforts of the Pittsburgh Comics Salon, [take a look at the Patreon page I've set up. ](https://www.patreon.com/pittsburghcomicssalon?ty=h)Be a patron of the arts in Pittsburgh, whydontcha?
+<!--more-->
 
 _The goal of the salon is to build solidarity, get new conversations started between cartoonists and comics makers in the area and to push the frontiers of comics making in an intimate and welcoming setting here in Pittsburgh, PA._
 

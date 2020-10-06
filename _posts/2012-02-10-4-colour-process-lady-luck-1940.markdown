@@ -12,6 +12,7 @@ categories:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/02/4cp-posterous.jpeg
 ---
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/02/4cp-posterous.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/02/4cp-posterous.jpeg)
 

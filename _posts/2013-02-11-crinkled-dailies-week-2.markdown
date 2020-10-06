@@ -22,7 +22,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/02/9-fuckthisshit.gif
 Last week, I wrapped up an intense project here at the Center for Cartoon Studies. I , along with 5 collaborators were to time travel back to 1966 and create a teen musical comedy that abided by the Comics Code and that would sell like hotcakes, knowing what we 21st century cartoonists knew about the medium.
 
 I had the privilege of working under the invaluable editorial guidance of [Steve Bissette](http://srbissette.com/) with fellow students [Simon Reinhardt](http://simonmreinhardt.tumblr.com/comics), [Eleri Harris,](http://elerimai.com/) [Ben Evans](http://benkevans.tumblr.com/), [Alexis Dexter](http://lexxidexter.tumblr.com/) and [Aaron Shrewsbury](http://www.comicartfans.com/gallerydetail.asp?gcat=29924). It was a doozy of a project, but everyday was a genuine pleasure to work with these folks. Here's a peek at the cover that we came up with for this 32 page issue of the _Nowsills!_
-
+<!--more-->
 
 [![Screen shot 2013-02-11 at 1.02.13 AM](http://fernandezjuanjose.files.wordpress.com/2013/02/screen-shot-2013-02-11-at-1-02-13-am.png)](http://fernandezjuanjose.files.wordpress.com/2013/02/screen-shot-2013-02-11-at-1-02-13-am.png)
 I'm really proud of the work that we all churned out.

@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/photo-on-2012-08-19-
 ---
 
 I spent the day playing around with monoprints at the [Two Rivers Print Studio.](http://tworiversprintmaking.com/)
+<!--more-->
 
 Let's see if you can put two and two together.
 

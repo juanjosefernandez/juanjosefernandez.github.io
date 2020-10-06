@@ -15,6 +15,7 @@ image: https://66.media.tumblr.com/tumblr_lyl0ax9LZp1qz6f4bo1_1280.jpg
 ---
 
 Don't have much to say today, so I thought I'd let Frank Santoro do the talking. He's out doing a West Coast Layout Tour, which, by the looks of it, seems to be going really well for him.
+<!--more-->
 
 <blockquote>Comics are THE ascendant artform. We are the ones who are making the most exciting art. We are dusting the competition because it is a real community of readers, writers and makers who care about the form – no one is in it for the money or glory. It’s a golden age and we all know it.
 

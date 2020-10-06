@@ -16,3 +16,4 @@ Check out this look at the Toonseum.
 http://www.youtube.com/watch?v=YZwtkRWIews
 
 If you're in Pittsburgh any time soon, be sure to visit!
+<!--more-->

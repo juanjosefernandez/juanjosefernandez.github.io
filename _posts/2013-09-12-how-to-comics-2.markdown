@@ -16,11 +16,10 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_msa07vvtju1rc4waeo1_1280.gif
 ---
-
-[![tumblr_msa07vVtjU1rc4waeo1_1280](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_msa07vvtju1rc4waeo1_1280.gif)](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_msa07vvtju1rc4waeo1_1280.gif)
-
 This is your second lesson.
 
+<!--more-->
+[![tumblr_msa07vVtjU1rc4waeo1_1280](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_msa07vvtju1rc4waeo1_1280.gif)](http://fernandezjuanjose.files.wordpress.com/2013/09/tumblr_msa07vvtju1rc4waeo1_1280.gif)
 
 
 

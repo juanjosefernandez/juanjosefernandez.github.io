@@ -17,6 +17,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/09/photo-on-2012-09-13-
 Right before SPX 2012, a couple of us in the first year class at CCS decided to make an anthology. 
 
 You can check it out below in the photo I took before I handed them all out to folks at SPX. Each of the students involved created a two page comic relating to  the theme of Summer. The style and content had a really satisfying range. Nostalgia, humor, introspection, abstraction were all present. I'm proud that my fellow classmates and I are off to a strong start.
+<!--more-->
 
 Speaking of SPX I have to say right now that I was truly blessed to see all you, my cartooning friends from Pittsburgh at the expo. To know that there were over 2 dozen representatives of the Pittsburgh self-publishing scene was really inspiring. If it weren't for most of those folks I wouldn't be where I am today.
 

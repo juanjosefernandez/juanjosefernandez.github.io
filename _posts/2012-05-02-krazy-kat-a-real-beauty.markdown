@@ -13,7 +13,9 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/05/krazykat_2-6-38_lg.jpeg
 ---
 
-I pride myself on not being too highfalutin. As such, I won't try to talk about the role that George Herriman's [Krazy Kat](http://en.wikipedia.org/wiki/Krazy_Kat) plays in the 20th centuries art traditions. Nevertheless it's important to note that with fans like Pablo Picasso, William Randolph Hearst and e.e. cummings lovers of Krazy Kat are in good company. Krazy has been floating around me for the past two years but only recently have I given Herriman's work the time of day. I regret every second of those two years without Krazy.![](http://fernandezjuanjose.files.wordpress.com/2012/05/krazykat.jpeg)
+I pride myself on not being too highfalutin. As such, I won't try to talk about the role that George Herriman's [Krazy Kat](http://en.wikipedia.org/wiki/Krazy_Kat) plays in the 20th centuries art traditions. Nevertheless it's important to note that with fans like Pablo Picasso, William Randolph Hearst and e.e. cummings lovers of Krazy Kat are in good company. Krazy has been floating around me for the past two years but only recently have I given Herriman's work the time of day. I regret every second of those two years without Krazy.
+<!--more-->
+![](http://fernandezjuanjose.files.wordpress.com/2012/05/krazykat.jpeg)
 
 From the simple premise: Kat loves Mouse, Mouse Loves Self, Dog Loves Kat grow an infinite set of stories that Herriman masterfully captured in pen and ink.
 

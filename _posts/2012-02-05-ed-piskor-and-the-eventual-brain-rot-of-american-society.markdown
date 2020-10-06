@@ -12,6 +12,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/screen-shot-2012-02-
 ---
 
 Unbeknownst to most, Pittsburgh is home to a vibrant independent comics scene. With over 7 comics shops in the city and the Toonseum, a museum wholly dedicated to celebrating animation and comics, you can be sure that there are a lot of comics aficionados in town. And, with homegrown comics anthologies like _Andromeda_ and _Unicorn Mountain_, alongside independent comics giants like Jim Rugg, Frank Santoro and Tom Scioli, you can be sure that there's a lot of ink hitting the page in the city.
+<!--more-->
 
 In the midst of this vibrant community, you've got the inkstud, [Ed Piskor](http://edpiskor.com/). A workhorse of a cartoonist, Piskor is an artist that in the past 7 years has been making great strides in the world of professional comics, opening the medium of storytelling to new audiences. Thanks to a range of stories about the passions and politics of hackers, the reflections on life from Cleveland and the borderline biblical history of Hip Hop culture, Ed Piskor is a curious storyteller.
 

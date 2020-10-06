@@ -19,6 +19,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/11/a6-h8s-cuaa1qdd.jpeg
 The eagerness of the sun to set nowadays is really hitting me hard. Given that the early dusk causes me to naturally feel down and generally drowsy, I'm fighting pretty hard to stay productive and on top of things. Slowly but surely things are getting done.
 
 Just on the horizon, fueling my cartooning fires, is the [Brooklyn Comics and Graphics Festival](http://www.comicsandgraphicsfest.com/). Tomorrow I'll be putting these copies of On They Bicker Together so as to have something to hand out and trade with the nice folks that I come across. Being as particular as I am about my comics, I'm actually thinking of re-lettering the comic on velum on a rainy day, but that's for another post.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/11/a6-h8s-cuaa1qdd.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/11/a6-h8s-cuaa1qdd.jpeg)
 

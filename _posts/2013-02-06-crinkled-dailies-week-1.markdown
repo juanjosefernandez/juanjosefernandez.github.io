@@ -19,6 +19,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/02/1-runasfast.gif
 Greetings from the Crinkled Corner.
 
 If you haven't heard, I'm doing daily comics. 4 panels every day. 
+<!--more-->
 
 My jumping off point for much of these strips is channelling my love of [Pablo Holmberg](http://www.kioskerman.com/comics.html)'s _Eden_, [Liniers' ](http://macanudoliniers.blogspot.com/)_Macanudos_ and [Nicholas Gurewitch's](http://pbfcomics.com/) _Perry Bible Fellowship. _Who knows where they'll go from there!
 

@@ -11,7 +11,9 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/08/elvibora62.jpg
 ---
 
-Just something I thought I'd share. Drawn by Laura in 1984, ain't it a beauty?
+Just something I thought I'd share. Drawn by Laura in 1984. What a beauty. Let me tell you about Laura.
+<!--more-->
+
 [![](http://fernandezjuanjose.files.wordpress.com/2012/08/elvibora62.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/08/elvibora62.jpg)so you might ask, _Quien es Laura_?
 
 Unknown to most anglophones (and even many Spaniards), [Laura Pérez Vernetti](http://www.lambiek.net/artists/p/perez-vernetti_laura.htm) is a spanish illustrator from Barcelona that contributed regularly to the underground Spanish comics magazine, el Víbora, from 1981 until 1991. Her work is distanced from standard aesthetics and conventional narratives, focusing primarily on comics that deal head on with themes of erotica, experimental forms, and socio-politcal commentary(the Spanish Civil War in particular). Additionally, she has adapted the works of Maupassant, De Quicey, Jung and Kafka to comics.

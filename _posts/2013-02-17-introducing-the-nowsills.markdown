@@ -18,11 +18,10 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/02/nowsills-final-cover.png
 ---
-
+Two weeks ago I hunkered down for 12 days and made a full color 32 page comic book with a group of students at the Center for Cartoon Studies. The idea was to step back into time to the year 1966 and try to produce a Teen Musical Comedy that would outsell the titan of the time, Archie Comics. Thus were born the **Nowsills.**
+<!--more-->
 [![Nowsills final cover](http://fernandezjuanjose.files.wordpress.com/2013/02/nowsills-final-cover.png)](http://fernandezjuanjose.files.wordpress.com/2013/02/nowsills-final-cover.png)
 
-
-Two weeks ago I hunkered down for 12 days and made a full color 32 page comic book with a group of students at the Center for Cartoon Studies. The idea was to step back into time to the year 1966 and try to produce a Teen Musical Comedy that would outsell the titan of the time, Archie Comics. Thus were born the **Nowsills.**
 
 
 This issue that tells the adventures of the fictional family rock 'n roll group, the Nowsills. It came together under the editorial guidance of [Steve Bissette](http://srbissette.com/) and was made in collaboration with fellow Center for Cartoon Studies students [Simon Reinhardt](http://simonmreinhardt.tumblr.com/comics), [Eleri Harris,](http://elerimai.com/) [Ben Evans](http://benkevans.tumblr.com/), [Alexis Dexter](http://lexxidexter.tumblr.com/) and [Aaron Shrewsbury](http://www.comicartfans.com/gallerydetail.asp?gcat=29924).  We each brought our best to the table to crank this puppy out and it's safe to say that for two weeks, we were a bonafide bullpen.

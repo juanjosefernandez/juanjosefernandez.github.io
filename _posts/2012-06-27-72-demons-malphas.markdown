@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/06/photo-43.jpg
 ---
 
 Hey all, I'm contributing to Tara Helfer's 72 Demons Project. I thought I'd share my work in progress.
+<!--more-->
 
 You know how I am with anthropomorphizing birds, so when I saw that Malphas, the half-man half crow defense specialist and military strategist was still up for grabs, I jumped on that. Here's a preliminary sketch fro my contribution. You can count on Malphas getting fancy.
 

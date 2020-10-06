@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/08/picture-1.png
 ---
 
 The Pittsburgh 'Zine fair is coming up real soon. Are you stoked?
+<!--more-->
 
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/08/picture-1.png)](http://pghzinefair.com/)

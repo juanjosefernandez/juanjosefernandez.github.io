@@ -17,6 +17,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/jim-rugg.jpeg
 [This article originally appeared in CMU's school Newspaper, the Tartan](https://thetartan.org/2012/4/16/pillbox/jim-rugg).
 
 Jim Rugg is a Pittsburgh comics powerhouse. His contributions to the vitality of the comic scene have included mini-comics, self-publishing, and creator-owned work with independent publishers. It’s no wonder the ToonSeum is honoring the contemporary cartoonist and working artist through the month of May with its exhibit, _This #*?! Isn’t Very Funny_.
+<!--more-->
 
 ![](http://fernandezjuanjose.files.wordpress.com/2012/04/jim-rugg.jpeg)
 

@@ -17,14 +17,14 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif
 ---
-
-[![industry-day-poster](http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif)
-
 I'm now in Pittsburgh, coming up for air, finally able to look back to the wacky world of comics I've been knee-deep in for the past couple of months.
+<!--more-->
+[![industry-day-poster](http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/03/industry-day-poster1.gif)
 
 It's been quite a spring. For now, the dailies are on hiatus, I'm teaching kids how to hone their comics making skills, working on some large screen prints, doodling daily and trying to wrangle some longer form stories.
 
 As you may have heard, I've been editing a new comics magazine called Dog City with two friends [Luke Healy](http://lukewhealy.com/) and [Simon Reinhardt](http://simonmreinhardt.tumblr.com/). The first issue is out!
+
 
 [![tumblr_mn1b2cdyp61s64julo1_r2_500](http://fernandezjuanjose.files.wordpress.com/2013/05/tumblr_mn1b2cdyp61s64julo1_r2_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/05/tumblr_mn1b2cdyp61s64julo1_r2_500.gif)
 

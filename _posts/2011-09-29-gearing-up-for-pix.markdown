@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/09/dsc_0944.jpg
 Here are a couple of Photographs from last year. I was blessed to share a table with [Caitlin Rose Boyle](http://www.sadsadkiddie.com/blog/) and [Tara Helfer](http://tarahelfer.com/).
 
 Hope you enjoy and that you can come out to support me and the other folks that'll be gathering next weekend to sell you our stories.![](http://fernandezjuanjose.files.wordpress.com/2011/09/dsc_0937.jpg)]
+<!--more-->
 
 ![](http://fernandezjuanjose.files.wordpress.com/2011/09/dsc_0944.jpg)**Andy Scott of Andromeda checking out the wares**
 

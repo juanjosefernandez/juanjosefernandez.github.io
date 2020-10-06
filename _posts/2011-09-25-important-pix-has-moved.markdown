@@ -15,6 +15,9 @@ The Pittsburgh Indy Comics expo has moved locations. The Expo will now be happen
 
 So what will be happening?
 
+<!--more-->
+
+
 Small Press Fair: [http://www.spfpittsburgh.com/](http://www.spfpittsburgh.com/)
 
 Pittsburgh Indy Comics Expo (PIX) :[http://homepage.mac.com/bem/PIX/index.html](http://homepage.mac.com/bem/PIX/index.html)

@@ -15,18 +15,11 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg
 ---
-
-[![color_ccc_flyer_version 2](http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg)**Hey Pittsburghers!**
-
-
-
-
 Know some kids who want to make comics?
 
-
-
-
 **Here’s their chance to learn how to co-mix with other kids!**
+<!--more-->
+[![color_ccc_flyer_version 2](http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg?w=590)](http://fernandezjuanjose.files.wordpress.com/2013/06/color_ccc_flyer_version-2.jpg)**Hey Pittsburghers!**
 
 
 I’ll be teaching a weeklong camp where we’ll be going through the entire comics process from idea generation to publication. We’ll talk tools, techniques, and how to put all those great ideas together to make some real funny books!

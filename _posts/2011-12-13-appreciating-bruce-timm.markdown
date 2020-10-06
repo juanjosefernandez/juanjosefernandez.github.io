@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2011/12/tumblr_lu1u8xdi6b1r5
 ---
 
 I'll be honest with you, Batman bores me unless he's drawn by Bruce Timm. Ok, ok, you've got others like [Mazzucchelli](http://en.wikipedia.org/wiki/Batman:_Year_One) and [Josh Simmons](http://www.joshuahallsimmons.com/batman.html) that also make Batman stories that blow the competition out of the water, but Timm distills and re-contextualizes the essence of Batman and the world of Gotham in his drawings spectacularly in a way that I've seen no other artist capable of replicating.
+<!--more-->
 
 When I was a kid I grew up watching Timm's creations, _Batman the Animated Series_ and _Batman Beyond_. They were available for viewing on Cartoon Network both in Venezuela and in the States so I was weaned on those stories and on Timm's aesthetic.
 

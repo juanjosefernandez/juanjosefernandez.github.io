@@ -12,6 +12,7 @@ categories:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2011/11/cartoon-studies-small.jpg
 ---
+<!--more-->
 
 ![](http://fernandezjuanjose.files.wordpress.com/2011/11/cartoon-studies-small.jpg)**CCS HERE I COME!**
 

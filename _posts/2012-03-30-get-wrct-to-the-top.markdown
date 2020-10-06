@@ -16,6 +16,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/03/wrct-spinning1.gif
 Shameless self-promotion:
 
 Your favorite freeform radio station [WRCT Pittsburgh](http://www.wrct.org/) has been duking it out with the finest non-commercial radio stations from around the world these past two weeks. We've been participating in [Soundtap.com's Madness](http://soundtap.com/madness) competition. A march madness style competition between noncommercial radio stations.
+<!--more-->
 
 We've been advancing round by round thanks to the support of our regular listeners and now we're about to be in the final four. Nevertheless, if WRCT is to come out victorious in the next round, we need your help. [Help us out by listening in](http://soundtap.com/madness) and discover some new music along the way!
 

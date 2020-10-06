@@ -25,6 +25,7 @@ _This article was co-written with [Simon Reinhardt.](http://www.simonreinhardt.
 __![image](http://media.tumblr.com/2871780c364f96027771bc098a51e459/tumblr_inline_mlsrjhIC7w1qz4rgp.jpg)
 
 This past weekend a couple of us from [Dog City ](http://www.dogcitypress.com)trekked down from Vermont to Pittsburgh, PA for the [Drawing Power](http://drawingpower.tumblr.com/) conference at the Carnegie Museum of Art.
+<!--more-->
 
 The museum setting established a wonderful tone for the conference. It was a breath of fresh air to go to an intimate event with such a clear focus on discussing comics.
 

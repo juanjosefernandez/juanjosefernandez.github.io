@@ -23,6 +23,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/love1.jpeg
 > 
 > 
 </blockquote>
+<!--more-->
 
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/02/love1.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/02/love1.jpeg)

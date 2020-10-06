@@ -17,6 +17,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/12/photo-on-12-5-12-at-
 I've finished all of the screen printing for the CCS anthology! **Now to buckle down and finish the comics! **
 
 Take a gander a the lovely little bellyband that we've made for the 11 minicomics. That's right, it's going to be a wearable communicator!
+<!--more-->
 
 ![Photo on 12-5-12 at 12.03 AM #4](http://fernandezjuanjose.files.wordpress.com/2012/12/photo-on-12-5-12-at-12-03-am-4.jpg)
 

@@ -20,6 +20,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Color_icon_red.
 > 
 > 
 </blockquote>
+<!--more-->
 
 
 Wilfred Santiago talks a bit with Eric Buckler at the Comics Journal. It's a short, but interesting little interview. [Check it out.](http://www.tcj.com/its-obvious-you-cant-fuck-with-cartoons-a-wilfred-santiago-interview/)

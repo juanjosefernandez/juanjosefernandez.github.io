@@ -12,6 +12,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/manatee-shirt_41.jpe
 ---
 
 Every spring, WRCT has a spring staff t-shirt designed by a staff member. The shirts get submitted and then all of the staff votes. There's a friend of mine that loves manatees, so I thought that this would be appropriate.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/manatee-shirt_41.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/04/manatee-shirt_41.jpeg)
 

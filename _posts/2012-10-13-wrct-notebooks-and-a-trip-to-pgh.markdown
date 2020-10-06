@@ -19,6 +19,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/10/341448_4594131779641
 ---
 
 I christen this the beginning of an era of regular updates.
+<!--more-->
 
 As y'all already know, I love [WRCT](http://www.wrct.org/). It's a place of good music and good people. Two things, that, more often than not, are hard to come by.
 

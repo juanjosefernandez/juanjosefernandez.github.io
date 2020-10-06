@@ -16,6 +16,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/11/hubert-preview.png
 ---
 
 As I promised on Monday, my magician story is complete. Unfortunately, I'm not letting you read **Hubert the Magician** just yet. Forgive me for being shy, but it's not ready for your discerning eyes!
+<!--more-->
 
 In spite of my shyness, I'll let you take a peek at a couple of the panels from the comic. (oh yeah, forgot to mention: I ENDED UP PENCILING. LIKE A WEAKLING.)
 

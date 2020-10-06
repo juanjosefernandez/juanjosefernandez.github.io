@@ -12,6 +12,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/brain.jpg
 ---
 
 I thought that I'd share these little illustrations have been made for CMU's newspaper the Tartan. Nothing fancy, just trying to make some solid looking illustrations to go along with the articles.
+<!--more-->
 
 In case you were interested, the subjects were: Music and the brain, Taste buds, CMU's email system(Squirrel Mail), the spread of false information through social media, and the hazards of hookah.
 

@@ -15,6 +15,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/abstract-for-tartan-
 ---
 
 Here's some quick, Bleck inspired movement. Nothing fancy.
+<!--more-->
 
 The cinematographic effect is pretty simple: Hover then zoom. I'm wrapping up my time at Carnegie Mellon , so I'm tied up with many a things, but know, good readers, that when I want a break and something optimistic to think about, I think about what cool things I can share with you! Thought I'd share this little playful bit.
 

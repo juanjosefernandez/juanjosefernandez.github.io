@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/doc-martins.jpeg
 ---
 
 A while back, Gene Fama put together some essays online that explore the process of effective comics production. I found this courtesy of Ed Piskor's blog. The process section that I found particularly interesting was [on coloring](http://www.fama.net/Process__Chapter_6/Process__Chapter_7/Process__Chapter_8/process__chapter_8.html). I would certainly argue that unless making art comix or anything avant garde as a commercial illustrator, your best bet is to respect the principles that Fama puts forward.
+<!--more-->
 
 Truth betold, No one wants to see [the Incal](http://en.wikipedia.org/wiki/The_Incal) recolored nor does it ever need to be. ([Before ](http://www.funnybookbabylon.com/wp-content/uploads/2008/10/incal_city_or.jpg)- [After](http://www.funnybookbabylon.com/wp-content/uploads/2008/10/incal_city_re.jpg))
 

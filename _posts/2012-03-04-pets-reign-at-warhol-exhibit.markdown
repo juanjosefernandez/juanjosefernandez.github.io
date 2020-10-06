@@ -13,9 +13,8 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_dgr_01_1998-1-202.jpg
 ---
 
-
-
 Thanks to a recent partnership between the Andy Warhol Museum and the Carnegie Museum of Natural History, fans of cats, dogs, and Andy Warhol can experience Warhol’s 1976 ode to man’s faithful companions: the _Dogs and Cats_ print series.
+<!--more-->
 
 Together, the museums have dedicated the space just preceding the Benedum Hall of Geology in the Carnegie Museum of Natural History to exhibiting Warhol’s varied print work. _Dogs and Cats_ is the second exhibit to be held in this space. It follows another exhibit that displayed Warhol’s prints of endangered species. The collaborative effort to put together _Dogs and Cats_ was organized by Natural History director Sam Taylor and Warhol director Eric Shiner.[![](http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_dgr_01_1998-1-202.jpg)](http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_dgr_01_1998-1-202.jpg)
 

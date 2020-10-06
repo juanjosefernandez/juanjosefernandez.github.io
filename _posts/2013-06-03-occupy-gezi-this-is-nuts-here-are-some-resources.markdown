@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/06/picture-2.png
 I normally don't post non-comics related things, but this is important.
 
 A helpful note my American friend shared. Her friend Hannah, who's currently living in Istanbul wrote this:
+<!--more-->
 
 Dear friends from afar,
 Most of you have probably gotten wind of what's going on in Turkey due to the explosion of international media coverage of the events of the past few days. For those of you who want to learn more and may not know where to start, I've consolidated a list of recommended readings/viewings, which you can find below. It's so important that the international community stay informed about what's happening in Turkey so we can find creative and effective ways to demonstrate our solidarity for the protesters here from near and far!

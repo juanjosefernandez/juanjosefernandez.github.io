@@ -14,6 +14,8 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/bannedbook.jpeg
 ---
 
 You know the drill. Here are some recent drawings that have gone in CMU's newspaper. They look great on newsprint.
+<!--more-->
+
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/bannedbook.jpeg)](http://fernandezjuanjose.files.wordpress.com/2012/04/bannedbook.jpeg)
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/easter.png)](http://fernandezjuanjose.files.wordpress.com/2012/04/easter.png)

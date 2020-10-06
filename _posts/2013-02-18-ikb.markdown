@@ -16,7 +16,9 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/02/2-ikb_final.gif
 ---
 
-This comic was produced for the Time Parcel Service anthology in the Winter of 2012. This story is about one of my favorite anecdotal stories in the life of [Yves Klein](http://en.wikipedia.org/wiki/Yves_Klein).
+This comic was produced for the Time Parcel Service anthology in the Winter of 2012. 
+This story is about one of my favorite anecdotal stories in the life of [Yves Klein](http://en.wikipedia.org/wiki/Yves_Klein).<!--more-->
+
 [![Cover](http://fernandezjuanjose.files.wordpress.com/2013/02/cover.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/cover.gif)![1_ikb_final](http://fernandezjuanjose.files.wordpress.com/2013/02/1_ikb_final.gif)
 
 [![2-ikb_final](http://fernandezjuanjose.files.wordpress.com/2013/02/2-ikb_final.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/2-ikb_final.gif)

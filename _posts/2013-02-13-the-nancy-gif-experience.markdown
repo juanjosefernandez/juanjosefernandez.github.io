@@ -20,6 +20,8 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mi3hwvijcx1s5
 A fellow CCS student and friend, [Luke Healy](http://www.lukewhealy.com), and I have started putting together a collection of Nancy gifs that channel our love for Bushmiller's world. We've just started, but we hope to go far!
 
 Here are some peeks at the animations that you can find at the [Nancy Gif Experience.](http://thenancygifexperience.tumblr.com/)
+<!--more-->
+
 
 [![tumblr_mi3hwvIjcx1s5zj6uo1_400](http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mi3hwvijcx1s5zj6uo1_400.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mi3hwvijcx1s5zj6uo1_400.gif) [![tumblr_mhzs7pWGXC1s5zj6uo1_250](http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mhzs7pwgxc1s5zj6uo1_250.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mhzs7pwgxc1s5zj6uo1_250.gif) [![tumblr_mi37uvUy3l1s5zj6uo1_r1_500](http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mi37uvuy3l1s5zj6uo1_r1_500.gif)](http://fernandezjuanjose.files.wordpress.com/2013/02/tumblr_mi37uvuy3l1s5zj6uo1_r1_500.gif)
 

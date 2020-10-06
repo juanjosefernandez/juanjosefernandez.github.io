@@ -16,13 +16,13 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2013/07/1.gif
 ---
+I'm happy to announce that I've recently been writing for the Schulz Library [on their blog!](http://www.cartoonstudies.org/schulz/blog/) Feel free to [check out what I've been writing.](http://www.cartoonstudies.org/schulz/blog/author/fernandez/)
+<!--more-->
 
 [![_1](http://fernandezjuanjose.files.wordpress.com/2013/07/1.gif)](http://fernandezjuanjose.files.wordpress.com/2013/07/1.gif)
-I'm happy to announce that I've recently been writing for the Schulz Library [on their blog!](http://www.cartoonstudies.org/schulz/blog/) Feel free to [check out what I've been writing.](http://www.cartoonstudies.org/schulz/blog/author/fernandez/)
-
-![joshreadin](http://fernandezjuanjose.files.wordpress.com/2013/07/joshreadin.gif)
 
 Located in the historic Post Office building in White River Junction, the **Schulz Library** stands tall, amassing an incredible collection of **contemporary graphic novels,** out-of-print and rare collections of **gag cartoons**, classic **newspaper strips,** an extensive collection of **books about cartooning** – both academic and instructional and a one-of-a-kind collection of **handmade publications**! Thanks to generous donations from publishers, artists, and collectors the world over, the collection is abundant and unique.
+![joshreadin](http://fernandezjuanjose.files.wordpress.com/2013/07/joshreadin.gif)
 
 Given that the Library is so packed with zines, graphic novels, cartoon collections, and related ephemera, the blog allows the Library to share its enthusiasm for the incredible collection. Whether it's book reviews, descriptions of new arrivals, student essays, or just updates on the goings on of the Library, you'll find it on the Schulz Library Blog.
 

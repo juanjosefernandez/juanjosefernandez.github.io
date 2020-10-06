@@ -16,5 +16,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/06/flesh_pages_vertical
 Here's a look at new comic I made.
 
 Inspired by the work of [Warren Craighead](http://drawerdrawer.blogspot.com/), I'm trying loosen into a new way of drawing. Still pretty traditional in terms of figurative drawing, but I feel I'm moving somewhere new, ya know?
+<!--more-->
+
 
 [![flesh_pages_vertical](http://fernandezjuanjose.files.wordpress.com/2013/06/flesh_pages_vertical.gif)](http://fernandezjuanjose.files.wordpress.com/2013/06/flesh_pages_vertical.gif)

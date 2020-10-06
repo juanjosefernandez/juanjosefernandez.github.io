@@ -17,13 +17,9 @@ tags:
 old: true
 image: http://25.media.tumblr.com/33b08903a5e1872605a155defbaf65fe/tumblr_moloubmvhF1rc4waeo1_400.gif
 ---
-
-![](http://25.media.tumblr.com/33b08903a5e1872605a155defbaf65fe/tumblr_moloubmvhF1rc4waeo1_400.gif)
-
-
-
-
 Have you submitted comics to the [Andromeda Quarterly,](http://littletired.wordpress.com/whats-andromeda/) yet? If not, now’s your chance!
+<!--more-->
+![](http://25.media.tumblr.com/33b08903a5e1872605a155defbaf65fe/tumblr_moloubmvhF1rc4waeo1_400.gif)
 
 [Andromeda](https://www.facebook.com/pages/Andromeda-Quarterly/122087897831664?fref=ts) is a comics anthology based in Pittsburgh, PA. Published on a monthly occurrence for two years from 2010 to 2012, it’s now released on a quarterly basis.
 

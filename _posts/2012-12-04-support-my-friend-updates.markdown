@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/12/3-screen-shot-2012-1
 ---
 
 My friend, [Rachel Dukes](http://www.mixtapecomics.com/?page_id=6), is running an Indie Go Go Campaign to reprint some old work along with some brand spanking new comics. If you're a fan of Coffee, Cats or Comics you'll definitely want to check out her work. She's got a spritely line that sits on the page like a familiar friend. She warrants paying attention to.
+<!--more-->
 
 ![(3)-Screen-shot-2012-12-03-at-3.21](http://fernandezjuanjose.files.wordpress.com/2012/12/3-screen-shot-2012-12-03-at-3-21.gif)
 Have a gander at Coffee Cats to see if her work tickles your fancy. If it does, why not [help financially support her comics making endeavors?](http://www.indiegogo.com/coffeecats/x/1849935)[

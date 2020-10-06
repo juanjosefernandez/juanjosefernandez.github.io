@@ -15,8 +15,8 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/03/pillbox_-_hunt_libra
 
 ## Hunt Institute’s collection of plants and watercolors takes viewers on visual tour
 
-
 There are few things in life more delicate than wildflower blossoms and the soft splashes of watercolor on vellum.
+<!--more-->
 
 _Native Pennsylvania, A Wildflower Walk_, the newest exhibit at the Hunt Institute for Botanical Documentation, pairs the two wonders together to celebrate the historical intersection between the sciences and art in the world of botany.
 

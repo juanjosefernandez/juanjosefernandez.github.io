@@ -10,12 +10,12 @@ wordpress_id: 2526
 old: true
 image: http://i.imgur.com/Q7kZgN8.jpg
 ---
-
-![](http://i.imgur.com/Q7kZgN8.jpg)
-
 _I worked this all out last August, but it never made it online! Here are some thoughts I had after reflecting on a series of library workshops that I did at several branches of the Carnegie Library of Pittsburgh._
 
 I'd like to talk to you a little about doing comics workshops with teens. If you're like me, you can sometimes get a little bottled up in your art practice. You find yourself in artistic ruts that you just can't seem to get out of for weeks. You want to be writing, drawing, sequencing, but nothing comes...
+<!--more-->
+
+![](http://i.imgur.com/Q7kZgN8.jpg)
 
 One way that I've found to reinvigorate my personal art practice during times like that is to teach workshops with teens. In the longterm, working with their raw talents helps me to find new perspectives in my comics making practice. At the end of the day, they just want to have fun.
 

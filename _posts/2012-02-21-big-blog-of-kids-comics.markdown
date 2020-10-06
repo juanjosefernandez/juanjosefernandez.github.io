@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/02/friendlyghostcaspern
 ---
 
 I must be late to the game, seeing as how I just discovered the great repository of children's comics that Mykal Banta has put together. Truth be told, though, so long as I get to see these comics I'm happy to even be playing!
+<!--more-->
 
 Here's the stellar [Big Blog of Kid's Comics.](http://www.bigblogcomics.com/search?updated-max=2012-02-09T11:54:00-05:00&max-results=2) Visit the site for full stories scanned at great resolutions. If you're looking to tap into the bold aesthetics of mid-century comics, I can't imagine a better inexpensive way of doing so than checking out the site that Mykal Banta curates.
 

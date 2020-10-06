@@ -20,14 +20,11 @@ image: http://fernandezjuanjose.files.wordpress.com/2013/06/8553874_orig_cut.jpg
 
 _This article orginally appeared in [Dog City: Issue 1](http://www.dogcitypress.com/about)_
 
-
 ### _There's things you can't do with words and there's things you can't do with pictures, that's what's so exciting about the form._
-
-
-
 
 ### _It's constantly pressing against your limitations_.
 - Rachel Masilamani 2013
+<!--more-->
 
 
 A veteran self-publisher, Rachel Masilamani has been making comics in the United States since 1997. Her first comics collection, RPM Comics #1, received a grant from the Xeric Foundation and was named “Best Comic Book” by the Baltimore City Paper. Since then, her comics have appeared in _Meathaus_, _Street Runoff_, _Graphics Classics_, _The Indiana Review_, in other anthologies and in her own publications.

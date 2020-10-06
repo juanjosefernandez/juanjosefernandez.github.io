@@ -11,9 +11,11 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg
 ---
 
-[![](http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg)This weekend I'll be working on a 24 hour comic from Saturday until Sunday at the [Toonseum](http://en.wikipedia.org/wiki/The_ToonSeum) in Pittsburgh.
+This weekend I'll be working on a 24 hour comic from Saturday until Sunday at the [Toonseum](http://en.wikipedia.org/wiki/The_ToonSeum) in Pittsburgh.
 
 I've been thinking about what to do and one of my goals is to create a work that has a loose, fast and expressive ink style. That might or might not happen.
+<!--more-->
+[![](http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg)](http://fernandezjuanjose.files.wordpress.com/2011/09/5751705076_0b11451296_b.jpg)
 
 I'll probably stick to a uniform frame format, so as to not have to reinvent the wheel on every page, given last year's failure. I had some lofty aspirations that weren't. Nevertheless, despite those lofty aspirations,  when I went back to work on the comic a week later, the ideas in the work simply weren't strong enough for me to continue investing time. It was great as an exploratory work, but a failure in any and all other respects.
 

@@ -13,9 +13,10 @@ old: true
 image: http://fernandezjuanjose.files.wordpress.com/2011/09/jon-mcnaught_01.jpg
 ---
 
-I’d like to think that I’m as full of gripes about cartooning as Crumb, Spiegelman and Brunetti, but I’m miles away from being the self deprecating curmudgeon that seems to be the norm in the world of cartoonists.
+I’d like to think that I’m as full of gripes about cartooning as Crumb, Spiegelman and Brunetti, but I’m always going to be miles away from being the self deprecating curmudgeon that seems to be the norm in the world of cartoonists.
 
-Interestingly, the cartoonists I’ve met are quite different. Here in the United States, cartoonists get ecstatic when they meet someone that treats doodled images and words as seriously as they do.  The unabashed excitement that spills onto booths and tables at conferences like APE and SPX can attest to this.  Me? Well I’m a little reserved, and would rather just show someone my work than hype it up. But of course, some cartoonists are like that.<!-- more -->
+Interestingly, the cartoonists I’ve met are quite different. Here in the United States, cartoonists get ecstatic when they meet someone that treats doodled images and words as seriously as they do.  The unabashed excitement that spills onto booths and tables at conferences like APE and SPX can attest to this.  Me? Well I’m a little reserved, and would rather just show someone my work than hype it up. But of course, some cartoonists are like that.
+<!--more-->
 
 Today, with self-publishing as serious and respected means of existence as any other for cartoonists, the world of comics has changed significantly. Artists are finally telling the stories that they’ve been meaning to tell for so long. And why not? It’s taken long enough. I’m part of that world and I’ve been trying to figure out what that means. More specifically, with my own comics and my study of the work of others, I’ve been trying to pin down what it is that cartoonists do. What is their craft? What is it about them that makes their storytelling unique. I may not have much, but for the moment being this is what I’ve got.
 

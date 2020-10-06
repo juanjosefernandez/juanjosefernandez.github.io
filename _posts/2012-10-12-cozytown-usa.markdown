@@ -19,5 +19,6 @@ tags:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2012/10/cozytownusa2.gif
 ---
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/10/cozytownusa2.gif)](http://fernandezjuanjose.files.wordpress.com/2012/10/cozytownusa2.gif)

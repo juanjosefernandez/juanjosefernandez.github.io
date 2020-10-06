@@ -14,6 +14,7 @@ image: http://fernandezjuanjose.files.wordpress.com/2012/04/tumblr_m23aujky9w1qb
 ---
 
 [Charles Forsman](http://charlesforsman.com/), of [Snake Oil](http://charlesforsman.com/comics/snake-oil-4/) and the [Oily Boutique](http://oilyboutique.bigcartel.com/) had a dream. It was a good dream.
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2012/04/tumblr_m23aujky9w1qb9x4so1_500.jpeg)](http://muster-list.com/)
 

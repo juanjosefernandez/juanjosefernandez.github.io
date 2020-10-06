@@ -13,5 +13,6 @@ categories:
 old: true
 image: http://fernandezjuanjose.files.wordpress.com/2011/09/play.jpeg
 ---
+<!--more-->
 
 [![](http://fernandezjuanjose.files.wordpress.com/2011/09/play.jpeg?w=595)](http://fernandezjuanjose.files.wordpress.com/2011/09/play.jpeg)
