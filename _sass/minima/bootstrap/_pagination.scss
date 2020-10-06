@@ -1,5 +1,10 @@
+
+.pagination-section{
+  width: 200px;
+}
 .pagination {
   display: flex;
+  max-width: 50%;
   @include list-unstyled();
   @include border-radius();
 }
