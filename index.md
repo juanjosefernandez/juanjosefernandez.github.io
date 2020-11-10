@@ -5,9 +5,14 @@ layout: home
 ---
 <h1>Hello!</h1>
 
- I'm an artist and full-stack developer who loves Ruby on Rails.
+ I'm an artist and full-stack developer who loves teaching comics making and composition.
 
 >This site is the digital confluence of a lot of things I do: comics making, writing, coding, theory-crafting, and teaching. Make yourself comfortable and dig in wherever you like. It's nice to have you here.
+
+<div class="d-flex justify-content-start flex-wrap">
+<a href="/comics-coaching"><button type="button" class="btn btn-info mr-2 mb-1">Comics Coaching</button></a>
+<a href="/contact"><button type="button" class="btn btn-warning mr-2 mb-1">Contact Me</button></a>
+</div>
 
 🧠 I have a deep interest in communication, art, systems design, comics and community development. I love building great applications, solving puzzles, and making people smile. [(Learn more about me)](/about).❤️
 
