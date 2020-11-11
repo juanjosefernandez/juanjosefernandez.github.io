@@ -31,7 +31,18 @@ permalink: /contact/
     <div class="form-group">
         <label for="inputMessage">Message:</label>
         <textarea name="message" class="form-control" id="inputMessage" rows = "5" required="required"></textarea>
-      </div>
+    </div>
+    <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 <img src="/assets/images/neurotrash-01.png" alt="" class="bar covered">
+
+<script>
+  grecaptcha.ready(function() {
+      grecaptcha.execute('6Leb2OEZAAAAAM4WDB1sxyO1epW_mvwk-EHHOgUK', {action: 'homepage'})
+      .then(function(token) {
+        document.getElementById('captchaResponse').value = token;
+      });
+    });
+</script>
