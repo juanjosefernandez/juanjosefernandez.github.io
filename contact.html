@@ -8,7 +8,7 @@ permalink: /contact/
         height: 20px;
     }
 </style>
-<form accept-charset="UTF-8" action="https://getform.io/f/68ec0a63-429b-4b6e-8d9f-e7ab346ae5fd" method="POST" enctype="multipart/form-data">
+<form accept-charset="UTF-8" action="https://getform.io/f/6Lcu2-EZAAAAACSuDEA2awKWWYuqDL2BTwa44EEY" method="POST" enctype="multipart/form-data">
   <div class="form-group">
     <label for="Subject">I'd like to talk to you about...</label>
     <select class="form-control" id="Subject" name="subject" required="required">
@@ -32,17 +32,9 @@ permalink: /contact/
         <label for="inputMessage">Message:</label>
         <textarea name="message" class="form-control" id="inputMessage" rows = "5" required="required"></textarea>
     </div>
-    <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+    <div class="g-recaptcha" data-sitekey="6Lcu2-EZAAAAACSuDEA2awKWWYuqDL2BTwa44EEY"></div>
 
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 <img src="/assets/images/neurotrash-01.png" alt="" class="bar covered">
 
-<script>
-  grecaptcha.ready(function() {
-      grecaptcha.execute('6Leb2OEZAAAAAM4WDB1sxyO1epW_mvwk-EHHOgUK', {action: 'homepage'})
-      .then(function(token) {
-        document.getElementById('captchaResponse').value = token;
-      });
-    });
-</script>
