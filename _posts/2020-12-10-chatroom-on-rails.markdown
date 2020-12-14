@@ -25,7 +25,7 @@ music: Harold Budd - Templar
     background: linear-gradient(to top, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     }
 </style>
-I recently built a simple, user friendly chat room done as an excercise for a potential employer to learn how to utilize WebSockets to perform communication via Ruby on Rails’ ActionCable using Rails 6 and Ruby 2.7. 
+I recently built a simple, user friendly chat room to learn how to utilize WebSockets to perform communication via Ruby on Rails’ ActionCable using Rails 6 and Ruby 2.7. 
 
 **Why focus on learning how to use ActionCable?** Well, someday soon, I would like to create collaborative drawing and comics composition tools that allow users to work on the same canvas realtime to do that I predict I'll have to engage with Websockets and ActionCable is how Rails engages with Websockets!
 
