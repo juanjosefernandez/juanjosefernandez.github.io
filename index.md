@@ -10,7 +10,7 @@ layout: home
 >This site is the digital confluence of a lot of things I do: comics making, writing, coding, theory-crafting, and teaching. Make yourself comfortable and dig in wherever you like. It's nice to have you here.
 
 <div class="d-flex justify-content-start flex-wrap">
-<a href="/comics-coaching"><button type="button" class="btn btn-info mr-2 mb-1">Comics Coaching</button></a>
+<a href="/comics-coaching"><button type="button" class="btn btn-info mr-2 mb-1">Comics Classes</button></a>
 <a href="/contact"><button type="button" class="btn btn-warning mr-2 mb-1">Contact Me</button></a>
 </div>
 
