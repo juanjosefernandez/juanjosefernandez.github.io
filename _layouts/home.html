@@ -19,11 +19,10 @@ layout: default
 </div>
 
 <img src="/assets/images/neurotrash-01.png" alt="" class="bar covered">
-<img src="/assets/images/neurotrash-01.png" alt="" class="bar covered">
 
   <ul class="post-list">
 <!-- post list -->
-{% for post in paginator.posts limit:3 %}
+{% for post in site.posts limit:3 %}
 <li class="row">
   <div class="col-3">
     {%- if post.image -%}
