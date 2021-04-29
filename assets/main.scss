@@ -129,9 +129,19 @@ footer {
     margin: 10px;
 }
 
-
 .blogpost-preview{
     height: 100%;
     width: 100%;
     object-fit: cover;
 }
+
+.youtube{
+    width: 700px;
+    height: 480px;
+}
+
+@media only screen and (max-width: 700px) {
+    .youtube{
+        width: 100%;
+    }
+  }
