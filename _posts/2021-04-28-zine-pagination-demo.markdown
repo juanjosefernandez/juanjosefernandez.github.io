@@ -28,7 +28,7 @@ youtubeId: emI9Trroq9g
 
 This video tutorial is a simple demonstration of the pagination for a 16 page zine. This process can scale up to as many pages as you need for your zine. *For this demo I'm using Excalidraw in Roam Research.*
 
-*As a note, I recommend using the file name convention: **zine_name_page#_page#.format** - with the pages appearing as you see them in this diagram. This is so you have an easy reference in the file name of whatever program you use ❤️*
+*As a note, I recommend using the file name convention, **zine_name_page#_page#.format** - with the pages appearing as you see them in this diagram. This is so you have an easy reference in the file name of whatever program you use ❤️*
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
