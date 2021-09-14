@@ -7,13 +7,16 @@ date:   2021-09-10 01:34:51 -0400
 categories: blog    
 image: /assets/images/IMG_1348.jpeg
 vertical: Code
-excerpt:  this is a test...
+excerpt: Oh god, what a year it's been. This is me just beaming out a signal to this space to see if I can get it to the receiver...
 # excerpt_separator: "<!--more-->"
-summary: This post is a test.
+summary: Oh god, what a year it's been. This is me just beaming out a signal to this space to see if I can get it to the receiver...
 music: Trauermusik - Partial Arts
 ---
-Oh god, what a year it's been. This is me just beaming out a signal to this space to see if I can get it to complete...
-The thoughts are swirling but struggling to coalesce into language. Here are some images for now.
+Oh god, what a year it's been. This is me just beaming out a signal to this space to see if I can get it to the receiver...
+
+The thoughts are swirling but struggling to coalesce into shareable language. 
+
+Here are some images for now.
 ![](/assets/images/acotbs/65309334110__DCC7A0EE-35DC-4A9C-8BC5-317626446DAB.jpeg)
 ![](/assets/images/acotbs/IMG_0935.jpeg)
 ![](/assets/images/acotbs/IMG_0939.PNG)
