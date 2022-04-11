@@ -28,11 +28,12 @@ Uses feedburner.google.com
 ### Additional Content
 - [ ] add coding proficiencies in about section
 - [ ] Add posts from Instagram that had considerable writing or worthwhile images.
-- [ ] My Arts Education Statement - use the one from MCAD with edits
 - [ ] Something that aggreagates all my comics teaching posts via category
 - [ ] Create a page that documents the history of the Dog City Press Project
 - [ ] Photograph all boxes and books for this post
 - [ ] Add scans of old comics as blog posts (SNAKES/Whirligiggler/Senior Thesis at CCS)
+
+### Integrate With Obsidian...
 
 **Personal Reference**
 # Categories for posts on this site #
