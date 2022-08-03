@@ -5,7 +5,7 @@ layout: home
 ---
 <h1>Hello!</h1>
 
- I'm an artist and full-stack developer who loves teaching comics making and composition.
+ I'm an artist & full-stack developer who loves teaching comics making and composition.
 
 >This site is the digital confluence of a lot of things I do: comics making, writing, coding, theory-crafting, and teaching. Make yourself comfortable and dig in wherever you like. It's nice to have you here.
 
